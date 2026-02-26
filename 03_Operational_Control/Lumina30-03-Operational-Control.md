@@ -1,3 +1,4 @@
+````text
 ◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆
 [Notion Metadata]
 フォルダ名: 03_Mathematical_Supplement（数理補足層）
@@ -214,3 +215,4 @@ Policy, ethical, and institutional implications belong entirely to separate doma
 Released into the Public Domain (CC0).
 
 ◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆
+````
