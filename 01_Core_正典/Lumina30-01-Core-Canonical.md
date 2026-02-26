@@ -1,3 +1,4 @@
+```text
 ◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆
 [Notion Metadata]
 フォルダ名: 01_Core_Canonical（正典）
