@@ -1,3 +1,4 @@
+````text
 ◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆
 [Notion Metadata]
 フォルダ名: 02_Structural_Governance（制度・審査層）
@@ -564,3 +565,4 @@ No rights are reserved.
 ### End
 
 ◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆
+````
