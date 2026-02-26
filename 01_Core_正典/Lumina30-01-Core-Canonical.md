@@ -1,4 +1,4 @@
-```text
+````text
 ◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆
 [Notion Metadata]
 フォルダ名: 01_Core_Canonical（正典）
@@ -1575,4 +1575,4 @@ This note is structurally consistent with the execution control framework descri
 ### (ここまで / End of document）
 
 ◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆
-```
+````
