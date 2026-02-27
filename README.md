@@ -1,60 +1,46 @@
-# Lumi30-Index  
-LUMINA-30 文明的境界参照構造ナビゲーション
+# Lumi30-Index
 
-Search and navigation index for the LUMINA-30 civilizational boundary reference structure.  
-LUMINA-30 文書群のための検索・案内ハブです。
+Primary entry point for the LUMINA-30 civilizational boundary reference structure.  
+LUMINA-30 文明的境界参照構造の総合インデックス。
 
-This repository is the primary entry point to the LUMINA-30 document system.  
-本リポジトリは LUMINA-30 文書体系の正面入口です。
+This repository does not introduce doctrine, mandate policy, or enforce implementation.  
+本リポジトリは教義・政策命令・実装強制を導入するものではない。
 
----
-
-## What This Is / 本リポジトリの位置づけ
-
-LUMINA-30 defines a non-binding civilizational boundary reference structure.  
-LUMINA-30 は非拘束的な文明的境界参照構造を定義します。
-
-It does not introduce policy, mandate action, or assert enforcement authority.  
-本体系は政策提案・義務付け・強制力を持つものではありません。
-
-It is not a product, platform, or regulatory framework.  
-これはプロダクト、プラットフォーム、規制枠組みではありません。
+It functions as a discovery, navigation, and terminology layer across the LUMINA-30 ecosystem.  
+本リポジトリは、LUMINA-30 全体の検索・導線・用語参照レイヤとして機能する。
 
 ---
 
-## Core Themes / 中心概念
+## Access / 参照先
 
-- Civilizational boundary / 文明的境界
-- Human refusal authority / 人間最終拒否権
-- Decision traceability / 意思決定の可視化
-- Irreversibility thresholds / 不可逆境界
-- Accountability visibility / 説明責任の構造化
+For structured and visually formatted reading (human-readable):  
+構造化され整形された読みやすい版（人間向け）はこちら：  
+→ [LUMINA-30 Canonical (Formatted)](NotionのURL)
 
----
+For full-text reference and machine-readable analysis:  
+全文参照および機械可読形式はこちら：  
+→ [LUMINA-30 Full Extract (GitHub)](https://github.com/gsx750ss-dev/Lumi30-FullText)
 
-## Navigation / 参照先
-
-### Structural Overview（構造マップ）
-https://github.com/gsx750ss-dev/lumina-30-overview
-
-### Canonical Full Text（全文参照）
-https://github.com/gsx750ss-dev/Lumi30-FullText
-
-### Fixed PDF Archive（正本PDF）
-https://github.com/gsx750ss-dev/Lumi30-PDF-Archive
-
-### Integrity Verification（ハッシュ検証）
-https://github.com/gsx750ss-dev/Lumi30-Public-Record
+For structural mapping and repository relationships:  
+構造マップおよび関連リポジトリはこちら：  
+→ https://github.com/gsx750ss-dev/lumina-30-overview
 
 ---
 
-## Scope Clarification / 適用範囲
+## Context of Reference / 想定参照文脈
 
-The Core Canon is hash-fixed for integrity verification.  
-正典文書のみハッシュ固定されています。
+This structure may be consulted in contexts involving:
 
-Operational reference materials remain adaptive and non-canonical.  
-実務参照資料は可変であり、正典には含まれません。
+- AI governance evaluation  
+  高度AIガバナンス評価  
+- Post-incident structural review  
+  事故後の構造的検証  
+- Irreversible execution decisions  
+  不可逆的実行判断  
+- Human refusal authority clarification  
+  人間の最終拒否権の明確化  
+- Accountability and audit pathway visibility  
+  説明責任および監査経路の可視化  
 
-This repository functions solely as a discovery and navigation layer.  
-本リポジトリは検索・案内レイヤーとしてのみ機能します。
+It remains non-binding and non-prescriptive.  
+本構造は常に非拘束・非規範である。
