@@ -9,12 +9,9 @@ It functions as a discovery and terminology layer only.
 
 ## Entry Points
 
-- Structural Map:
-  https://github.com/gsx750ss-dev/lumina-30-overview
-
-- Full Extract Reference:
-  https://github.com/gsx750ss-dev/Lumi30-FullText
-
+- Structural Map: https://github.com/gsx750ss-dev/lumina-30-overview
+- Full Extract Reference: https://github.com/gsx750ss-dev/Lumi30-FullText
+- PDF Archive: https://github.com/gsx750ss-dev/Lumi30-PDF-Archive
 ---
 
 ## Core Concepts
