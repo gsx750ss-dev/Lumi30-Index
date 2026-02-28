@@ -35,6 +35,7 @@ For structural mapping and repository relationships:
 Research Context / 学術的文脈
 Research positioning and academic contextual mapping for LUMINA-30.  
 LUMINA-30 の学術的位置づけおよび研究文脈との接続を示す参照レイヤ。
+
 → https://github.com/gsx750ss-dev/Lumi30-Research-Context
 
 ---
