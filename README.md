@@ -3,6 +3,9 @@
 Primary entry point for the LUMINA-30 civilizational boundary reference structure.  
 LUMINA-30 文明的境界参照構造の総合インデックス。
 
+Designed for structural reference during AI governance evaluation and post-incident stabilization involving irreversible consequences.  
+不可逆的結果を伴うAIガバナンス評価および事故後安定化時の構造参照を想定。
+
 This repository does not introduce doctrine, mandate policy, or enforce implementation.  
 本リポジトリは教義・政策命令・実装強制を導入するものではない。
 
