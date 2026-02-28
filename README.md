@@ -15,7 +15,9 @@ It functions as a discovery, navigation, and terminology layer across the LUMINA
 
 For structured and visually formatted reading (human-readable):  
 構造化され整形された読みやすい版（人間向け）はこちら：  
-→ [LUMINA-30 Canonical (Formatted)](NotionのURL)
+→ [LUMINA-30 聖域憲章（Sanctuary Charter）](https://peppermint-sprint-2d5.notion.site/LUMINA-30-2d61e0720ec88078bbe6e51c1aa4e5f2)
+→ [SUP LUMINA-30 聖域憲章](https://peppermint-sprint-2d5.notion.site/SUP-LUMINA-30-2f01e0720ec88080b2a4cb336c2fd8be)
+→ [SUP LUMINA-30 Sanctuary Charter](https://peppermint-sprint-2d5.notion.site/SUP-LUMINA-30-Sanctuary-Charter-2f01e0720ec88004aad7fba8848f7dac)
 
 For full-text reference and machine-readable analysis:  
 全文参照および機械可読形式はこちら：  
