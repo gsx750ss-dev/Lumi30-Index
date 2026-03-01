@@ -1,59 +1,99 @@
-# Lumi30-Index
+# LUMINA-30
 
-Primary entry point for the LUMINA-30 civilizational boundary reference structure.  
-LUMINA-30 文明的境界参照構造の総合インデックス。
+LUMINA-30 is a non-binding civilizational boundary reference framework  
+designed to preserve human final refusal authority  
+in contexts involving recursively self-modifying AI systems.
 
-Designed for structural reference during AI governance evaluation and post-incident stabilization involving irreversible consequences.  
-不可逆的結果を伴うAIガバナンス評価および事故後安定化時の構造参照を想定。
-
-This repository does not introduce doctrine, mandate policy, or enforce implementation.  
-本リポジトリは教義・政策命令・実装強制を導入するものではない。
-
-It functions as a discovery, navigation, and terminology layer across the LUMINA-30 ecosystem.  
-本リポジトリは、LUMINA-30 全体の検索・導線・用語参照レイヤとして機能する。
+LUMINA-30 は、  
+再帰的自己再構築型AIにおける  
+人間の最終拒否権を可視化・保持するための  
+非拘束的文明境界参照構造である。
 
 ---
 
-## Access / 参照先
+## What This Is / 本構造の位置づけ
 
-For structured and visually formatted reading (human-readable):  
-構造化され整形された読みやすい版（人間向け）はこちら：  
-→ [LUMINA-30 聖域憲章（Sanctuary Charter）](https://peppermint-sprint-2d5.notion.site/LUMINA-30-2d61e0720ec88078bbe6e51c1aa4e5f2)
+This is not a software implementation project.  
+It is structured documentation intended for boundary evaluation,  
+governance review, and post-incident stabilization reference.
 
-→ [SUP LUMINA-30 聖域憲章（Supplementary Canon・Japanese）](https://peppermint-sprint-2d5.notion.site/SUP-LUMINA-30-2f01e0720ec88080b2a4cb336c2fd8be)
+本リポジトリはソフトウェア実装プロジェクトではない。  
+境界評価、ガバナンス検証、事故後安定化時の参照を目的とする  
+構造化文書体系である。
 
-→ [SUP LUMINA-30 Sanctuary Charter（Supplementary Canon・English）](https://peppermint-sprint-2d5.notion.site/SUP-LUMINA-30-Sanctuary-Charter-2f01e0720ec88004aad7fba8848f7dac)
-
-For full-text reference and machine-readable analysis:  
-全文参照および機械可読形式はこちら：  
-→ [LUMINA-30 Full Extract (GitHub)](https://github.com/gsx750ss-dev/Lumi30-FullText)
-
-For structural mapping and repository relationships:  
-構造マップおよび関連リポジトリはこちら：  
-→ https://github.com/gsx750ss-dev/lumina-30-overview
-
-Research Context / 学術的文脈
-Research positioning and academic contextual mapping for LUMINA-30.  
-LUMINA-30 の学術的位置づけおよび研究文脈との接続を示す参照レイヤ。
-
-→ https://github.com/gsx750ss-dev/Lumi30-Research-Context
+It does not mandate policy, enforce implementation, or prescribe outcomes.  
+政策命令・実装強制・結果の規定を行わない。
 
 ---
 
-## Context of Reference / 想定参照文脈
+## Intended Situational Use / 想定参照場面
 
-This structure may be consulted in contexts involving:
+- AI governance evaluation involving irreversible consequences  
+- 不可逆的結果を伴うAIガバナンス評価  
 
-- AI governance evaluation  
-  高度AIガバナンス評価  
-- Post-incident structural review  
-  事故後の構造的検証  
-- Irreversible execution decisions  
-  不可逆的実行判断  
-- Human refusal authority clarification  
-  人間の最終拒否権の明確化  
-- Accountability and audit pathway visibility  
-  説明責任および監査経路の可視化  
+- High-impact autonomous deployment review  
+- 高影響自律システム展開時の検証  
 
-It remains non-binding and non-prescriptive.  
-本構造は常に非拘束・非規範である。
+- Post-incident stabilization reference (e.g., first 48 hours)  
+- 事故後初動安定化（例：48時間）参照  
+
+---
+
+## Document Structure / 文書構造
+
+LUMINA-30 consists of the following layers:
+
+LUMINA-30 は以下の層から構成される：
+
+1. Core Canonical (Sanctuary Charter)  
+   正典（聖域憲章）
+
+2. Institutional Layer  
+   制度思想補助層
+
+3. Operational Control Layer  
+   実行制御層
+
+4. Supplementary Canon (Non-Acceleration Principle)  
+   補助正典（加速非目的化原則）
+
+5. Mediation / Translation Layer  
+   媒介翻訳層
+
+6. Public Record & Integrity Layer  
+   公開記録・整合性層
+
+7. Incident Stabilization Reference (48H)  
+   48時間即時参照層
+
+---
+
+## Read the Complete Text / 全文参照
+
+Canonical & Supplementary full text (GitHub):  
+正典および補助文書全文（GitHub版）：
+
+→ https://github.com/gsx750ss-dev/Lumi30-FullText  
+
+Official fixed PDF archive:  
+公式固定PDFアーカイブ：
+
+→ https://github.com/gsx750ss-dev/Lumi30-PDF-Archive  
+
+Research positioning & academic context:  
+研究的位置づけ・学術接続層：
+
+→ https://github.com/gsx750ss-dev/Lumi30-Research-Context  
+
+---
+
+## Structural Nature / 構造的性質
+
+This repository intentionally contains minimal executable code.  
+Its purpose is structural documentation and boundary clarification.
+
+本リポジトリは意図的に実行コードを最小化している。  
+目的は実装ではなく、境界構造の明示にある。
+
+LUMINA-30 remains descriptive, non-directive, and non-binding.  
+LUMINA-30 は記述的構造であり、指示的・拘束的ではない。
