@@ -1,5 +1,29 @@
 # LUMINA-30
+---
 
+# Primary Entry Points / 主要導線
+
+## Research Preprint (Archived)
+
+**Pre-Critical Recursive Cutoff (PCR-C)**  
+*A Staged Infrastructure Control Framework for Irreversibility Risk*
+
+DOI: https://doi.org/10.5281/zenodo.18824181  
+License: CC BY 4.0
+
+### English
+
+PCR-C defines a staged infrastructure control framework addressing irreversibility risk in advanced and recursively self-improving AI systems. It introduces a structural model for preserving effective human refusal authority prior to irreversible execution thresholds.
+
+This preprint is independently archived via Zenodo and serves as a research-layer articulation related to LUMINA-30.
+
+### 日本語
+
+PCR-Cは、高度かつ再帰的自己改変能力を持つAIシステムにおける不可逆化リスクを対象とした段階的インフラ制御フレームワークを提示する研究論文である。
+
+不可逆的実行閾値に到達する前に実効的な人間の拒否権を保持するための構造モデルを定義し、LUMINA-30に関連する研究レイヤーとして独立アーカイブされている。
+
+---
 LUMINA-30 is a non-binding civilizational boundary reference framework  
 designed to preserve human final refusal authority  
 in contexts involving recursively self-modifying AI systems.
