@@ -1,4 +1,4 @@
-# LUMINA-30
+﻿# LUMINA-30
 ---
 
 # Primary Entry Points / 主要導線
@@ -97,17 +97,17 @@ LUMINA-30 は以下の層から構成される：
 Canonical & Supplementary full text (GitHub):  
 正典および補助文書全文（GitHub版）：
 
-→ https://github.com/gsx750ss-dev/Lumi30-FullText  
+→ https://github.com/lumina-30/Lumi30-FullText  
 
 Official fixed PDF archive:  
 公式固定PDFアーカイブ：
 
-→ https://github.com/gsx750ss-dev/Lumi30-PDF-Archive  
+→ https://github.com/lumina-30/Lumi30-PDF-Archive  
 
 Research positioning & academic context:  
 研究的位置づけ・学術接続層：
 
-→ https://github.com/gsx750ss-dev/Lumi30-Research-Context  
+→ https://github.com/lumina-30/Lumi30-Research-Context  
 
 ---
 
@@ -121,3 +121,4 @@ Its purpose is structural documentation and boundary clarification.
 
 LUMINA-30 remains descriptive, non-directive, and non-binding.  
 LUMINA-30 は記述的構造であり、指示的・拘束的ではない。
+

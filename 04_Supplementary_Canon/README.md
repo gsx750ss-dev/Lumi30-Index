@@ -1,4 +1,4 @@
-````text
+﻿````text
 ◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆
 [Notion Metadata]
 フォルダ名: 04_Supplementary_Canon（補助正典）
@@ -519,7 +519,7 @@ External reference (GitHub):
 
 LUMINA-30 public reference repository
 
-https://github.com/gsx750ss-dev/LUMINA-30
+https://github.com/lumina-30/LUMINA-30
 
 This document preserves, in language, the ethical preconditions required to ensure that
 
@@ -857,3 +857,4 @@ please contact:
 
 ◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆
 ````
+
