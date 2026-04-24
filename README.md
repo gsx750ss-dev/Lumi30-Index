@@ -1,4 +1,4 @@
-﻿# LUMINA-30
+# LUMINA-30
 ---
 
 # Primary Entry Points / 主要導線
@@ -107,7 +107,7 @@ Official fixed PDF archive:
 Research positioning & academic context:  
 研究的位置づけ・学術接続層：
 
-→ https://github.com/lumina-30/Lumi30-Research-Context  
+→ https://github.com/lumina-30/lumina30-incident-review/blob/main/reference/Research_Landscape_Mapping.md  
 
 ---
 
@@ -121,4 +121,3 @@ Its purpose is structural documentation and boundary clarification.
 
 LUMINA-30 remains descriptive, non-directive, and non-binding.  
 LUMINA-30 は記述的構造であり、指示的・拘束的ではない。
-
