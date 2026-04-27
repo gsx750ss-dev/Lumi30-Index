@@ -69,6 +69,41 @@ LUMINA-30 is organized as a reference network. Use the links below by purpose, n
 
 LUMINA-30 は参照ネットワークとして構成される。内部repo順ではなく、目的別に下記リンクを使う。
 
+
+### Repository Role Map and Search Terms / repo役割表と検索語
+
+This table is a maintenance reference for keeping GitHub repository descriptions, README summaries, and citation routes aligned. It does not change repository order or create a new layer.
+
+この表は、GitHubのrepo説明文、README要約、引用導線を揃えるための保守用参照である。repo順や新しいレイヤーを作るものではない。
+
+| Repository | Primary role | Suggested public description |
+|---|---|---|
+| `lumina-30-overview` | Conceptual and visual entry | Conceptual overview and visual navigation for the LUMINA-30 boundary reference framework. |
+| `Lumi30-Index` | Whole-network index | Primary index for navigating the LUMINA-30 repository network by purpose. |
+| `LUMINA-30` | Core boundary reference | Core non-binding boundary reference for human refusal authority before irreversibility. |
+| `Lumi30-FullText` | Full-text reference | Consolidated full-text reference for canonical and supplementary LUMINA-30 materials. |
+| `lumina30-incident-review` | Practical incident review hub | Practical boundary-check and incident-review templates for post-incident analysis. |
+| `lumina30-public-reference` | Public citation entry | Compact public-facing citation and discovery route into LUMINA-30. |
+| `Lumi30-Public-Record` | Fixed record integrity | Integrity and hash reference for fixed public canonical records. |
+| `Lumi30-PDF-Archive` | Stable PDF archive | Stable PDF archive for fixed distribution, preservation, and offline reference. |
+| `ai-accountability-reference` | Accountability language | Neutral accountability and responsibility-continuity language for review contexts. |
+| `institutional-friction-toolkit` | Failure-to-stop analysis | Reference tools for failure-to-stop, override breakdown, and procedural invalidity analysis. |
+| `stop-authority-reference` | Stop/refusal authority term anchor | Compact definition anchor for stop authority, refusal authority, and pre-irreversibility interruption. |
+| `lumina-30-structure-map` | Structural map | Structural map showing how LUMINA-30 repositories relate to one another. |
+| `.github` | Organization profile | Public organization profile and repository discovery surface. |
+
+Recommended search and citation terms should remain natural and non-promotional:
+
+- LUMINA-30
+- human refusal authority
+- irreversible AI autonomy
+- pre-irreversibility review
+- AI incident review
+- boundary reference framework
+- L30-BAS
+- procedural invalidity
+- effective human refusal
+
 ### Quick Routing / 目的別の最短導線
 
 - **First-time overview / 初見の概要確認**  
@@ -146,3 +181,5 @@ Its purpose is structural documentation and boundary clarification.
 
 LUMINA-30 remains descriptive, non-directive, and non-binding.  
 LUMINA-30 は記述的構造であり、指示的・拘束的ではない。
+
+
