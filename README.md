@@ -11,6 +11,22 @@ LUMINA-30は、AIの不可逆的影響前に人間の拒否権が実効的に残
 
 ---
 
+## Non-Certification Notice / 非認証注記
+
+EN:  
+This repository is a navigation and reference index only.  
+It does not define certification, compliance status, approval status, institutional authorization, or any binding standard.
+
+Historical, extracted, or local-context terms such as "standard", "approval", "authorization", or "policy pilot" must not be used to claim that any system, organization, document, or implementation is certified, approved, compliant, endorsed, or authorized by LUMINA-30.
+
+JP:  
+本リポジトリは、参照導線および索引用のリポジトリである。  
+認証、準拠状態、承認状態、制度的認可、拘束的標準を定義しない。
+
+過去抽出本文または局所文脈に含まれる "standard", "approval", "authorization", "policy pilot" 等の語は、いかなるシステム・組織・文書・実装についても、LUMINA-30による認証・承認・準拠・支持・認可を主張するために使用してはならない。
+
+---
+
 # Primary Entry Points / 主要導線
 
 ## Research Preprint (Archived)
