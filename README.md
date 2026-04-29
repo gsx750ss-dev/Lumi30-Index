@@ -29,6 +29,32 @@ JP:
 
 # Primary Entry Points / 主要導線
 
+
+## Repository Entry Gate / repo入口制御
+
+This index is a navigation map, not the recommended first-reading path.  
+First-time readers should choose one of the following three routes before browsing the full repository network.
+
+| Purpose | Start here |
+|---|---|
+| Understand LUMINA-30 | [Conceptual Overview ｜ 概念概要](https://github.com/lumina-30/lumina-30-overview) |
+| Review an AI incident or boundary failure | [Incident Review Hub ｜ 事故レビュー入口](https://github.com/lumina-30/lumina30-incident-review) |
+| Cite, verify, or find stable public references | [Public Reference ｜ 公開参照](https://github.com/lumina-30/lumina30-public-reference) |
+
+Full repository mapping should be used only after the intended route is clear.
+
+本Indexはナビゲーション地図であり、初見向けの推奨読書順ではありません。  
+初見読者は、全repoネットワークを見る前に、以下の3経路から目的に合う入口を選んでください。
+
+| 目的 | 入口 |
+|---|---|
+| LUMINA-30を理解する | [Conceptual Overview ｜ 概念概要](https://github.com/lumina-30/lumina-30-overview) |
+| AI事故・境界失効をレビューする | [Incident Review Hub ｜ 事故レビュー入口](https://github.com/lumina-30/lumina30-incident-review) |
+| 引用・検証・安定した公開参照を探す | [Public Reference ｜ 公開参照](https://github.com/lumina-30/lumina30-public-reference) |
+
+全repo対応表は、目的が明確になった後に参照してください。
+
+
 ## Research Preprint (Archived)
 
 **Pre-Critical Recursive Cutoff (PCR-C)**  
@@ -94,6 +120,13 @@ It does not mandate policy, enforce implementation, or prescribe outcomes.
 LUMINA-30 is organized as a reference network. Use the links below by purpose, not by internal repository order.
 
 LUMINA-30 は参照ネットワークとして構成される。内部repo順ではなく、目的別に下記リンクを使う。
+
+
+The repository count reflects preservation, citation, and role separation.  
+It does not mean that a reader must inspect every repository.
+
+repo数は、保存・引用・役割分離のための構成を反映している。  
+読者が全repoを確認する必要がある、という意味ではない。
 
 
 ### Repository Role Map and Search Terms / repo役割表と検索語
@@ -207,7 +240,3 @@ Its purpose is structural documentation and boundary clarification.
 
 LUMINA-30 remains descriptive, non-directive, and non-binding.  
 LUMINA-30 は記述的構造であり、指示的・拘束的ではない。
-
-
-
-
