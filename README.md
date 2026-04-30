@@ -207,6 +207,19 @@ Recommended search and citation terms should remain natural and non-promotional:
   Stable PDF archive for preservation and offline distribution.  
   保存とオフライン配布のための固定PDFアーカイブ。
 
+
+  [External Visibility Tracking](https://github.com/lumina-30/lumina30-public-reference/blob/main/observability/External_Visibility_Tracking.md)  
+  Defines how GitHub, Zenodo, DOI / DataCite, arXiv proxy evidence, and external references should be observed without overclaiming adoption.  
+  GitHub、Zenodo、DOI / DataCite、arXiv代替観測、外部参照を、採用実績と過剰主張せずに観測するための文書。
+
+  [Visibility Snapshot Template](https://github.com/lumina-30/lumina30-public-reference/blob/main/observability/LUMINA30_Visibility_Snapshot_Template.md)  
+  Periodic snapshot template for recording external visibility evidence.  
+  外部可視性の証拠を定期記録するためのスナップショット・テンプレート。
+
+  [Visibility Collection Script](https://github.com/lumina-30/lumina30-public-reference/blob/main/tools/collect_lumina30_visibility.ps1)  
+  Local PowerShell helper for collecting GitHub traffic and DataCite DOI-event signals where available.  
+  GitHub traffic と DataCite DOI event の取得を補助するローカルPowerShellスクリプト。
+
 - **Repository structure map / repo構造確認**  
   [lumina-30-structure-map / 構造マップ](https://github.com/lumina-30/lumina-30-structure-map)  
   Structural navigation aid for understanding how the repositories relate to one another.  
