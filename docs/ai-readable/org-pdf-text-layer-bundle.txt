@@ -1,6 +1,6 @@
 LUMINA-30 Organization PDF Text Layer Bundle
 This file is generated automatically. Do not edit by hand.
-Generated: 2026-05-01T16:06:38Z
+Generated: 2026-05-01T19:48:36Z
 Organization: lumina-30
 
 Authority:
@@ -20,9 +20,9 @@ Unchanged PDFs reuse cached extracted text when possible; only new or changed PD
 
 Run statistics:
 PDFs seen: 54
-Reused unchanged: 0
+Reused unchanged: 54
 Reused renamed same blob: 0
-Downloaded/extracted: 54
+Downloaded/extracted: 0
 Skipped too large: 0
 Download errors: 0
 
@@ -37,7 +37,7 @@ PDF URL: https://github.com/lumina-30/Lumi30-PDF-Archive/blob/main/LUMINA-30_Ext
 Git blob SHA: a295fad90e55514d683bc858b4400c697a76a485
 SHA256: ab7dc660574172eead3246547178592c0076a388ac89df625e4d2cee1c2471c4
 Status: OCR_REQUIRED
-Cache action: EXTRACTED_NEW_OR_CHANGED
+Cache action: REUSED_UNCHANGED
 Size bytes: 669671
 Page count: 6
 Extracted characters: 0
@@ -71,7 +71,7 @@ PDF URL: https://github.com/lumina-30/Lumi30-PDF-Archive/blob/main/LUMINA-30_Irr
 Git blob SHA: a99ad992ea4a5d4d47eb1d23dd83115830b64903
 SHA256: 2b32c0781f373b747eab13befe0a9b6fbf158a609e4fa08fb0b6e4fc7592e3b6
 Status: EXTRACTED_TEXT
-Cache action: EXTRACTED_NEW_OR_CHANGED
+Cache action: REUSED_UNCHANGED
 Size bytes: 23989
 Page count: 1
 Extracted characters: 1772
@@ -128,7 +128,7 @@ PDF URL: https://github.com/lumina-30/Lumi30-PDF-Archive/blob/main/LUMINA-30_Irr
 Git blob SHA: ddaaed4f9bf3bdd31706712f863283b8e99603cd
 SHA256: b5c8ec9e54472fa063e9fab622a7428e2f4b9fa57d5ff9e0e9b8f4af426939dc
 Status: EXTRACTED_TEXT
-Cache action: EXTRACTED_NEW_OR_CHANGED
+Cache action: REUSED_UNCHANGED
 Size bytes: 4702
 Page count: 1
 Extracted characters: 827
@@ -184,7 +184,7 @@ PDF URL: https://github.com/lumina-30/Lumi30-PDF-Archive/blob/main/LUMINA-30_Mat
 Git blob SHA: 9ad277a22c8e29ab67c5e3e7eedf98d2088921c9
 SHA256: 826b7d94cc2f1a5cfd3b3f0d13d83bbab68cd726297dd8d14fabd1971c0a9f9c
 Status: EXTRACTED_TEXT
-Cache action: EXTRACTED_NEW_OR_CHANGED
+Cache action: REUSED_UNCHANGED
 Size bytes: 35231
 Page count: 4
 Extracted characters: 3789
@@ -308,7 +308,7 @@ PDF URL: https://github.com/lumina-30/Lumi30-PDF-Archive/blob/main/LUMINA-30_Mat
 Git blob SHA: 11738cb141e3dacf7c7a50cc0c1edc5a435170e9
 SHA256: a791379910bbd8b2a96fea8d06e97e751fcd975f1e0532415ea9ac211e1347e3
 Status: EXTRACTED_TEXT
-Cache action: EXTRACTED_NEW_OR_CHANGED
+Cache action: REUSED_UNCHANGED
 Size bytes: 122796
 Page count: 4
 Extracted characters: 1631
@@ -421,7 +421,7 @@ PDF URL: https://github.com/lumina-30/Lumi30-PDF-Archive/blob/main/LUMINA-30_Non
 Git blob SHA: 42a2115579b1b103991a3dcad79e84eaf014655f
 SHA256: 4622b6eb0007b138a209e2b904dbaf3570669ca77cff6268533a966f7cd24ba8
 Status: OCR_REQUIRED
-Cache action: EXTRACTED_NEW_OR_CHANGED
+Cache action: REUSED_UNCHANGED
 Size bytes: 464739
 Page count: 4
 Extracted characters: 0
@@ -449,7 +449,7 @@ PDF URL: https://github.com/lumina-30/Lumi30-PDF-Archive/blob/main/LUMINA-30_Not
 Git blob SHA: 116a6d0e8e225c89cf639f10f8fc6703659b265d
 SHA256: ecf59c2b2c6efcf1ada48ad8cf9b9b59c389ec2ce596429e8807fa0b6e5b23cd
 Status: OCR_REQUIRED
-Cache action: EXTRACTED_NEW_OR_CHANGED
+Cache action: REUSED_UNCHANGED
 Size bytes: 521790
 Page count: 4
 Extracted characters: 0
@@ -477,7 +477,7 @@ PDF URL: https://github.com/lumina-30/Lumi30-PDF-Archive/blob/main/LUMINA-30_Rev
 Git blob SHA: 939c97d33d3896725b46a427fc7399b0c473238f
 SHA256: ed0c213e9989580a9bb816c127bbd2904e42d85550cbda3ae4e0efe31230b663
 Status: EXTRACTED_TEXT
-Cache action: EXTRACTED_NEW_OR_CHANGED
+Cache action: REUSED_UNCHANGED
 Size bytes: 548364
 Page count: 8
 Extracted characters: 7615
@@ -747,7 +747,7 @@ PDF URL: https://github.com/lumina-30/Lumi30-PDF-Archive/blob/main/LUMINA-30_San
 Git blob SHA: ec15c1f327394fd42342611c9f28ae8e3f819b5f
 SHA256: 6ac961bfe3acbecc9078996f2298c7f9f94f4211cc7e633e133e49c3303f6a1d
 Status: OCR_REQUIRED
-Cache action: EXTRACTED_NEW_OR_CHANGED
+Cache action: REUSED_UNCHANGED
 Size bytes: 2938994
 Page count: 19
 Extracted characters: 0
@@ -820,7 +820,7 @@ PDF URL: https://github.com/lumina-30/Lumi30-PDF-Archive/blob/main/LUMINA-30_SUP
 Git blob SHA: 2ccf6ca6e0abde6071d1d068e876db0152a0a682
 SHA256: 9de32910e22a9298d94f22c7a36d5356742fff6eb21e5abe00757c18a51e013a
 Status: EXTRACTED_TEXT
-Cache action: EXTRACTED_NEW_OR_CHANGED
+Cache action: REUSED_UNCHANGED
 Size bytes: 538749
 Page count: 4
 Extracted characters: 3249
@@ -938,7 +938,7 @@ PDF URL: https://github.com/lumina-30/Lumi30-PDF-Archive/blob/main/LUMINA-30_SUP
 Git blob SHA: 37c98d3f73ec15e4060b66f1ccca9996bb6478c8
 SHA256: 003332d93f6aa859a8b51c47a8916669570fa767e97480c542ef1aa8707275fd
 Status: EXTRACTED_TEXT
-Cache action: EXTRACTED_NEW_OR_CHANGED
+Cache action: REUSED_UNCHANGED
 Size bytes: 230582
 Page count: 7
 Extracted characters: 9325
@@ -1169,7 +1169,7 @@ PDF URL: https://github.com/lumina-30/Lumi30-PDF-Archive/blob/main/LUMINA-30_SUP
 Git blob SHA: cce365957cf5421e5a049e16d3261c75916b4299
 SHA256: 8363b89cef800c763bf62a3875741d480964b1d2620c889bbd2ab12046ab2f32
 Status: EXTRACTED_TEXT
-Cache action: EXTRACTED_NEW_OR_CHANGED
+Cache action: REUSED_UNCHANGED
 Size bytes: 321077
 Page count: 8
 Extracted characters: 4252
@@ -1436,7 +1436,7 @@ PDF URL: https://github.com/lumina-30/Lumi30-PDF-Archive/blob/main/On_the_Struct
 Git blob SHA: e941c7cf2e30065706a84b714037287d1d2354be
 SHA256: 9ccda9b27548dcc355f25daff975892608fa6abf0ac2a193191fc7347f1be622
 Status: EXTRACTED_TEXT
-Cache action: EXTRACTED_NEW_OR_CHANGED
+Cache action: REUSED_UNCHANGED
 Size bytes: 288510
 Page count: 7
 Extracted characters: 18707
@@ -1739,7 +1739,7 @@ PDF URL: https://github.com/lumina-30/lumina-30-overview/blob/main/docs/LUMINA-3
 Git blob SHA: 4700103c286071b0e7a2151aed9c4c71cceaf0bf
 SHA256: 86b6dc4c62a89b080eaa891bcc047516577283bd70f2d45c3b9302bc970bbe50
 Status: EXTRACTED_TEXT
-Cache action: EXTRACTED_NEW_OR_CHANGED
+Cache action: REUSED_UNCHANGED
 Size bytes: 288207
 Page count: 10
 Extracted characters: 9520
@@ -2026,7 +2026,7 @@ PDF URL: https://github.com/lumina-30/lumina-30-overview/blob/main/figures/EN_S0
 Git blob SHA: 73be9c21e94f1c936c5fff02aff0bd3515497f29
 SHA256: 74118309f571d0f03895d4e4a2b37afee2c960ddf72178710066f3899ad72b8c
 Status: OCR_REQUIRED
-Cache action: EXTRACTED_NEW_OR_CHANGED
+Cache action: REUSED_UNCHANGED
 Size bytes: 744857
 Page count: 10
 Extracted characters: 0
@@ -2072,7 +2072,7 @@ PDF URL: https://github.com/lumina-30/lumina-30-overview/blob/main/figures/EN_S0
 Git blob SHA: 4e83867bd8b2f489a07cdffd7eafff21bcc4b179
 SHA256: 4d246e3c73b6d1a3d1a693672bed97d376ffd0088266864cc02366497b007b6e
 Status: OCR_REQUIRED
-Cache action: EXTRACTED_NEW_OR_CHANGED
+Cache action: REUSED_UNCHANGED
 Size bytes: 7265059
 Page count: 10
 Extracted characters: 0
@@ -2118,7 +2118,7 @@ PDF URL: https://github.com/lumina-30/lumina-30-overview/blob/main/figures/EN_S0
 Git blob SHA: 59a9ee052742553f7de23b4acecac2f970e688ca
 SHA256: 069e4bb09ef36745b31b71ec20e401d70464b41c96e79d09ef60632a51e4479d
 Status: OCR_REQUIRED
-Cache action: EXTRACTED_NEW_OR_CHANGED
+Cache action: REUSED_UNCHANGED
 Size bytes: 4408337
 Page count: 10
 Extracted characters: 0
@@ -2164,7 +2164,7 @@ PDF URL: https://github.com/lumina-30/lumina-30-overview/blob/main/figures/EN_S0
 Git blob SHA: 0b85edb2da006088d43c5ee63d596c433a8af8b5
 SHA256: e9bb86a2a9dfc243d3b56cb90cdaacc97cc2583db523b8ed2c91fdf46c09afb1
 Status: OCR_REQUIRED
-Cache action: EXTRACTED_NEW_OR_CHANGED
+Cache action: REUSED_UNCHANGED
 Size bytes: 8279325
 Page count: 10
 Extracted characters: 0
@@ -2210,7 +2210,7 @@ PDF URL: https://github.com/lumina-30/lumina-30-overview/blob/main/figures/EN_S0
 Git blob SHA: 40a1b1433836d5e6e7e980a58dfc3e6809cdfd1f
 SHA256: 5039612c84056d16bb2e6bd7277ed5e53ed36194124f217c96491a56074f5033
 Status: OCR_REQUIRED
-Cache action: EXTRACTED_NEW_OR_CHANGED
+Cache action: REUSED_UNCHANGED
 Size bytes: 267450
 Page count: 6
 Extracted characters: 0
@@ -2244,7 +2244,7 @@ PDF URL: https://github.com/lumina-30/lumina-30-overview/blob/main/figures/JP_S0
 Git blob SHA: bc185cee1349381be4d281652fde782d5acc92b6
 SHA256: 731b9429bfe8b4f4b241b1c6454033bb8ab49bbaeedca9c2724b1ca3c363cabe
 Status: OCR_REQUIRED
-Cache action: EXTRACTED_NEW_OR_CHANGED
+Cache action: REUSED_UNCHANGED
 Size bytes: 611415
 Page count: 10
 Extracted characters: 0
@@ -2290,7 +2290,7 @@ PDF URL: https://github.com/lumina-30/lumina-30-overview/blob/main/figures/JP_S0
 Git blob SHA: 2db8717583326db210f86e0c76a72de2a0a4dbf6
 SHA256: 4ed8ad865929a858fe4125be8aeb2e2f6d75f9e1a34562b75b9d4c4afc0aa5fb
 Status: OCR_REQUIRED
-Cache action: EXTRACTED_NEW_OR_CHANGED
+Cache action: REUSED_UNCHANGED
 Size bytes: 5344838
 Page count: 10
 Extracted characters: 0
@@ -2336,7 +2336,7 @@ PDF URL: https://github.com/lumina-30/lumina-30-overview/blob/main/figures/JP_S0
 Git blob SHA: 61ca77d2d96e8ab07116be131e30438bd9cfaa1f
 SHA256: 011c3549f66431f3120dbf2804096c98a690bfbfdb51c906119f44c1cb071570
 Status: OCR_REQUIRED
-Cache action: EXTRACTED_NEW_OR_CHANGED
+Cache action: REUSED_UNCHANGED
 Size bytes: 4974664
 Page count: 10
 Extracted characters: 0
@@ -2382,7 +2382,7 @@ PDF URL: https://github.com/lumina-30/lumina-30-overview/blob/main/figures/JP_S0
 Git blob SHA: 51cec480bad0e595311d4f0efb4b5e2512472a14
 SHA256: da84fa6870866418988e6ee2845797201b5ca69df2df1b64b03bf2740aad4042
 Status: OCR_REQUIRED
-Cache action: EXTRACTED_NEW_OR_CHANGED
+Cache action: REUSED_UNCHANGED
 Size bytes: 7193116
 Page count: 10
 Extracted characters: 0
@@ -2428,7 +2428,7 @@ PDF URL: https://github.com/lumina-30/lumina-30-overview/blob/main/figures/JP_S0
 Git blob SHA: e80d3459162dcc33a8ef13b2f119157690451b83
 SHA256: 53cde066f40da858196cc029e6902c31414515c5ecdc92b7f6d8e05718484ea7
 Status: OCR_REQUIRED
-Cache action: EXTRACTED_NEW_OR_CHANGED
+Cache action: REUSED_UNCHANGED
 Size bytes: 287947
 Page count: 6
 Extracted characters: 0
@@ -2462,7 +2462,7 @@ PDF URL: https://github.com/lumina-30/lumina-30-overview/blob/main/slides/EN_S01
 Git blob SHA: 73be9c21e94f1c936c5fff02aff0bd3515497f29
 SHA256: 74118309f571d0f03895d4e4a2b37afee2c960ddf72178710066f3899ad72b8c
 Status: OCR_REQUIRED
-Cache action: EXTRACTED_NEW_OR_CHANGED
+Cache action: REUSED_UNCHANGED
 Size bytes: 744857
 Page count: 10
 Extracted characters: 0
@@ -2508,7 +2508,7 @@ PDF URL: https://github.com/lumina-30/lumina-30-overview/blob/main/slides/EN_S02
 Git blob SHA: 5504f592265bfcb80007f3d8d65bc78ef89ecaf2
 SHA256: 283da15d195f98faefa6e3e467200a0c885bac7a02fa3e1b3e038decbc26292b
 Status: OCR_REQUIRED
-Cache action: EXTRACTED_NEW_OR_CHANGED
+Cache action: REUSED_UNCHANGED
 Size bytes: 5353307
 Page count: 10
 Extracted characters: 0
@@ -2554,7 +2554,7 @@ PDF URL: https://github.com/lumina-30/lumina-30-overview/blob/main/slides/EN_S03
 Git blob SHA: 73817abcbce4b8be86481a47fc8b8aed92dcb428
 SHA256: 9a6328473f4cc06c30f3b57617a67f2d92e67d1d253a534a9c3f19d451c2b5b0
 Status: OCR_REQUIRED
-Cache action: EXTRACTED_NEW_OR_CHANGED
+Cache action: REUSED_UNCHANGED
 Size bytes: 774292
 Page count: 10
 Extracted characters: 0
@@ -2600,7 +2600,7 @@ PDF URL: https://github.com/lumina-30/lumina-30-overview/blob/main/slides/EN_S04
 Git blob SHA: 5e884b970c4d8b351fd0fa9def6f59480dd53607
 SHA256: 4d94f7b20d7cb079a0567934f60c34a5ff19d3f6115658951b11007ea4da971e
 Status: OCR_REQUIRED
-Cache action: EXTRACTED_NEW_OR_CHANGED
+Cache action: REUSED_UNCHANGED
 Size bytes: 4210167
 Page count: 10
 Extracted characters: 0
@@ -2646,7 +2646,7 @@ PDF URL: https://github.com/lumina-30/lumina-30-overview/blob/main/slides/EN_S05
 Git blob SHA: 40a1b1433836d5e6e7e980a58dfc3e6809cdfd1f
 SHA256: 5039612c84056d16bb2e6bd7277ed5e53ed36194124f217c96491a56074f5033
 Status: OCR_REQUIRED
-Cache action: EXTRACTED_NEW_OR_CHANGED
+Cache action: REUSED_UNCHANGED
 Size bytes: 267450
 Page count: 6
 Extracted characters: 0
@@ -2680,7 +2680,7 @@ PDF URL: https://github.com/lumina-30/lumina-30-overview/blob/main/slides/EN_S50
 Git blob SHA: 0eb5f39fe8b3313277d6053444bf9a1a2df83259
 SHA256: efb4abeec3062fe8bc384c0fb39ced7d9941d4e7c985abca5f9ac65fe7f98056
 Status: OCR_REQUIRED
-Cache action: EXTRACTED_NEW_OR_CHANGED
+Cache action: REUSED_UNCHANGED
 Size bytes: 6816658
 Page count: 20
 Extracted characters: 0
@@ -2756,7 +2756,7 @@ PDF URL: https://github.com/lumina-30/lumina-30-overview/blob/main/slides/EN_S51
 Git blob SHA: 688d050412696f540e3021b85bf9d1fefd17ae83
 SHA256: b74420352535f5b0b4999e7e544954aa672c2e1feaa56dc125ac1df6856fbebf
 Status: OCR_REQUIRED
-Cache action: EXTRACTED_NEW_OR_CHANGED
+Cache action: REUSED_UNCHANGED
 Size bytes: 4219281
 Page count: 18
 Extracted characters: 0
@@ -2826,7 +2826,7 @@ PDF URL: https://github.com/lumina-30/lumina-30-overview/blob/main/slides/EN_S52
 Git blob SHA: 7fc92b25544b8690a9ab7ae7f4baeb574c0874f7
 SHA256: 6f78f9ae7541d49763a13d1f331b3901e3af25907589d520c291dffafcae0755
 Status: OCR_REQUIRED
-Cache action: EXTRACTED_NEW_OR_CHANGED
+Cache action: REUSED_UNCHANGED
 Size bytes: 3703049
 Page count: 14
 Extracted characters: 0
@@ -2884,7 +2884,7 @@ PDF URL: https://github.com/lumina-30/lumina-30-overview/blob/main/slides/JP_S01
 Git blob SHA: bc185cee1349381be4d281652fde782d5acc92b6
 SHA256: 731b9429bfe8b4f4b241b1c6454033bb8ab49bbaeedca9c2724b1ca3c363cabe
 Status: OCR_REQUIRED
-Cache action: EXTRACTED_NEW_OR_CHANGED
+Cache action: REUSED_UNCHANGED
 Size bytes: 611415
 Page count: 10
 Extracted characters: 0
@@ -2930,7 +2930,7 @@ PDF URL: https://github.com/lumina-30/lumina-30-overview/blob/main/slides/JP_S02
 Git blob SHA: 10e5b739d94f25336c9eb3c8f82a5a81a9311620
 SHA256: d2a59af78ce84d9ee100f7a9b4edc6d0ee01f88d08336bb410572de644f5f1d4
 Status: OCR_REQUIRED
-Cache action: EXTRACTED_NEW_OR_CHANGED
+Cache action: REUSED_UNCHANGED
 Size bytes: 5292473
 Page count: 10
 Extracted characters: 0
@@ -2976,7 +2976,7 @@ PDF URL: https://github.com/lumina-30/lumina-30-overview/blob/main/slides/JP_S03
 Git blob SHA: cd4813a3d673a5773709c628b7c29a34e6780df4
 SHA256: e9fc62c1ff21b4ebb045ba8c7e879d307e0db0b8dcf6391effd61e7231a92ef7
 Status: OCR_REQUIRED
-Cache action: EXTRACTED_NEW_OR_CHANGED
+Cache action: REUSED_UNCHANGED
 Size bytes: 3344047
 Page count: 10
 Extracted characters: 0
@@ -3022,7 +3022,7 @@ PDF URL: https://github.com/lumina-30/lumina-30-overview/blob/main/slides/JP_S04
 Git blob SHA: 6f025d2f3ca599aaa1b96ef207f3b05595f1fc97
 SHA256: 24f915b7e7c0c685499490a2d925a037be0f8bc3f1e7e4a4b24bf77eed65593e
 Status: OCR_REQUIRED
-Cache action: EXTRACTED_NEW_OR_CHANGED
+Cache action: REUSED_UNCHANGED
 Size bytes: 3574296
 Page count: 10
 Extracted characters: 0
@@ -3068,7 +3068,7 @@ PDF URL: https://github.com/lumina-30/lumina-30-overview/blob/main/slides/JP_S05
 Git blob SHA: e80d3459162dcc33a8ef13b2f119157690451b83
 SHA256: 53cde066f40da858196cc029e6902c31414515c5ecdc92b7f6d8e05718484ea7
 Status: OCR_REQUIRED
-Cache action: EXTRACTED_NEW_OR_CHANGED
+Cache action: REUSED_UNCHANGED
 Size bytes: 287947
 Page count: 6
 Extracted characters: 0
@@ -3102,7 +3102,7 @@ PDF URL: https://github.com/lumina-30/lumina-30-overview/blob/main/slides/JP_S50
 Git blob SHA: ca25a5feecd258d4a5395cbb8904d0ed94848cc4
 SHA256: c4e5919082bf729ff5b0976f79cce0af43cda1dced8d1e2dc831fa409925b86e
 Status: SLIDE_TEXT_LAYER
-Cache action: EXTRACTED_NEW_OR_CHANGED
+Cache action: REUSED_UNCHANGED
 Size bytes: 4832924
 Page count: 20
 Extracted characters: 881
@@ -3217,7 +3217,7 @@ PDF URL: https://github.com/lumina-30/lumina-30-overview/blob/main/slides/JP_S51
 Git blob SHA: e83493fd8aab4f515ac55d1c92b99fe56cd5b668
 SHA256: 3d08380499b5ade2167eb4003e3994b0692d5418748b8f21f4fac38b272f631d
 Status: OCR_REQUIRED
-Cache action: EXTRACTED_NEW_OR_CHANGED
+Cache action: REUSED_UNCHANGED
 Size bytes: 6431110
 Page count: 18
 Extracted characters: 0
@@ -3287,7 +3287,7 @@ PDF URL: https://github.com/lumina-30/lumina-30-overview/blob/main/slides/JP_S52
 Git blob SHA: 8d1ae505f7bc393e32f387f66462772b1955b322
 SHA256: bb7e805c496220e034bc4dc1e5afbc55b021295fddfcbf6d63596cb600701025
 Status: OCR_REQUIRED
-Cache action: EXTRACTED_NEW_OR_CHANGED
+Cache action: REUSED_UNCHANGED
 Size bytes: 3338002
 Page count: 15
 Extracted characters: 0
@@ -3348,7 +3348,7 @@ PDF URL: https://github.com/lumina-30/lumina-30-overview/blob/main/tools/EN_LUMI
 Git blob SHA: cd93130e3eac9c5cd7a37702339b89b553fbab78
 SHA256: 23843922c9f309c669ecd8d2d6acb10dd8fc9d8cf02e5a6509cffb0f6859ca62
 Status: EXTRACTED_TEXT
-Cache action: EXTRACTED_NEW_OR_CHANGED
+Cache action: REUSED_UNCHANGED
 Size bytes: 135328
 Page count: 6
 Extracted characters: 3397
@@ -3505,7 +3505,7 @@ PDF URL: https://github.com/lumina-30/lumina-30-overview/blob/main/tools/EN_LUMI
 Git blob SHA: fa9f3ca3e8d8928e0b5b2303c0755c9ac743d57c
 SHA256: f70e8aba29a15ae4037092785570200d717960f82bfa318cebf46dc730254f8a
 Status: EXTRACTED_TEXT
-Cache action: EXTRACTED_NEW_OR_CHANGED
+Cache action: REUSED_UNCHANGED
 Size bytes: 175387
 Page count: 3
 Extracted characters: 2274
@@ -3595,7 +3595,7 @@ PDF URL: https://github.com/lumina-30/lumina-30-overview/blob/main/tools/JP_LUMI
 Git blob SHA: b217ea49b73208f937e16077a3e48c8665e282a6
 SHA256: ad2de985deb4fd2dcb7705616703d848e6a10970d3bde6091569da9c6052fac0
 Status: EXTRACTED_TEXT
-Cache action: EXTRACTED_NEW_OR_CHANGED
+Cache action: REUSED_UNCHANGED
 Size bytes: 580100
 Page count: 6
 Extracted characters: 2220
@@ -3744,7 +3744,7 @@ PDF URL: https://github.com/lumina-30/lumina-30-overview/blob/main/tools/JP_LUMI
 Git blob SHA: 9765cfdb5d5ffc1827a14fee3e9418298c4ef494
 SHA256: 9f65c08abfe74f62a1611e1433cd97e8a8251bcde113daa586cba7b61e89bc7b
 Status: EXTRACTED_TEXT
-Cache action: EXTRACTED_NEW_OR_CHANGED
+Cache action: REUSED_UNCHANGED
 Size bytes: 141140
 Page count: 3
 Extracted characters: 1287
@@ -3832,7 +3832,7 @@ PDF URL: https://github.com/lumina-30/lumina-30-overview/blob/main/tools/l30-bas
 Git blob SHA: 020d15564bc18b3bb71754d533aca53959195c20
 SHA256: 5477f550b75dcfa518f39ba4e039c2adf40def703d689b82a967f7f9bed45192
 Status: EXTRACTED_TEXT
-Cache action: EXTRACTED_NEW_OR_CHANGED
+Cache action: REUSED_UNCHANGED
 Size bytes: 200553
 Page count: 16
 Extracted characters: 10770
@@ -4226,7 +4226,7 @@ PDF URL: https://github.com/lumina-30/lumina-30-overview/blob/main/tools/l30-bas
 Git blob SHA: 9342010e360f39795dfc9776c12e4f755f0a15e2
 SHA256: ced3c1861f883b266baa11623b3e737f34d547b768f52bbf2c9007abf3f20bc1
 Status: EXTRACTED_TEXT
-Cache action: EXTRACTED_NEW_OR_CHANGED
+Cache action: REUSED_UNCHANGED
 Size bytes: 68334
 Page count: 4
 Extracted characters: 2778
@@ -4353,7 +4353,7 @@ PDF URL: https://github.com/lumina-30/lumina-30-overview/blob/main/tools/l30-bas
 Git blob SHA: 7426e754c0ad41281c8f45f216002acf0c387187
 SHA256: 9ca88233f1e5edeaa959d6087f1c896b1a02ae6368d332938770fdb50e450063
 Status: EXTRACTED_TEXT
-Cache action: EXTRACTED_NEW_OR_CHANGED
+Cache action: REUSED_UNCHANGED
 Size bytes: 169033
 Page count: 11
 Extracted characters: 8593
@@ -4600,7 +4600,7 @@ PDF URL: https://github.com/lumina-30/lumina-30-overview/blob/main/tools/l30-bas
 Git blob SHA: b0bf61cb2456170db8191f3a4d5068026928f508
 SHA256: d3c314d0ffcd93702035f4ddd2447846f63ec24382dbf09a23c7e16f676908cf
 Status: EXTRACTED_TEXT
-Cache action: EXTRACTED_NEW_OR_CHANGED
+Cache action: REUSED_UNCHANGED
 Size bytes: 440923
 Page count: 16
 Extracted characters: 4542
@@ -4954,7 +4954,7 @@ PDF URL: https://github.com/lumina-30/lumina-30-overview/blob/main/tools/l30-bas
 Git blob SHA: ab45f5491ac69f1388592c54f1d536993d36c25f
 SHA256: e8d3f36a66408c826fcc95413095138d89ff0e48cca8300ce73094c73eb8dea7
 Status: EXTRACTED_TEXT
-Cache action: EXTRACTED_NEW_OR_CHANGED
+Cache action: REUSED_UNCHANGED
 Size bytes: 166825
 Page count: 3
 Extracted characters: 1377
@@ -5070,7 +5070,7 @@ PDF URL: https://github.com/lumina-30/lumina-30-overview/blob/main/tools/l30-bas
 Git blob SHA: 8f7f55c2b11d6363602593dfef90311c760753c7
 SHA256: 31bd39866f537513e134edbeaf5c2a7543bfe25553cb67bd4fc06b00a14eff14
 Status: EXTRACTED_TEXT
-Cache action: EXTRACTED_NEW_OR_CHANGED
+Cache action: REUSED_UNCHANGED
 Size bytes: 382911
 Page count: 11
 Extracted characters: 4109
@@ -5419,7 +5419,7 @@ PDF URL: https://github.com/lumina-30/lumina30-incident-review/blob/main/LUMINA-
 Git blob SHA: 7de401da0c9db737f36533c43c4072d83b6a4a3c
 SHA256: 18f9bd244e5ef8353d14d456c59840d4d8ab554c3737ac873c0bba5394a9ab8e
 Status: EXTRACTED_TEXT
-Cache action: EXTRACTED_NEW_OR_CHANGED
+Cache action: REUSED_UNCHANGED
 Size bytes: 132332
 Page count: 2
 Extracted characters: 3688
@@ -5521,7 +5521,7 @@ PDF URL: https://github.com/lumina-30/lumina30-incident-review/blob/main/LUMINA-
 Git blob SHA: c161b1d3dacfd25aa157b9d3abd3cdef92c5946d
 SHA256: 656fe06d9cccc2a2a9b77ec57b36efd77d62a10d4ef9a46cc298ee3538cf51f8
 Status: EXTRACTED_TEXT
-Cache action: EXTRACTED_NEW_OR_CHANGED
+Cache action: REUSED_UNCHANGED
 Size bytes: 136049
 Page count: 3
 Extracted characters: 3351
@@ -5643,7 +5643,7 @@ PDF URL: https://github.com/lumina-30/lumina30-incident-review/blob/main/LUMINA-
 Git blob SHA: ecfe9c2126495ec3764088027c80db007c76920c
 SHA256: 16ca5308301a64276b4a950bc3d155374674358533fadd336ccc12a745251170
 Status: EXTRACTED_TEXT
-Cache action: EXTRACTED_NEW_OR_CHANGED
+Cache action: REUSED_UNCHANGED
 Size bytes: 129967
 Page count: 2
 Extracted characters: 1799
@@ -5737,7 +5737,7 @@ PDF URL: https://github.com/lumina-30/lumina30-incident-review/blob/main/LUMINA-
 Git blob SHA: 3b802adcac95ceaf1205599683a5ef3f210cc046
 SHA256: b85c2f279b5cb0c21f07dde4692862946c6ccbf6e3bcf492738bf64664046ee7
 Status: EXTRACTED_TEXT
-Cache action: EXTRACTED_NEW_OR_CHANGED
+Cache action: REUSED_UNCHANGED
 Size bytes: 154858
 Page count: 3
 Extracted characters: 4941

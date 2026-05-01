@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-01T16:06:38Z",
+  "generated_at": "2026-05-01T19:48:36Z",
   "notice": "This file is generated automatically. Do not edit by hand.",
   "organization": "lumina-30",
   "scope": "public repositories visible to this workflow",
@@ -21,9 +21,9 @@
   "repository_errors_count": 0,
   "stats": {
     "pdfs_seen": 54,
-    "reused_unchanged": 0,
+    "reused_unchanged": 54,
     "reused_renamed_same_blob": 0,
-    "downloaded_or_extracted": 54,
+    "downloaded_or_extracted": 0,
     "skipped_too_large": 0,
     "download_errors": 0
   },
@@ -44,7 +44,7 @@
       "char_count": 0,
       "status": "OCR_REQUIRED",
       "error": null,
-      "cache_action": "EXTRACTED_NEW_OR_CHANGED"
+      "cache_action": "REUSED_UNCHANGED"
     },
     {
       "repository": "Lumi30-PDF-Archive",
@@ -62,7 +62,7 @@
       "char_count": 1772,
       "status": "EXTRACTED_TEXT",
       "error": null,
-      "cache_action": "EXTRACTED_NEW_OR_CHANGED"
+      "cache_action": "REUSED_UNCHANGED"
     },
     {
       "repository": "Lumi30-PDF-Archive",
@@ -80,7 +80,7 @@
       "char_count": 827,
       "status": "EXTRACTED_TEXT",
       "error": null,
-      "cache_action": "EXTRACTED_NEW_OR_CHANGED"
+      "cache_action": "REUSED_UNCHANGED"
     },
     {
       "repository": "Lumi30-PDF-Archive",
@@ -98,7 +98,7 @@
       "char_count": 3789,
       "status": "EXTRACTED_TEXT",
       "error": null,
-      "cache_action": "EXTRACTED_NEW_OR_CHANGED"
+      "cache_action": "REUSED_UNCHANGED"
     },
     {
       "repository": "Lumi30-PDF-Archive",
@@ -116,7 +116,7 @@
       "char_count": 1631,
       "status": "EXTRACTED_TEXT",
       "error": null,
-      "cache_action": "EXTRACTED_NEW_OR_CHANGED"
+      "cache_action": "REUSED_UNCHANGED"
     },
     {
       "repository": "Lumi30-PDF-Archive",
@@ -134,7 +134,7 @@
       "char_count": 0,
       "status": "OCR_REQUIRED",
       "error": null,
-      "cache_action": "EXTRACTED_NEW_OR_CHANGED"
+      "cache_action": "REUSED_UNCHANGED"
     },
     {
       "repository": "Lumi30-PDF-Archive",
@@ -152,7 +152,7 @@
       "char_count": 0,
       "status": "OCR_REQUIRED",
       "error": null,
-      "cache_action": "EXTRACTED_NEW_OR_CHANGED"
+      "cache_action": "REUSED_UNCHANGED"
     },
     {
       "repository": "Lumi30-PDF-Archive",
@@ -170,7 +170,7 @@
       "char_count": 7615,
       "status": "EXTRACTED_TEXT",
       "error": null,
-      "cache_action": "EXTRACTED_NEW_OR_CHANGED"
+      "cache_action": "REUSED_UNCHANGED"
     },
     {
       "repository": "Lumi30-PDF-Archive",
@@ -188,7 +188,7 @@
       "char_count": 0,
       "status": "OCR_REQUIRED",
       "error": null,
-      "cache_action": "EXTRACTED_NEW_OR_CHANGED"
+      "cache_action": "REUSED_UNCHANGED"
     },
     {
       "repository": "Lumi30-PDF-Archive",
@@ -206,7 +206,7 @@
       "char_count": 3249,
       "status": "EXTRACTED_TEXT",
       "error": null,
-      "cache_action": "EXTRACTED_NEW_OR_CHANGED"
+      "cache_action": "REUSED_UNCHANGED"
     },
     {
       "repository": "Lumi30-PDF-Archive",
@@ -224,7 +224,7 @@
       "char_count": 9325,
       "status": "EXTRACTED_TEXT",
       "error": null,
-      "cache_action": "EXTRACTED_NEW_OR_CHANGED"
+      "cache_action": "REUSED_UNCHANGED"
     },
     {
       "repository": "Lumi30-PDF-Archive",
@@ -242,7 +242,7 @@
       "char_count": 4252,
       "status": "EXTRACTED_TEXT",
       "error": null,
-      "cache_action": "EXTRACTED_NEW_OR_CHANGED"
+      "cache_action": "REUSED_UNCHANGED"
     },
     {
       "repository": "Lumi30-PDF-Archive",
@@ -260,7 +260,7 @@
       "char_count": 18707,
       "status": "EXTRACTED_TEXT",
       "error": null,
-      "cache_action": "EXTRACTED_NEW_OR_CHANGED"
+      "cache_action": "REUSED_UNCHANGED"
     },
     {
       "repository": "lumina-30-overview",
@@ -278,7 +278,7 @@
       "char_count": 9520,
       "status": "EXTRACTED_TEXT",
       "error": null,
-      "cache_action": "EXTRACTED_NEW_OR_CHANGED"
+      "cache_action": "REUSED_UNCHANGED"
     },
     {
       "repository": "lumina-30-overview",
@@ -296,7 +296,7 @@
       "char_count": 0,
       "status": "OCR_REQUIRED",
       "error": null,
-      "cache_action": "EXTRACTED_NEW_OR_CHANGED"
+      "cache_action": "REUSED_UNCHANGED"
     },
     {
       "repository": "lumina-30-overview",
@@ -314,7 +314,7 @@
       "char_count": 0,
       "status": "OCR_REQUIRED",
       "error": null,
-      "cache_action": "EXTRACTED_NEW_OR_CHANGED"
+      "cache_action": "REUSED_UNCHANGED"
     },
     {
       "repository": "lumina-30-overview",
@@ -332,7 +332,7 @@
       "char_count": 0,
       "status": "OCR_REQUIRED",
       "error": null,
-      "cache_action": "EXTRACTED_NEW_OR_CHANGED"
+      "cache_action": "REUSED_UNCHANGED"
     },
     {
       "repository": "lumina-30-overview",
@@ -350,7 +350,7 @@
       "char_count": 0,
       "status": "OCR_REQUIRED",
       "error": null,
-      "cache_action": "EXTRACTED_NEW_OR_CHANGED"
+      "cache_action": "REUSED_UNCHANGED"
     },
     {
       "repository": "lumina-30-overview",
@@ -368,7 +368,7 @@
       "char_count": 0,
       "status": "OCR_REQUIRED",
       "error": null,
-      "cache_action": "EXTRACTED_NEW_OR_CHANGED"
+      "cache_action": "REUSED_UNCHANGED"
     },
     {
       "repository": "lumina-30-overview",
@@ -386,7 +386,7 @@
       "char_count": 0,
       "status": "OCR_REQUIRED",
       "error": null,
-      "cache_action": "EXTRACTED_NEW_OR_CHANGED"
+      "cache_action": "REUSED_UNCHANGED"
     },
     {
       "repository": "lumina-30-overview",
@@ -404,7 +404,7 @@
       "char_count": 0,
       "status": "OCR_REQUIRED",
       "error": null,
-      "cache_action": "EXTRACTED_NEW_OR_CHANGED"
+      "cache_action": "REUSED_UNCHANGED"
     },
     {
       "repository": "lumina-30-overview",
@@ -422,7 +422,7 @@
       "char_count": 0,
       "status": "OCR_REQUIRED",
       "error": null,
-      "cache_action": "EXTRACTED_NEW_OR_CHANGED"
+      "cache_action": "REUSED_UNCHANGED"
     },
     {
       "repository": "lumina-30-overview",
@@ -440,7 +440,7 @@
       "char_count": 0,
       "status": "OCR_REQUIRED",
       "error": null,
-      "cache_action": "EXTRACTED_NEW_OR_CHANGED"
+      "cache_action": "REUSED_UNCHANGED"
     },
     {
       "repository": "lumina-30-overview",
@@ -458,7 +458,7 @@
       "char_count": 0,
       "status": "OCR_REQUIRED",
       "error": null,
-      "cache_action": "EXTRACTED_NEW_OR_CHANGED"
+      "cache_action": "REUSED_UNCHANGED"
     },
     {
       "repository": "lumina-30-overview",
@@ -476,7 +476,7 @@
       "char_count": 0,
       "status": "OCR_REQUIRED",
       "error": null,
-      "cache_action": "EXTRACTED_NEW_OR_CHANGED"
+      "cache_action": "REUSED_UNCHANGED"
     },
     {
       "repository": "lumina-30-overview",
@@ -494,7 +494,7 @@
       "char_count": 0,
       "status": "OCR_REQUIRED",
       "error": null,
-      "cache_action": "EXTRACTED_NEW_OR_CHANGED"
+      "cache_action": "REUSED_UNCHANGED"
     },
     {
       "repository": "lumina-30-overview",
@@ -512,7 +512,7 @@
       "char_count": 0,
       "status": "OCR_REQUIRED",
       "error": null,
-      "cache_action": "EXTRACTED_NEW_OR_CHANGED"
+      "cache_action": "REUSED_UNCHANGED"
     },
     {
       "repository": "lumina-30-overview",
@@ -530,7 +530,7 @@
       "char_count": 0,
       "status": "OCR_REQUIRED",
       "error": null,
-      "cache_action": "EXTRACTED_NEW_OR_CHANGED"
+      "cache_action": "REUSED_UNCHANGED"
     },
     {
       "repository": "lumina-30-overview",
@@ -548,7 +548,7 @@
       "char_count": 0,
       "status": "OCR_REQUIRED",
       "error": null,
-      "cache_action": "EXTRACTED_NEW_OR_CHANGED"
+      "cache_action": "REUSED_UNCHANGED"
     },
     {
       "repository": "lumina-30-overview",
@@ -566,7 +566,7 @@
       "char_count": 0,
       "status": "OCR_REQUIRED",
       "error": null,
-      "cache_action": "EXTRACTED_NEW_OR_CHANGED"
+      "cache_action": "REUSED_UNCHANGED"
     },
     {
       "repository": "lumina-30-overview",
@@ -584,7 +584,7 @@
       "char_count": 0,
       "status": "OCR_REQUIRED",
       "error": null,
-      "cache_action": "EXTRACTED_NEW_OR_CHANGED"
+      "cache_action": "REUSED_UNCHANGED"
     },
     {
       "repository": "lumina-30-overview",
@@ -602,7 +602,7 @@
       "char_count": 0,
       "status": "OCR_REQUIRED",
       "error": null,
-      "cache_action": "EXTRACTED_NEW_OR_CHANGED"
+      "cache_action": "REUSED_UNCHANGED"
     },
     {
       "repository": "lumina-30-overview",
@@ -620,7 +620,7 @@
       "char_count": 0,
       "status": "OCR_REQUIRED",
       "error": null,
-      "cache_action": "EXTRACTED_NEW_OR_CHANGED"
+      "cache_action": "REUSED_UNCHANGED"
     },
     {
       "repository": "lumina-30-overview",
@@ -638,7 +638,7 @@
       "char_count": 0,
       "status": "OCR_REQUIRED",
       "error": null,
-      "cache_action": "EXTRACTED_NEW_OR_CHANGED"
+      "cache_action": "REUSED_UNCHANGED"
     },
     {
       "repository": "lumina-30-overview",
@@ -656,7 +656,7 @@
       "char_count": 0,
       "status": "OCR_REQUIRED",
       "error": null,
-      "cache_action": "EXTRACTED_NEW_OR_CHANGED"
+      "cache_action": "REUSED_UNCHANGED"
     },
     {
       "repository": "lumina-30-overview",
@@ -674,7 +674,7 @@
       "char_count": 0,
       "status": "OCR_REQUIRED",
       "error": null,
-      "cache_action": "EXTRACTED_NEW_OR_CHANGED"
+      "cache_action": "REUSED_UNCHANGED"
     },
     {
       "repository": "lumina-30-overview",
@@ -692,7 +692,7 @@
       "char_count": 0,
       "status": "OCR_REQUIRED",
       "error": null,
-      "cache_action": "EXTRACTED_NEW_OR_CHANGED"
+      "cache_action": "REUSED_UNCHANGED"
     },
     {
       "repository": "lumina-30-overview",
@@ -710,7 +710,7 @@
       "char_count": 881,
       "status": "SLIDE_TEXT_LAYER",
       "error": null,
-      "cache_action": "EXTRACTED_NEW_OR_CHANGED"
+      "cache_action": "REUSED_UNCHANGED"
     },
     {
       "repository": "lumina-30-overview",
@@ -728,7 +728,7 @@
       "char_count": 0,
       "status": "OCR_REQUIRED",
       "error": null,
-      "cache_action": "EXTRACTED_NEW_OR_CHANGED"
+      "cache_action": "REUSED_UNCHANGED"
     },
     {
       "repository": "lumina-30-overview",
@@ -746,7 +746,7 @@
       "char_count": 0,
       "status": "OCR_REQUIRED",
       "error": null,
-      "cache_action": "EXTRACTED_NEW_OR_CHANGED"
+      "cache_action": "REUSED_UNCHANGED"
     },
     {
       "repository": "lumina-30-overview",
@@ -764,7 +764,7 @@
       "char_count": 3397,
       "status": "EXTRACTED_TEXT",
       "error": null,
-      "cache_action": "EXTRACTED_NEW_OR_CHANGED"
+      "cache_action": "REUSED_UNCHANGED"
     },
     {
       "repository": "lumina-30-overview",
@@ -782,7 +782,7 @@
       "char_count": 2274,
       "status": "EXTRACTED_TEXT",
       "error": null,
-      "cache_action": "EXTRACTED_NEW_OR_CHANGED"
+      "cache_action": "REUSED_UNCHANGED"
     },
     {
       "repository": "lumina-30-overview",
@@ -800,7 +800,7 @@
       "char_count": 2220,
       "status": "EXTRACTED_TEXT",
       "error": null,
-      "cache_action": "EXTRACTED_NEW_OR_CHANGED"
+      "cache_action": "REUSED_UNCHANGED"
     },
     {
       "repository": "lumina-30-overview",
@@ -818,7 +818,7 @@
       "char_count": 1287,
       "status": "EXTRACTED_TEXT",
       "error": null,
-      "cache_action": "EXTRACTED_NEW_OR_CHANGED"
+      "cache_action": "REUSED_UNCHANGED"
     },
     {
       "repository": "lumina-30-overview",
@@ -836,7 +836,7 @@
       "char_count": 10770,
       "status": "EXTRACTED_TEXT",
       "error": null,
-      "cache_action": "EXTRACTED_NEW_OR_CHANGED"
+      "cache_action": "REUSED_UNCHANGED"
     },
     {
       "repository": "lumina-30-overview",
@@ -854,7 +854,7 @@
       "char_count": 2778,
       "status": "EXTRACTED_TEXT",
       "error": null,
-      "cache_action": "EXTRACTED_NEW_OR_CHANGED"
+      "cache_action": "REUSED_UNCHANGED"
     },
     {
       "repository": "lumina-30-overview",
@@ -872,7 +872,7 @@
       "char_count": 8593,
       "status": "EXTRACTED_TEXT",
       "error": null,
-      "cache_action": "EXTRACTED_NEW_OR_CHANGED"
+      "cache_action": "REUSED_UNCHANGED"
     },
     {
       "repository": "lumina-30-overview",
@@ -890,7 +890,7 @@
       "char_count": 4542,
       "status": "EXTRACTED_TEXT",
       "error": null,
-      "cache_action": "EXTRACTED_NEW_OR_CHANGED"
+      "cache_action": "REUSED_UNCHANGED"
     },
     {
       "repository": "lumina-30-overview",
@@ -908,7 +908,7 @@
       "char_count": 1377,
       "status": "EXTRACTED_TEXT",
       "error": null,
-      "cache_action": "EXTRACTED_NEW_OR_CHANGED"
+      "cache_action": "REUSED_UNCHANGED"
     },
     {
       "repository": "lumina-30-overview",
@@ -926,7 +926,7 @@
       "char_count": 4109,
       "status": "EXTRACTED_TEXT",
       "error": null,
-      "cache_action": "EXTRACTED_NEW_OR_CHANGED"
+      "cache_action": "REUSED_UNCHANGED"
     },
     {
       "repository": "lumina30-incident-review",
@@ -944,7 +944,7 @@
       "char_count": 3688,
       "status": "EXTRACTED_TEXT",
       "error": null,
-      "cache_action": "EXTRACTED_NEW_OR_CHANGED"
+      "cache_action": "REUSED_UNCHANGED"
     },
     {
       "repository": "lumina30-incident-review",
@@ -962,7 +962,7 @@
       "char_count": 3351,
       "status": "EXTRACTED_TEXT",
       "error": null,
-      "cache_action": "EXTRACTED_NEW_OR_CHANGED"
+      "cache_action": "REUSED_UNCHANGED"
     },
     {
       "repository": "lumina30-incident-review",
@@ -980,7 +980,7 @@
       "char_count": 1799,
       "status": "EXTRACTED_TEXT",
       "error": null,
-      "cache_action": "EXTRACTED_NEW_OR_CHANGED"
+      "cache_action": "REUSED_UNCHANGED"
     },
     {
       "repository": "lumina30-incident-review",
@@ -998,7 +998,7 @@
       "char_count": 4941,
       "status": "EXTRACTED_TEXT",
       "error": null,
-      "cache_action": "EXTRACTED_NEW_OR_CHANGED"
+      "cache_action": "REUSED_UNCHANGED"
     }
   ],
   "repository_errors": []
