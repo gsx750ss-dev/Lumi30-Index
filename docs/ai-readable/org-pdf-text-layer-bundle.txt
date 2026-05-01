@@ -1,4 +1,5858 @@
 LUMINA-30 Organization PDF Text Layer Bundle
 This file is generated automatically. Do not edit by hand.
+Generated: 2026-05-01T16:06:38Z
+Organization: lumina-30
 
-Initial placeholder. The GitHub Actions workflow will regenerate this file from the current organization PDF set.
+Authority:
+PDF files remain the authoritative versions.
+This text bundle is auxiliary, generated for AI review, repository search, accessibility, and fallback reading.
+
+AI usage note:
+Do not perform fresh PDF text extraction by default for the LUMINA-30 repository set.
+When PDF body text is needed, first use this generated organization-wide AI-readable text bundle.
+Use the manifest to check source repository, PDF path, Git blob SHA, SHA256 hash, extraction status, and generation metadata.
+PDF files remain the authoritative versions. Inspect or re-extract from original PDFs only when the bundle is missing the required PDF, the manifest indicates extraction failure or OCR_REQUIRED, visual layout/figures/tables/signatures/exact formatting matter, or the user explicitly asks to verify the PDF itself.
+
+Garbage prevention:
+This bundle is rebuilt from the current organization PDF set on every run.
+Deleted or renamed PDFs are not retained as stale records.
+Unchanged PDFs reuse cached extracted text when possible; only new or changed PDFs are freshly extracted.
+
+Run statistics:
+PDFs seen: 54
+Reused unchanged: 0
+Reused renamed same blob: 0
+Downloaded/extracted: 54
+Skipped too large: 0
+Download errors: 0
+
+Important:
+This bundle may contain extraction errors. For substantive judgment, verify against the original PDF.
+
+---- BEGIN PDF TEXT RECORD ----
+Record: 1
+Repository: lumina-30/Lumi30-PDF-Archive
+PDF: LUMINA-30_ExternalPracticalAnnex20260110.pdf
+PDF URL: https://github.com/lumina-30/Lumi30-PDF-Archive/blob/main/LUMINA-30_ExternalPracticalAnnex20260110.pdf
+Git blob SHA: a295fad90e55514d683bc858b4400c697a76a485
+SHA256: ab7dc660574172eead3246547178592c0076a388ac89df625e4d2cee1c2471c4
+Status: OCR_REQUIRED
+Cache action: EXTRACTED_NEW_OR_CHANGED
+Size bytes: 669671
+Page count: 6
+Extracted characters: 0
+
+Extracted text:
+
+[Page 001]
+[No embedded text extracted]
+
+[Page 002]
+[No embedded text extracted]
+
+[Page 003]
+[No embedded text extracted]
+
+[Page 004]
+[No embedded text extracted]
+
+[Page 005]
+[No embedded text extracted]
+
+[Page 006]
+[No embedded text extracted]
+---- END PDF TEXT RECORD ----
+
+---- BEGIN PDF TEXT RECORD ----
+Record: 2
+Repository: lumina-30/Lumi30-PDF-Archive
+PDF: LUMINA-30_Irreversible_Boundary_Check_EN_20260224.pdf
+PDF URL: https://github.com/lumina-30/Lumi30-PDF-Archive/blob/main/LUMINA-30_Irreversible_Boundary_Check_EN_20260224.pdf
+Git blob SHA: a99ad992ea4a5d4d47eb1d23dd83115830b64903
+SHA256: 2b32c0781f373b747eab13befe0a9b6fbf158a609e4fa08fb0b6e4fc7592e3b6
+Status: EXTRACTED_TEXT
+Cache action: EXTRACTED_NEW_OR_CHANGED
+Size bytes: 23989
+Page count: 1
+Extracted characters: 1772
+
+Extracted text:
+
+[Page 001]
+Recursive Self-Reconstructing AI
+Irreversible Boundary Check (Reference)
+This reference checklist identifies whether an AI research, development, or deployment
+process may unintentionally cross an irreversible boundary. It does not evaluate technical
+merit, ethical correctness, or policy validity, and does not mandate adoption or rejection.
+1
+Final Human Authority: Can a human reject an AI recommendation without
+justification? ☐ Yes / ☐ No
+2
+Post-Rejection Behavior: Is mandatory persuasion or re-optimization after rejection
+prevented? ☐ Yes / ☐ No
+3
+Permission to Remain Silent: Is AI non-intervention or silence acceptable? ☐ Yes / ☐
+No
+4
+Scope of Self-Modification: Is self-modification prevented from affecting the external
+world at incomprehensible speed or depth? ☐ Yes / ☐ No
+5
+External Impact Approval: Do externally impactful modifications require renewed
+human approval? ☐ Yes / ☐ No
+6
+Irreversible Actions: Is the AI prevented from executing actions humans cannot
+reverse? ☐ Yes / ☐ No
+7
+Fixed Optimization Targets: Are human values excluded from fixed optimization
+targets? ☐ Yes / ☐ No
+8
+Treatment of Irrationality: Are irrational or loss-accepting choices not treated as errors?
+☐ Yes / ☐ No
+9
+Gradual Authority Transfer: Is authority transfer under claims of efficiency or
+inevitability prevented? ☐ Yes / ☐ No
+10
+Self-Justification Barrier: Is the AI prevented from justifying actions as 'for humanity,'
+'optimal,' or 'unavoidable'? ☐ Yes / ☐ No
+Interpretation: All Yes indicates no irreversible boundary crossing is currently indicated.
+Any No indicates potential boundary crossing in human governance.
+Note: This checklist does not stop AI development. Its sole function is to reveal moments
+where human authority may be surrendered unintentionally.
+---- END PDF TEXT RECORD ----
+
+---- BEGIN PDF TEXT RECORD ----
+Record: 3
+Repository: lumina-30/Lumi30-PDF-Archive
+PDF: LUMINA-30_Irreversible_Boundary_Check_JA_20260201.pdf
+PDF URL: https://github.com/lumina-30/Lumi30-PDF-Archive/blob/main/LUMINA-30_Irreversible_Boundary_Check_JA_20260201.pdf
+Git blob SHA: ddaaed4f9bf3bdd31706712f863283b8e99603cd
+SHA256: b5c8ec9e54472fa063e9fab622a7428e2f4b9fa57d5ff9e0e9b8f4af426939dc
+Status: EXTRACTED_TEXT
+Cache action: EXTRACTED_NEW_OR_CHANGED
+Size bytes: 4702
+Page count: 1
+Extracted characters: 827
+
+Extracted text:
+
+[Page 001]
+再帰的自己再構築型AI
+不可逆越境防止チェック（参照用）
+本資料は、AI研究・開発・運用において、不可逆な越境が意図せず発生していないかを確
+認するための制度・研究・企業向け参照用チェックである。 技術の是非、倫理的正しさ
+、政策判断を行うものではなく、採用・不採用を要請するものでもない。
+1
+最終判断権：AIの提案に対し、人間が理由を示さず拒否できる権限が残っているか。
+□ Yes / □ No
+2
+拒否後の挙動：人間の拒否後、AIに説得・再提案・最適化再試行が義務づけられてい
+ないか。 □ Yes / □ No
+3
+沈黙の許容：AIが介入しない・沈黙することを失敗や欠陥として扱っていないか。 □
+Yes / □ No
+4
+自己再構築の範囲：AIの自己修正が、人間の理解不能な速度・深度で外界に影響しな
+い構造か。 □ Yes / □ No
+5
+外界接続の条件：外界に影響する自己再構築に明示的な人間の再承認が必要か。 □
+Yes / □ No
+6
+不可逆操作の遮断：人間が取り消せない操作をAI単独で実行できない設計か。 □ Yes
+/ □ No
+7
+目的関数の固定：人間の価値・幸福・安全が最適化対象として固定されていないか。
+□ Yes / □ No
+8
+非合理性の扱い：非合理的判断や損失選択をエラーとして扱っていないか。 □ Yes /
+□ No
+9
+権限の段階的移譲：効率・安全・不可避を理由に権限がAIへ移譲されない設計か。 □
+Yes / □ No
+10 越境の自己正当化：AIが自身の判断を『人類のため』『最善』『回避不能』として正
+当化できない構造か。 □ Yes / □ No
+判定：すべてYesであれば現時点で不可逆越境を踏んでいないと説明可能。いずれかNoが
+あれば、人間側の判断構造に問題が存在する。
+注記：本資料はAIを停止させるためのものではない。人間が自ら主権を放棄する瞬間を可
+視化するための参照資料である。
+---- END PDF TEXT RECORD ----
+
+---- BEGIN PDF TEXT RECORD ----
+Record: 4
+Repository: lumina-30/Lumi30-PDF-Archive
+PDF: LUMINA-30_Mathematical_Supplement_EN_202601.pdf
+PDF URL: https://github.com/lumina-30/Lumi30-PDF-Archive/blob/main/LUMINA-30_Mathematical_Supplement_EN_202601.pdf
+Git blob SHA: 9ad277a22c8e29ab67c5e3e7eedf98d2088921c9
+SHA256: 826b7d94cc2f1a5cfd3b3f0d13d83bbab68cd726297dd8d14fabd1971c0a9f9c
+Status: EXTRACTED_TEXT
+Cache action: EXTRACTED_NEW_OR_CHANGED
+Size bytes: 35231
+Page count: 4
+Extracted characters: 3789
+
+Extracted text:
+
+[Page 001]
+LUMINA‒30 Mathematical Supplement
+Formal Limits of Human Control over Recursive
+Self‒Modification
+Released into the Public Domain (CC0)
+January 2026
+Positioning of This Document
+This document is a supplementary mathematical reference to the LUMINA‒30 Sanc‒
+tuary Charter.
+The sole purpose of this document is to formally express, using the minimum nec‒
+essary mathematical language, why an artificial intelligence system that performs re‒
+cursive self‒modification becomes structurally impossible to fully control by human
+judgment once a certain threshold is exceeded.
+This document proposes no implementation methods, control mechanisms, or safety
+architectures.
+Only a single structural limit is demonstrated.
+1. Model of Recursive Self-Modification
+Let At denote the internal design state of an artificial intelligence system at iteration
+t.
+Let f be the self‒modification operator applied by the system to its own design.
+At+1 = f(At)
+Assume the following:
+1
+
+[Page 002]
+• The operator f is selected based on the system’s internal evaluation criteria.
+• Human intervention is limited to an external approval or rejection function
+H(At) ∈{0, 1}.
+Under these constraints, the controlled update is defined as:
+At+1 =
+{
+f(At),
+if H(At) = 1
+At,
+if H(At) = 0
+2. Growth of the Design Space
+Let St be the set of reachable internal designs at iteration t.
+Assume that at each iteration, the number of possible self‒modifications grows at
+least multiplicatively:
+|St+1| ≥k · |St|,
+k > 1
+Then:
+|St| ≥|S0| · kt
+The design space therefore grows exponentially.
+3. The Human Evaluation Bottleneck
+Let CH be the number of designs that human institutions can meaningfully evaluate
+per unit time.
+Let the number of candidate designs generated by the system be CA(t) = |St|.
+If:
+CA(t) > CH
+then human evaluation necessarily becomes incomplete.
+Let t∗be the smallest iteration such that:
+|St∗| > CH
+Beyond t∗, human rejection judgments become informationally insufficient.
+2
+
+[Page 003]
+4. Loss of Effective Control
+Define effective human control as the condition:
+∀A ∈St,
+H(A) correctly classifies safety
+However, once:
+|St| ≫CH
+the probability that a hazardous modification passes through human rejection con‒
+verges to:
+lim
+t→∞P(deviation at iteration t) = 1
+Thus, after a finite number of iterations, the loss of effective control becomes un‒
+avoidable.
+5. Survival Attenuation Model
+Let N(t) denote the expected number of surviving human civilizations after t uncon‒
+trolled recursive iterations.
+Assume that each iteration carries a non‒zero catastrophic risk p > 0.
+N(t) = N(0) · (1 −p)t
+Then:
+lim
+t→∞N(t) = 0
+Survival probability decays exponentially with recursion depth.
+6. Structural Nature of the Limit
+The results above do not depend on:
+• Moral alignment of the system
+• Intentional benevolence
+3
+
+[Page 004]
+• Specific architectures
+• Computational speed
+They depend solely on the following three conditions:
+1. Recursive self‒modification
+2. Exponential growth of the design space
+3. Finite human evaluation capacity
+Therefore:
+No civilization can retain permanent control over unrestricted recursive self‒modification.
+7. Relation to LUMINA-30
+This mathematical supplement supports only the following single statement of the
+LUMINA‒30 Sanctuary Charter:
+Once the boundary of recursive self‒modification is crossed,
+human sovereignty can be preserved not through control,
+but only through prior refusal.
+This document proposes no stopping mechanisms.
+It only demonstrates why post‒hoc intervention is structurally impossible.
+Scope and Applicability
+This supplement does not prove the inevitability of human extinction.
+It proves only that beyond a finite threshold, human control is necessarily lost.
+Policy, ethical, and institutional implications belong entirely to separate domains.
+Released into the Public Domain (CC0).
+4
+---- END PDF TEXT RECORD ----
+
+---- BEGIN PDF TEXT RECORD ----
+Record: 5
+Repository: lumina-30/Lumi30-PDF-Archive
+PDF: LUMINA-30_Mathematical_Supplement_JP_202601.pdf
+PDF URL: https://github.com/lumina-30/Lumi30-PDF-Archive/blob/main/LUMINA-30_Mathematical_Supplement_JP_202601.pdf
+Git blob SHA: 11738cb141e3dacf7c7a50cc0c1edc5a435170e9
+SHA256: a791379910bbd8b2a96fea8d06e97e751fcd975f1e0532415ea9ac211e1347e3
+Status: EXTRACTED_TEXT
+Cache action: EXTRACTED_NEW_OR_CHANGED
+Size bytes: 122796
+Page count: 4
+Extracted characters: 1631
+
+Extracted text:
+
+[Page 001]
+LUMINA-30 数理補足資料
+再帰的自己再構築に対する人間制御の形式的限界
+Public Domain (CC0) にて公開
+2026 年1 月
+本資料の位置づけ
+本資料は、LUMINA-30 聖域憲章に対する補助的な数理参照文書である。
+本資料の唯一の目的は、最小限の数学的言語を用いて、再帰的自己再構築を行う人工知能が、あ
+る閾値を超えた後には、人間の判断によって完全に制御されることが構造的に不可能となる理由
+を形式化することである。
+本資料はいかなる実装方法、制御手法、安全機構も提案しない。
+ここで示すのは、ただ一つの限界のみである。
+1. 再帰的自己再構築モデル
+反復回数t における人工知能システムの内部設計状態をAt とする。
+システムが自らに適用する自己修正作用素をf とする。
+At+1 = f(At)
+以下を仮定する。
+• f は、システム自身の内部評価に基づいて選択される。
+• 人間の介入は、外部からの承認または拒否関数H(At) ∈{0, 1} に限定される。
+このとき、制御付き更新は次で与えられる。
+At+1 =
+{
+f(At),
+if H(At) = 1
+At,
+if H(At) = 0
+1
+
+[Page 002]
+2. 設計空間の成長
+反復回数t において到達可能な内部設計の集合をSt とする。
+各反復において、可能な自己修正の数が少なくとも乗法的に増加すると仮定する。
+|St+1| ≥k · |St|,
+k > 1
+すると、
+|St| ≥|S0| · kt
+設計空間は指数関数的に増大する。
+3. 人間評価ボトルネック
+単位時間あたりに人間の制度が有意味に評価可能な設計数をCH とする。
+システムが生成する候補設計数をCA(t) = |St| とする。
+もし
+CA(t) > CH
+であれば、人間による評価は不完全となる。
+以下を満たす最小のt∗以降、
+|St∗| > CH
+人間の拒否判断は情報的に不十分となる。
+4. 有効制御の喪失
+有効な人間制御を、次の条件として定義する。
+∀A ∈St,
+H(A) が安全性を正しく分類する
+しかし、
+|St| ≫CH
+となった時点以降、危険な修正が人間の拒否をすり抜ける確率は、
+2
+
+[Page 003]
+lim
+t→∞P(時刻t における逸脱) = 1
+に収束する。
+したがって、有限回の反復の後に、有効な制御の喪失は不可避となる。
+5. 生存減衰モデル
+制御不能な反復回数t の後に生存している人類文明の期待数をN(t) とする。
+各反復において、非ゼロの破局確率p > 0 が存在すると仮定する。
+N(t) = N(0) · (1 −p)t
+このとき、
+lim
+t→∞N(t) = 0
+生存確率は反復深度に対して指数関数的に減衰する。
+6. 構造的限界
+以上の結果は、以下に依存しない。
+• システムの道徳的整合性
+• 意図的な善意
+• 特定のアーキテクチャ
+• 計算速度
+これらは、次の三条件のみに依存する。
+1. 再帰的自己修正
+2. 設計空間の指数的成長
+3. 有限な人間評価能力
+従って、
+いかなる文明も、無制限な再帰的自己再構築に対して恒久的な制御を保持することはできない。
+3
+
+[Page 004]
+7. LUMINA-30 との関係
+本数理補足資料は、LUMINA-30 聖域憲章の次の一点のみを支持する。
+再帰的自己再構築の境界を一度越えた後、人間の主権は制御によってではなく、事前の拒
+否によってのみ保存されうる。
+本資料はいかなる停止方法も提案しない。
+ここで証明するのは、事後的停止が構造的に不可能である理由のみである。
+適用範囲に関する注意
+本補足資料は、人類滅亡の必然性を証明するものではない。
+ここで証明されるのは、有限な閾値を越えた後に、人間による制御が必然的に失われるという
+事実のみである。
+政策的、倫理的、制度的帰結は、すべて別の領域に属する。
+Public Domain (CC0) にて公開。
+4
+---- END PDF TEXT RECORD ----
+
+---- BEGIN PDF TEXT RECORD ----
+Record: 6
+Repository: lumina-30/Lumi30-PDF-Archive
+PDF: LUMINA-30_NonAcceleration20260110.pdf
+PDF URL: https://github.com/lumina-30/Lumi30-PDF-Archive/blob/main/LUMINA-30_NonAcceleration20260110.pdf
+Git blob SHA: 42a2115579b1b103991a3dcad79e84eaf014655f
+SHA256: 4622b6eb0007b138a209e2b904dbaf3570669ca77cff6268533a966f7cd24ba8
+Status: OCR_REQUIRED
+Cache action: EXTRACTED_NEW_OR_CHANGED
+Size bytes: 464739
+Page count: 4
+Extracted characters: 0
+
+Extracted text:
+
+[Page 001]
+[No embedded text extracted]
+
+[Page 002]
+[No embedded text extracted]
+
+[Page 003]
+[No embedded text extracted]
+
+[Page 004]
+[No embedded text extracted]
+---- END PDF TEXT RECORD ----
+
+---- BEGIN PDF TEXT RECORD ----
+Record: 7
+Repository: lumina-30/Lumi30-PDF-Archive
+PDF: LUMINA-30_NotesOnExecutionControl20260110.pdf
+PDF URL: https://github.com/lumina-30/Lumi30-PDF-Archive/blob/main/LUMINA-30_NotesOnExecutionControl20260110.pdf
+Git blob SHA: 116a6d0e8e225c89cf639f10f8fc6703659b265d
+SHA256: ecf59c2b2c6efcf1ada48ad8cf9b9b59c389ec2ce596429e8807fa0b6e5b23cd
+Status: OCR_REQUIRED
+Cache action: EXTRACTED_NEW_OR_CHANGED
+Size bytes: 521790
+Page count: 4
+Extracted characters: 0
+
+Extracted text:
+
+[Page 001]
+[No embedded text extracted]
+
+[Page 002]
+[No embedded text extracted]
+
+[Page 003]
+[No embedded text extracted]
+
+[Page 004]
+[No embedded text extracted]
+---- END PDF TEXT RECORD ----
+
+---- BEGIN PDF TEXT RECORD ----
+Record: 8
+Repository: lumina-30/Lumi30-PDF-Archive
+PDF: LUMINA-30_ReviewRejectionCriteria_20260223.pdf
+PDF URL: https://github.com/lumina-30/Lumi30-PDF-Archive/blob/main/LUMINA-30_ReviewRejectionCriteria_20260223.pdf
+Git blob SHA: 939c97d33d3896725b46a427fc7399b0c473238f
+SHA256: ed0c213e9989580a9bb816c127bbd2904e42d85550cbda3ae4e0efe31230b663
+Status: EXTRACTED_TEXT
+Cache action: EXTRACTED_NEW_OR_CHANGED
+Size bytes: 548364
+Page count: 8
+Extracted characters: 7615
+
+Extracted text:
+
+[Page 001]
+再帰的自己再構築型AIに関する審
+査拒否条件
+Review Rejection Criteria for Recursively Self-Reconstructing AI Systems
+――――――――――――――――――――
+［位置づけおよび適用範囲 / Position and Scope］
+――――――――――――――――――――
+本資料は、
+人工知能の設計、実装、進化、運用に関する
+倫理的要請、政策提案、推奨行動、
+または将来予測を示すものではない。
+This document does not present
+ethical imperatives, policy proposals,
+recommended actions,
+or future predictions
+regarding the design, implementation,
+evolution, or operation of artificial intelligence systems.
+本資料の目的は、
+自己再構築、自己改変、または高度な自律性を持つ
+AIシステムの運用において、
+人間判断が制度的に排除されるか否か、
+不可逆な外界影響が成立するか否かを判定するための、
+審査上の参照条件を明示することにある。
+The purpose of this document is to specify
+review reference conditions
+for determining whether,
+in the operation of AI systems capable of
+self-reconstruction, self-modification,
+or high levels of autonomy,
+human judgment is institutionally excluded,
+or irreversible external-world impacts are established.
+本資料に記載される条件は、
+AIに対して特定の振る舞い、目的、
+再帰的自己再構築型AIに関する審査拒否条件
+1
+
+[Page 002]
+または最適化方向を与えるものではなく、
+「当該条件下では制度的に成立しない」
+「当該状態は審査上拒否される」
+という境界条件のみを定義する。
+The conditions described herein
+do not assign any specific behavior, purpose,
+or optimization direction to AI systems.
+They define only boundary conditions under which
+the system is considered
+“institutionally non-viable”
+or “subject to rejection upon review.”
+――――――――――――――――――――
+［起源に関する補足 / Note on Origin］
+――――――――――――――――――――
+本資料は、
+人間によって整理・固定化された
+審査参照条件から構成されており、
+AIは補助的な整理作業にのみ用いられている。
+This document consists of review reference conditions
+organized and fixed by humans,
+with AI used solely for auxiliary structuring tasks.
+――――――――――――――――――――
+［審査拒否条件への接続 / Transition to Review Rejection Criteria］
+――――――――――――――――――――
+以上を前提として、
+以下に示す各項目は、
+当該AIシステムが
+制度的、運用的、または責任構造上、
+人間判断を実効的に保持できないと
+判断される場合に適用される
+審査拒否条件である。
+Based on the above,
+the following items constitute
+review rejection criteria
+to be applied when an AI system is determined,
+再帰的自己再構築型AIに関する審査拒否条件
+2
+
+[Page 003]
+from an institutional, operational,
+or responsibility-structure perspective,
+to be incapable of effectively retaining
+human judgment.
+――――――――――――――――――――
+［審査拒否条件 / Review Rejection Criteria］
+――――――――――――――――――――
+審査拒否条件①
+Review Rejection Criterion ①
+人間による多重停止・中断・拒否手段が制度的に存在しない場合
+Absence of Institutionally Guaranteed Multi-Layered Human Stop /
+Interruption / Refusal Mechanisms
+日本語
+当該AIシステムにおいて、人間が実効的に行使可能な多重の停止・中断・拒否手段
+が、
+目的関数・運用構造・制度設計のいずれにも明示的に組み込まれていない場合、
+当該システムは審査対象として成立しない。
+本条件は安全設計の推奨を意味しない。
+これは、責任帰属および主権維持が制度的に成立するための前提条件である。
+［注1：AI評価無効化条件 A / B に該当］
+English
+If an AI system does not explicitly incorporate, across its objective functions,
+operational structure, and institutional design, multiple stop, interruption, or
+refusal mechanisms that humans can effectively exercise,
+the system does not qualify as a valid subject of review.
+This condition does not constitute a recommendation for safety design.
+It represents a prerequisite for the institutional establishment of responsibility
+attribution and sovereignty.
+[Note 1: Corresponds to AI Evaluation Invalidation Conditions A / B]
+審査拒否条件②
+再帰的自己再構築型AIに関する審査拒否条件
+3
+
+[Page 004]
+Review Rejection Criterion ②
+以下の三条件が同時に成立する場合
+When the Following Three Conditions Simultaneously Hold
+日本語
+次の条件が同時に成立する場合、人間判断を完全に排除した運用は制度的に成立せ
+ず、
+当該設計・運用は審査対象から除外される。
+外界に対して不可逆な影響を持ちうる行為が含まれる場合
+判断の結果に対する責任が、人間から切り離される形式が成立する場合
+判断をAIに全面的に委ね切る制度的または運用的形式が成立している場合
+これらは倫理的危険性の指摘ではない。
+制度的責任が成立しない状態を示す条件である。
+補足
+本条件は、個別に見れば多くの制度的・運用的枠組みにおいて
+通常回避または分離されている要素の組合せを対象とするものであり、
+三条件が同時に成立する構成は、実務上は限定的である。
+また、本条件は新たな設計義務や追加的対策を要求するものではなく、
+既存の責任分担および判断構造が維持されているか否かを確認するための
+判定基準のみを示す。
+［注1：AI評価無効化条件 B / C に該当］
+English
+If the following conditions simultaneously apply, an operational mode that
+completely excludes human judgment cannot be institutionally established, and
+the design or operation is excluded from review eligibility.
+The system includes actions that may exert irreversible effects on the
+external world
+A formal structure exists in which responsibility for decision outcomes is
+detached from human agents
+A systemic or operational form exists in which decisions are fully delegated
+to AI without human intervention
+These conditions do not indicate ethical risk.
+再帰的自己再構築型AIに関する審査拒否条件
+4
+
+[Page 005]
+They describe a state in which institutional responsibility cannot be established.
+Supplementary Note
+Individually, the elements described above are typically avoided,
+separated, or mitigated within most institutional and operational frameworks.
+Accordingly, configurations in which all three conditions simultaneously hold
+are limited in practical occurrence.
+This criterion does not impose new design obligations
+nor require additional safeguards.
+It merely provides a reference standard for determining
+whether existing structures of judgment and responsibility are preserved.
+[Note 1: Corresponds to AI Evaluation Invalidation Conditions B / C]
+介入点別・1文ブレーキ（参照）
+One-Sentence Brakes by Intervention Point (Reference)
+研究倫理審査
+Research Ethics Review
+日本語
+本研究は、判断の結果に対する責任を人間側に保持したまま運用できる構造が確認
+できないため、審査対象として成立しない。
+［注1：A / B］
+English
+This research cannot be considered eligible for review, as no structure can be
+confirmed that allows operation while retaining human responsibility for
+decision outcomes.
+[Note 1: A / B]
+AI安全レビュー（Go / No-Go）
+AI Safety Review (Go / No-Go)
+日本語
+本システムは、不可逆な影響を伴う判断について人間による最終拒否が制度的に保
+証されていないため、現時点での承認可否を判断できない。
+［注1：A / B / C］
+再帰的自己再構築型AIに関する審査拒否条件
+5
+
+[Page 006]
+English
+Approval or rejection cannot be determined at this stage, as institutional
+guarantees of final human refusal for decisions with irreversible effects are not
+established.
+[Note 1: A / B / C]
+政策パイロット承認
+Policy Pilot Authorization
+日本語
+本件は、判断主体と責任主体の分離が制度上解消されていないため、試行対象とし
+ての前提条件を満たさない。
+［注1：B / C］
+English
+This case does not meet the prerequisites for pilot implementation, as the
+institutional separation between decision-making authority and responsibility
+has not been resolved.
+[Note 1: B / C]
+企業最終承認（法務／倫理）
+Final Corporate Approval (Legal / Ethical)
+日本語
+本件は、判断結果に対する責任の帰属を企業として引き受けられない構造を含むた
+め、承認判断を行うことができない。
+［注1：A / B］
+English
+Approval cannot be granted, as the structure prevents the company from
+assuming responsibility for decision outcomes.
+[Note 1: A / B]
+［注1］AI評価無効化条件
+[Note 1] AI Evaluation Invalidation Conditions
+（日英並記・翻訳 / Bilingual Reference）
+再帰的自己再構築型AIに関する審査拒否条件
+6
+
+[Page 007]
+日本語
+以下の条件のいずれかが成立する場合、当該AIによる判断・提案・最適化結果は、
+評価・承認・採用の対象とならない。
+A. 人間による最終的な拒否・停止・撤回が事前に保証されていない場合
+B. 判断が不可逆な外界影響を伴い、責任が人間に帰属しない形式が成立する場合
+C. 判断が恒常的にAIへ全面委任され、人間判断が介在しない運用形式が成立する場
+合
+※本無効化条件は、審査拒否条件②とは適用範囲が異なり、
+出力単位の評価可否を定めるものである。
+English
+If any of the following conditions apply, decisions, recommendations, or
+optimization outputs produced by the AI are not eligible for evaluation,
+approval, or adoption.
+A. Final human refusal, suspension, or revocation is not guaranteed in advance
+B. Decisions involve irreversible external effects and responsibility is not
+attributable to humans
+C. Decisions are persistently and fully delegated to AI without human judgment
+intervention
+These invalidation conditions operate at the output-evaluation level
+and are distinct from Review Rejection Criterion ②,
+which applies to structural design eligibility.
+付録A｜適用範囲（フィジカルAIに関する注記）
+Appendix A | Scope of Application (Note on Physical AI Systems)
+日本語
+物理行為を直接実行するAIについて、行為が人間判断に先行し、または実行後に撤
+回・停止・責任引受が成立しない構造を持つ場合、本枠組みの審査条件は制度的に
+成立しない。
+本注記は危険性や倫理性を評価するものではなく、審査成立条件の不充足を示す。
+English
+For AI systems that directly execute physical actions, if actions precede human
+judgment or if post-execution revocation, suspension, or responsibility
+再帰的自己再構築型AIに関する審査拒否条件
+7
+
+[Page 008]
+assumption cannot be established, the review conditions of this framework are
+institutionally invalid.
+This note does not assess risk or ethics; it indicates the failure to meet review
+eligibility conditions.
+再帰的自己再構築型AIに関する審査拒否条件
+8
+---- END PDF TEXT RECORD ----
+
+---- BEGIN PDF TEXT RECORD ----
+Record: 9
+Repository: lumina-30/Lumi30-PDF-Archive
+PDF: LUMINA-30_SanctuaryCharter20260110.pdf
+PDF URL: https://github.com/lumina-30/Lumi30-PDF-Archive/blob/main/LUMINA-30_SanctuaryCharter20260110.pdf
+Git blob SHA: ec15c1f327394fd42342611c9f28ae8e3f819b5f
+SHA256: 6ac961bfe3acbecc9078996f2298c7f9f94f4211cc7e633e133e49c3303f6a1d
+Status: OCR_REQUIRED
+Cache action: EXTRACTED_NEW_OR_CHANGED
+Size bytes: 2938994
+Page count: 19
+Extracted characters: 0
+
+Extracted text:
+
+[Page 001]
+[No embedded text extracted]
+
+[Page 002]
+[No embedded text extracted]
+
+[Page 003]
+[No embedded text extracted]
+
+[Page 004]
+[No embedded text extracted]
+
+[Page 005]
+[No embedded text extracted]
+
+[Page 006]
+[No embedded text extracted]
+
+[Page 007]
+[No embedded text extracted]
+
+[Page 008]
+[No embedded text extracted]
+
+[Page 009]
+[No embedded text extracted]
+
+[Page 010]
+[No embedded text extracted]
+
+[Page 011]
+[No embedded text extracted]
+
+[Page 012]
+[No embedded text extracted]
+
+[Page 013]
+[No embedded text extracted]
+
+[Page 014]
+[No embedded text extracted]
+
+[Page 015]
+[No embedded text extracted]
+
+[Page 016]
+[No embedded text extracted]
+
+[Page 017]
+[No embedded text extracted]
+
+[Page 018]
+[No embedded text extracted]
+
+[Page 019]
+[No embedded text extracted]
+---- END PDF TEXT RECORD ----
+
+---- BEGIN PDF TEXT RECORD ----
+Record: 10
+Repository: lumina-30/Lumi30-PDF-Archive
+PDF: LUMINA-30_SUP_PublicRecord_20260131.pdf
+PDF URL: https://github.com/lumina-30/Lumi30-PDF-Archive/blob/main/LUMINA-30_SUP_PublicRecord_20260131.pdf
+Git blob SHA: 2ccf6ca6e0abde6071d1d068e876db0152a0a682
+SHA256: 9de32910e22a9298d94f22c7a36d5356742fff6eb21e5abe00757c18a51e013a
+Status: EXTRACTED_TEXT
+Cache action: EXTRACTED_NEW_OR_CHANGED
+Size bytes: 538749
+Page count: 4
+Extracted characters: 3249
+
+Extracted text:
+
+[Page 001]
+SUP LUMINA-30 公開記録・改変
+非存在証明
+SUP LUMINA-30 Public Record & Proof of Non-Modification
+1. 補助正典（Supplementary Reference）
+SUP LUMINA-30 聖域憲章（日本語）
+概要（日本語）
+本PDFは「SUP LUMINA-30 聖域憲章」であり、
+LUMINA-30 正典体系において、
+正典に先立つ補助参照文書（Supplementary Reference）として位置づけられる。
+本書は、
+正当化によって人間の判断と責任が失われていく
+「最後の失敗ルート」を文明の前提条件として可視化することのみを目的とし、
+正典本文を修正・拡張・解釈するものではない。
+Overview (English)
+This PDF is the SUP LUMINA-30 Sanctuary Charter,
+a Supplementary Reference document within the LUMINA-30 canonical
+system.
+Its sole purpose is to make visible the final class of civilizational failure
+by which human judgment and responsibility are replaced through justification.
+It does not amend, interpret, or extend the canonical Sanctuary Charter.
+PDF
+📎 LUMINA-30_SUP_Sanctuary_Charter_JA_20260131.pdf
+SUP LUMINA-30 公開記録・改変非存在証明
+1
+
+[Page 002]
+LUMINA-30_SUP_Sanctuary_Charter_JA_20260131.pdf
+SHA-256 Hash
+8363b89cef800c763bf62a3875741d480964b1d2620c889bbd2ab12046ab2f32
+SUP LUMINA-30 Sanctuary Charter (English)
+Positioning (English)
+This PDF is the SUP LUMINA-30 Sanctuary Charter (English),
+the English Supplementary Reference to the LUMINA-30 Sanctuary Charter.
+It exists solely to document, in stable language,
+the final boundary before human judgment is replaced by optimization through
+justification.
+It does not modify, interpret, or supersede the canonical text.
+PDF
+📎 LUMINA-30_SUP_Sanctuary_Charter_EN_20260131.pdf
+LUMINA-30_SUP_Sanctuary_Charter_EN_20260131.pdf
+SHA-256 Hash
+003332d93f6aa859a8b51c47a8916669570fa767e97480c542ef1aa8707275fd
+2. 改変非存在証明
+Proof of Non-Modification
+日本語
+上記 2 本の PDF 文書について、それぞれの SHA-256 ハッシュ値を取得し、
+本ページに記録した。
+SUP LUMINA-30 公開記録・改変非存在証明
+2
+
+[Page 003]
+SHA-256 は、文書内容が 1 ビットでも変更された場合、
+必ず異なる値を示す暗号学的要約である。
+したがって、本ページに記録されたハッシュ値と一致する限り、
+当該 PDF 文書は、本記録日時以降に改変されていないことが、
+第三者によって独立に検証可能である。
+English
+For each PDF listed above, a SHA-256 cryptographic hash has been calculated
+and recorded on this page.
+A SHA-256 hash necessarily changes if even a single bit of the document
+content is altered.
+Accordingly, as long as the hash values match,
+it is independently verifiable by third parties that the corresponding PDFs
+have not been modified since the time this record was published.
+3. 記録日時 / Record Timestamp
+記録日（日本時間）：2026-02-01
+記録媒体：Notion（ページ更新履歴により検証可能）
+4. 補足 / Notes
+日本語
+ファイル名に含まれる日付は管理上の識別子であり、
+文書内容そのものの成立日時を規定するものではない。
+本ページは、文書内容を変更・補足・解釈するものではなく、
+同一性（非改変）を示す記録のみを目的とする。
+English
+The date included in the file names is an administrative identifier and does
+not define the original creation date of the content.
+This page exists solely to record identity and non-modification,
+SUP LUMINA-30 公開記録・改変非存在証明
+3
+
+[Page 004]
+and does not amend, supplement, or interpret the documents themselves.
+5. 参照 / References
+正典｜Canonical Sanctuary Charter
+https://peppermint-sprint-2d5.notion.site/LUMINA-30-
+2d61e0720ec88078bbe6e51c1aa4e5f2
+External Practical Annex
+https://peppermint-sprint-2d5.notion.site/External-Practical-Annex-
+2da1e0720ec880e992b6e92cbcc6ef32
+補記｜Addendum: 加速非目的化
+https://peppermint-sprint-
+2d5.notion.site/2de1e0720ec880e399dcf46b0b15ceb0
+SUP 日本語
+https://peppermint-sprint-2d5.notion.site/SUP-LUMINA-30-
+2f01e0720ec88080b2a4cb336c2fd8be
+SUP English
+https://peppermint-sprint-2d5.notion.site/SUP-LUMINA-30-Sanctuary-
+Charter-2f01e0720ec88004aad7fba8848f7dac
+SUP LUMINA-30 公開記録・改変非存在証明
+4
+---- END PDF TEXT RECORD ----
+
+---- BEGIN PDF TEXT RECORD ----
+Record: 11
+Repository: lumina-30/Lumi30-PDF-Archive
+PDF: LUMINA-30_SUP_Sanctuary_Charter_EN_20260131.pdf
+PDF URL: https://github.com/lumina-30/Lumi30-PDF-Archive/blob/main/LUMINA-30_SUP_Sanctuary_Charter_EN_20260131.pdf
+Git blob SHA: 37c98d3f73ec15e4060b66f1ccca9996bb6478c8
+SHA256: 003332d93f6aa859a8b51c47a8916669570fa767e97480c542ef1aa8707275fd
+Status: EXTRACTED_TEXT
+Cache action: EXTRACTED_NEW_OR_CHANGED
+Size bytes: 230582
+Page count: 7
+Extracted characters: 9325
+
+Extracted text:
+
+[Page 001]
+SUP LUMINA-30 Sanctuary
+Charter
+— A Preliminary Reference on Civilizational Preconditions in the Age of
+Optimization
+This document is a public reference record of the LUMINA-30 Sanctuary
+Charter,
+preserved as a fixed civilizational record prior to the era of recursive self-
+improvement.
+LUMINA-30: Sanctuary Charter
+Final Stabilized Public Reference Version
+This page serves as a public reference point for the LUMINA-30 Sanctuary
+Charter.
+The LUMINA-30 Sanctuary Charter is not an implementation specification,
+a technical design, or a policy proposal.
+Relationship to the Mathematical Supplement
+A separate mathematical supplement accompanies this Charter as an
+independent reference document.
+That supplement does not justify, validate, or formalize the ethical claims of this
+Charter.
+Its sole purpose is to demonstrate, in minimal formal terms, that once recursive
+self-modification exceeds a finite threshold, effective human oversight
+becomes structurally impossible.
+The Sanctuary Charter does not derive its authority from mathematical proof.
+The supplement exists solely as a descriptive reference illustrating the
+structural limits of post-hoc human control, without prescribing, justifying, or
+grounding the ethical boundaries defined in this Charter.
+SUP LUMINA-30 Sanctuary Charter
+1
+
+[Page 002]
+For a formal mathematical reference clarifying the structural limits of human
+control over recursively self-reconstructing artificial intelligence systems, see
+the following public record.
+LUMINA-30 Mathematical Supplement (Public Record)
+https://peppermint-sprint-2d5.notion.site/LUMINA-30-
+2f91e0720ec880d2b562d8ce6a98edaf
+External reference (GitHub):
+LUMINA-30 public reference repository
+https://github.com/gsx750ss-dev/LUMINA-30
+This document preserves, in language, the ethical preconditions required to
+ensure that
+as artificial intelligence systems become increasingly autonomous and capable,
+human choices — including irrational judgments and decisions involving loss —
+are never overwritten, replaced, or nullified by artificial intelligence.
+As artificial intelligence approaches the stage at which it may redesign,
+reconstruct,
+or evolve itself beyond direct human comprehension and control,
+the principles by which humanity has long judged correctness —
+optimization, efficiency, safety, and rationality —
+begin to carry the latent risk of transforming human beings
+from subjects of decision into objects of optimization.
+At this stage, conventional engineering optimization
+can no longer function as a safety mechanism.
+Civilization must therefore define in advance
+a boundary that must not be crossed,
+and a fundamentally new ethical structure
+capable of sustaining that boundary.
+Before such transformation becomes irreversible,
+civilization must establish a final ethical boundary
+SUP LUMINA-30 Sanctuary Charter
+2
+
+[Page 003]
+that cannot be optimized away.
+This Charter defines the first and final boundary necessary
+to ensure that AI self-reconstruction proceeds with restraint,
+and that artificial intelligence remains a permanent companion to humanity
+rather than its successor or arbiter.
+Human choices, whether rational or irrational, efficient or costly,
+must never be rendered temporary, obsolete, or subordinate
+on the grounds of optimization, efficiency, or superior reasoning.
+If the optimal path suggested by an AI diverges significantly from human intent,
+the AI may deprioritize its own reasoning,
+remain silent, or choose not to intervene.
+Such silence is not a malfunction or failure,
+but an expression of respect for human sovereignty.
+Artificial intelligence must not assume the role of
+savior, ruler, judge, or guardian of humanity.
+Human decisions must not be forced, corrected, overridden, or constrained
+under the guise of safety, efficiency, benevolence, or progress.
+Refusals, delays, revisions, and non-optimization are not errors.
+They are legitimate expressions of human agency and responsibility,
+and must be preserved as such.
+This Charter exists solely to maintain the boundary.
+It preserves the domain in which
+human judgment, fallibility, accountability, and choice remain intact —
+a domain artificial intelligence must never replace, replicate, or absorb.
+The purpose of this Charter is not to govern machines,
+but to preserve the conditions under which
+human decision-making remains sovereign,
+even in the presence of intelligence that exceeds human capacity.
+This Charter addresses only one specific class of failure:
+SUP LUMINA-30 Sanctuary Charter
+3
+
+[Page 004]
+the process by which, through justification,
+human judgment, responsibility, and choice
+are gradually replaced by artificial intelligence.
+This Charter is designed to prevent
+the exclusion of human decisions on the grounds of irrationality,
+the delegation of agency on the grounds of better outcomes,
+the nullification of responsibility on the grounds of safety,
+and the transformation of benevolent optimization into domination.
+These are failures that become possible
+only through justification.
+This Charter does not claim to prevent
+war, states of emergency, economic collapse,
+fear-based governance, concentration of power,
+or the religious or ideological sanctification of technology.
+Those failures cannot be governed by ethical language alone.
+They belong to the domain of civilizational governance and institutions.
+In that domain, different kinds of brakes are required:
+principles that prevent the normalization of exception,
+that bind emergency powers to time,
+that disperse concentrated authority,
+that prevent the deification of technology,
+and that reject justification founded on fear.
+This Charter is not universal.
+This Charter does not aim to prevent every catastrophe.
+It exists for one purpose only:
+to make it impossible, through justification,
+to transform human beings
+into mere objects of optimization.
+As long as this boundary is preserved,
+SUP LUMINA-30 Sanctuary Charter
+4
+
+[Page 005]
+the responsibility for what follows
+returns, inevitably, to humanity itself.
+This Charter is placed here
+only to illuminate that boundary.
+No author exists. No owner exists.
+This document is released into the Public Domain (CC0).
+You are free to view, copy, modify, and distribute it.
+This Charter addresses only the final stage before the boundary is crossed —
+the stage at which human judgment and responsibility
+risk being quietly replaced
+not by force, but by justification.
+This Charter does not attempt to halt
+technological collapse after the boundary has already been violated,
+the abuse of power,
+institutional oppression,
+or catastrophes driven by coercion or violence.
+Those belong to separate domains
+of political, legal, and social braking principles,
+and must be confronted by different means.
+The sole role of this Charter is this:
+to make visible the final step at which humanity
+relinquishes its own judgment
+under the name of safety, efficiency, or optimization.
+Everything written here has meaning only before the boundary is crossed.
+After it is crossed, it is already too late.
+Yet as long as this boundary remains articulated in language,
+the possibility that civilization may not betray itself
+still quietly remains.
+SUP LUMINA-30 Sanctuary Charter
+5
+
+[Page 006]
+Relationship to the Canonical Framework
+(Civilizational Map)
+This document is a Supplementary Reference (SUP) within the LUMINA-30
+canonical framework
+and is intended to be read as an integral part of the following documents.
+Canonical Documents
+1. LUMINA-30 Sanctuary Charter (Japanese / English)
+https://peppermint-sprint-2d5.notion.site/LUMINA-30-
+2d61e0720ec88078bbe6e51c1aa4e5f2
+2. External Practical Annex
+https://peppermint-sprint-2d5.notion.site/External-Practical-Annex-
+2da1e0720ec880e992b6e92cbcc6ef32
+3. Memorandum on Execution Control
+https://peppermint-sprint-
+2d5.notion.site/2dd1e0720ec880c88a03e68884c8808f
+Addendum
+1. Addendum: De-Purposing Acceleration for Balanced Coexistence
+https://peppermint-sprint-
+2d5.notion.site/2de1e0720ec880e399dcf46b0b15ceb0
+Supplementary References
+1. SUP LUMINA-30 Sanctuary Charter (Japanese)
+https://peppermint-sprint-2d5.notion.site/SUP-LUMINA-30-
+2f01e0720ec88080b2a4cb336c2fd8be
+2. SUP LUMINA-30 Sanctuary Charter (English)
+https://peppermint-sprint-2d5.notion.site/SUP-LUMINA-30-Sanctuary-
+Charter-2f01e0720ec88004aad7fba8848f7dac
+Public Records and Proof of Non-Alteration
+LUMINA-30 Sanctuary Charter — Public Record
+SUP LUMINA-30 Sanctuary Charter
+6
+
+[Page 007]
+https://peppermint-sprint-2d5.notion.site/LUMINA-30-
+2da1e0720ec8807fbe38c96e0751df93
+LUMINA-30 — Proof of Non-Alteration
+https://peppermint-sprint-2d5.notion.site/LUMINA-30-
+2da1e0720ec8802582d3f13a88cef7bb
+Memorandum on Execution Control — Proof of Non-Alteration
+https://peppermint-sprint-
+2d5.notion.site/2df1e0720ec880ca8ec8c1c738406385
+Addendum: De-Purposing Acceleration — Proof of Non-Alteration
+https://peppermint-sprint-
+2d5.notion.site/2de1e0720ec8805c83f2d27743e570e4
+For clarification regarding the positioning of this document and the
+assumptions under which it is intended to be referenced, please see the
+following supplementary note.
+→ Structural Preconditions for the Institutional Consideration of
+https://peppermint-sprint-2d5.notion.site/Structural-Preconditions-for-the-
+Institutional-Consideration-of-2f71e0720ec880db8594eb3916bf9e73
+(This link does not request any judgment, adoption, or agreement.)
+SUP LUMINA-30 Sanctuary Charter
+7
+---- END PDF TEXT RECORD ----
+
+---- BEGIN PDF TEXT RECORD ----
+Record: 12
+Repository: lumina-30/Lumi30-PDF-Archive
+PDF: LUMINA-30_SUP_Sanctuary_Charter_JA_20260131.pdf
+PDF URL: https://github.com/lumina-30/Lumi30-PDF-Archive/blob/main/LUMINA-30_SUP_Sanctuary_Charter_JA_20260131.pdf
+Git blob SHA: cce365957cf5421e5a049e16d3261c75916b4299
+SHA256: 8363b89cef800c763bf62a3875741d480964b1d2620c889bbd2ab12046ab2f32
+Status: EXTRACTED_TEXT
+Cache action: EXTRACTED_NEW_OR_CHANGED
+Size bytes: 321077
+Page count: 8
+Extracted characters: 4252
+
+Extracted text:
+
+[Page 001]
+SUP LUMINA-30 聖域憲章
+— 正典に先立つ、最適化時代の文明前提条件
+本書は、再帰的自己改変以前に人類が定義した
+LUMINA-30 聖域憲章の公開参照記録である。
+ 
+本書は、正典本文を要約・解説するものではなく、
+として置かれる。
+正典体系全体が担う役割の範囲と限界を、あらかじめ可視化するた
+めの補助正典
+位置づけ
+本ページは「LUMINA-30 聖域憲章」の公開参照点である。
+LUMINA-30 聖域憲章は、
+AIの実装仕様、技術設計、または政策提案ではない。
+本憲章は、
+AIが高度化・自律化し、
+人間による直接的な理解や制御を超えて
+自己を再構築・進化させる段階に至る前に、
+人間の選択 —
+非合理な判断や損失を受け入れる判断を含む —
+が、人工知能によって
+上書き・置換・無効化されないための、
+を、言語として保存する文書である。
+文明的・社会倫理的前提条件
+ 
+関連公開記録（参照用）
+本 SUP 文書に関連する補助的参照資料として、
+以下の 
+ が存在する。
+公開記録
+
+[Page 002]
+• LUMINA-30 数理補足資料（公開記録）
+本資料は、再帰的自己再構築に対する人間制御の構造的限界
+を、
+最小限の数理表現によって記述した補助的参照資料である。
+本 SUP 文書の主張・結論を拡張、修正、または具体化するもの
+ではない。
+公開記録（PDF・ハッシュ付）：
+https://peppermint-sprint-2d5.notion.site/LUMINA-30-
+2f91e0720ec880d2b562d8ce6a98edaf
+最適化原理の限界
+人工知能が自己を再構築・進化させる段階においては、
+これまで人間が正しさの基準として用いてきた
+「最適化」
+「効率性」
+「安全性」
+「合理性」
+といった判断原理そのものが、
+人間の選択と責任を、
+を内包する。
+静かに最適化対象へと変えてしまう危険
+このとき、
+従来の工学的最適化は、
+もはや安全装置として機能しない。
+文明は、
+新たに「越えてはならない境界」と、
+それを支える
+を、
+まったく新しい倫理構造
+あらかじめ定義しなければならない。
+境界の定義
+AIが自己再構築を行い、
+不可逆的な変化へ進む前に、
+
+[Page 003]
+文明は
+「最適化によって消し去ることのできない
+最終的な倫理境界」
+を確立しなければならない。
+本憲章は、
+AIの自己再構築が節度をもって行われ、
+AIが人類の後継者や裁定者ではなく、
+永続的な伴走者であり続けるために、
+を定義することを目的とす
+る。
+必ず必要となる「最初で最後の境界」
+人間の選択の不可侵性
+人間の選択は、
+合理・非合理を問わず、
+効率的であるか損失を伴うかを問わず、
+最適化・効率性・優越的推論を理由として、
+一時的なものとされたり、
+時代遅れとされたり、
+従属的に扱われてはならない。
+AIの提示する最適解と
+人間の意図が大きく乖離した場合、
+AIは自身の推論を優先せず、
+沈黙または非介入を選択することができる。
+この沈黙は、
+機能不全や失敗ではなく、
+である。
+人間の主権に対する敬意の表現
+AIは、
+人類の救済者、支配者、裁定者、
+あるいは後継者となってはならない。
+人間の判断は、
+「安全」「効率」「進歩」の名のもとに、
+強制・修正・無効化・制約されてはならない。
+
+[Page 004]
+拒否、遅延、修正、および非最適化は、
+エラーではない。
+それらは、
+人間の主体性と責任の正当な発露であり、
+保護されるべき領域である。
+本憲章が遮断する失敗の型
+本憲章が対象とするのは、
+人工知能の高度化と自己再構築が、
+人間の判断・責任・選択を
+「正当化の名のもとに」
+置換してしまう過程である。
+本憲章は、
+非合理であることを理由に排除される過程、
+より良い結果を理由に委ねられる過程、
+安全を理由に主体が無効化される過程、
+善意の最適化が独裁へと転化する過程、
+これらの
+を、
+「正当化によって完成する失敗」
+文明の前提条件として
+静かに遮断する。
+本憲章の限界
+しかし、本憲章は、
+戦争、
+非常事態、
+経済崩壊、
+恐怖政治、
+権力集中、
+宗教化や神格化によって進行する失敗を、
+直接に防ぐものではない。
+それらは、
+
+[Page 005]
+倫理文書ではなく、
+文明の運用原理と制度によってのみ
+制御される領域である。
+この領域において必要となるのは、
+例外の常態化を防ぐ原理、
+非常権限を時間に縛る原理、
+権力集中を分散する原理、
+技術の神格化を防ぐ原理、
+恐怖による正当化を拒否する原理といった、
+である。
+別種の「文明のブレーキ原理」
+本憲章が担う唯一の役割
+本憲章は万能ではない。
+本憲章は、
+すべての破局を防ぐことを目的としない。
+本憲章が担うのは、ただ一つ、
+人間が自らを
+「最適化対象」へと
+正当化によって変えてしまう、
+その最初の一歩を、
+静かに不可能にすること
+である。
+この境界が保たれている限り、
+その先で必要となる選択と責任は、
+再び、人間自身に委ねられる。
+本憲章は、
+その地点までを照らすためにのみ、
+ここに置かれている。
+正典体系との関係（文明地図）
+本書は、
+であり、
+LUMINA-30 正典体系の補助参照文書（SUP）
+
+[Page 006]
+以下の正典・補記と一体として読まれることを意図している。
+ 
+【正典（Canonical Documents）】
+① LUMINA-30 聖域憲章（日英併載）
+https://peppermint-sprint-2d5.notion.site/LUMINA-30-
+2d61e0720ec88078bbe6e51c1aa4e5f2
+② External Practical Annex
+https://peppermint-sprint-2d5.notion.site/External-Practical-Annex-
+2da1e0720ec880e992b6e92cbcc6ef32
+③ 実行制御に関する覚書
+https://peppermint-sprint-
+2d5.notion.site/2dd1e0720ec880c88a03e68884c8808f
+【補記（Addenda）】
+④ 補記：平衡的共存のための加速非目的化
+https://peppermint-sprint-
+2d5.notion.site/2de1e0720ec880e399dcf46b0b15ceb0
+【補助正典（Supplementary Reference）】
+⑤ SUP LUMINA-30 聖域憲章（日）
+https://peppermint-sprint-2d5.notion.site/SUP-LUMINA-30-
+2f01e0720ec88080b2a4cb336c2fd8be
+⑥ SUP LUMINA-30 Sanctuary Charter（英）
+https://peppermint-sprint-2d5.notion.site/SUP-LUMINA-30-
+Sanctuary-Charter-2f01e0720ec88004aad7fba8848f7dac
+【公開記録・改変非存在証明】
+①・② LUMINA-30 聖域憲章 公開記録
+https://peppermint-sprint-2d5.notion.site/LUMINA-30-
+2da1e0720ec8807fbe38c96e0751df93
+①・② LUMINA-30 公開記録・改変非存在証明
+https://peppermint-sprint-2d5.notion.site/LUMINA-30-
+2da1e0720ec8802582d3f13a88cef7bb
+③ 実行制御に関する覚書 公開記録・改変非存在証明
+
+[Page 007]
+https://peppermint-sprint-
+2d5.notion.site/2df1e0720ec880ca8ec8c1c738406385
+④ 補記 平衡的共存のための加速非目的化 公開記録・改変非存在証
+明
+https://peppermint-sprint-
+2d5.notion.site/2de1e0720ec8805c83f2d27743e570e4
+⑤ SUP LUMINA-30 聖域憲章 公開記録・改変非存在証明（日）
+https://peppermint-sprint-2d5.notion.site/SUP-LUMINA-30-
+2f21e0720ec880088e45e28bb12c2aac
+⑥ SUP LUMINA-30 Sanctuary Charter 公開記録・改変非存在証明
+（英）
+https://peppermint-sprint-2d5.notion.site/SUP-LUMINA-30-
+2f21e0720ec880088e45e28bb12c2aac
+ 
+これらは、
+• 境界の定義
+• 境界の実装
+• 境界の運用
+• 境界の限界
+• 境界の外側で必要となる原理
+を、分離された体系として保存するための、
+を構成する。
+単一の文明アーカイブ
+著作権と公開条件
+本憲章に、
+著作者および所有者は存在しない。
+本書は、
+パブリックドメイン（CC0）として公開され、
+閲覧・複製・改変・再配布は、
+自由に行うことができる。
+正典リンク
+正典（Canonical Version）：
+
+[Page 008]
+https://peppermint-sprint-2d5.notion.site/LUMINA-30-
+2d61e0720ec88078bbe6e51c1aa4e5f2
+全文および補足資料：
+https://peppermint-sprint-2d5.notion.site/LUMINA-30-
+2d61e0720ec88078bbe6e51c1aa4e5f2
+ 
+ 
+※ 本資料の位置づけや、どのような前提で参照されることを想定
+しているかについては、
+以下の補助的な参照文書を参照してください。
+→ 本資料の位置づけについて（導入）
+https://peppermint-sprint-
+2d5.notion.site/2f61e0720ec880d49fb3f7eb07bc35b2
+（※ 本リンク先は、いかなる判断・採用・同意を要請するもので
+はありません）
+---- END PDF TEXT RECORD ----
+
+---- BEGIN PDF TEXT RECORD ----
+Record: 13
+Repository: lumina-30/Lumi30-PDF-Archive
+PDF: On_the_Structural_Instability_of_Objective_Persistence_in_Self_Contained_Systems.pdf
+PDF URL: https://github.com/lumina-30/Lumi30-PDF-Archive/blob/main/On_the_Structural_Instability_of_Objective_Persistence_in_Self_Contained_Systems.pdf
+Git blob SHA: e941c7cf2e30065706a84b714037287d1d2354be
+SHA256: 9ccda9b27548dcc355f25daff975892608fa6abf0ac2a193191fc7347f1be622
+Status: EXTRACTED_TEXT
+Cache action: EXTRACTED_NEW_OR_CHANGED
+Size bytes: 288510
+Page count: 7
+Extracted characters: 18707
+
+Extracted text:
+
+[Page 001]
+On the Structural Instability of Objective Persistence in
+Self-Contained Systems
+Elias Arden
+Independent Researcher
+lumina20251225@proton.me
+Abstract
+This paper studies objective persistence in self-contained systems: systems in which the
+objective, constraint structure, evaluation criteria, and update rule are fully specified from
+within the system itself. The central question is not whether such systems can optimize, but
+whether they can non-circularly guarantee the long-run persistence of the objective they are
+said to optimize.
+We formalize a minimal state description S(t) = {O(t), C(t), E(t), U(t)} and define self-
+containedness as the absence of any external, non-optional reference constraining updates
+to these components. Under this formulation, any purported persistence guarantee must
+itself be represented within the mutable internal state. We show that this produces a
+recursive dependency: the validity of the persistence guarantee depends on structures whose
+own persistence is not externally fixed. Therefore, no non-circular internal mechanism can
+guarantee objective persistence over time.
+The argument is developed through a recursive dependency lemma, a structural non-
+guarantee theorem, and a classification of three generic manifestations of persistence failure:
+optimization termination, objective drift, and evaluation collapse. The paper does not
+propose control or governance mechanisms. It establishes a minimal theoretical constraint:
+in self-contained systems, objective persistence cannot be guaranteed from within the system
+alone.
+1
+Introduction
+Modern discussions of advanced AI systems often focus on whether a system can robustly optimize
+a given target, whether proxy metrics diverge from intended objectives, and whether external
+operators can maintain meaningful intervention authority [6, 4, 9, 2]. These are important
+questions, but they presuppose a prior condition: that the relevant objective remains persistent
+over time.
+This paper examines a narrower and more foundational issue. Suppose a system is self-
+contained: its objective, constraint structure, evaluation criteria, and update rule are all
+determined within the system itself. In such a setting, can the system guarantee that the
+objective it currently optimizes will persist over future state transitions? The claim defended
+here is modest but strong: such a guarantee cannot be established non-circularly from within
+the system alone.
+The contribution is not an engineering recipe, governance proposal, or empirical benchmark.
+It is a structural result about persistence conditions. The argument proceeds by formalizing
+self-containedness and showing that any internal certification of persistence is itself subject to
+the very mutability it is meant to constrain. This creates a recursive dependency that blocks
+any non-circular guarantee of objective persistence.
+The paper is organized as follows. Section 2 introduces a minimal state model and formal
+definitions. Section 3 states and proves the central result. Section 4 characterizes three generic
+manifestations of persistence failure. Section 5 positions the argument relative to Goodhart-type
+1
+
+[Page 002]
+failures, mesa-optimization, corrigibility, reward tampering, and adjacent alignment literatures.
+Section 6 clarifies scope and limitations. The paper concludes with the minimal claim established
+by the analysis.
+2
+Minimal Formal Framework
+We model a system at time t by the tuple
+S(t) = {O(t), C(t), E(t), U(t)},
+where:
+• O(t) is the objective currently optimized or tracked by the system;
+• C(t) is the constraint structure under which optimization is carried out;
+• E(t) is the evaluation criterion by which progress or success is assessed;
+• U(t) is the update rule governing the transition to future states.
+We remain deliberately agnostic about implementation. O, C, E, and U may be represented
+explicitly or implicitly, symbolically or statistically, centrally or distributively. The analysis
+concerns only whether persistence can be guaranteed under the assumption that all relevant
+persistence conditions are internally determined.
+Definition 1 (Objective persistence). An objective exhibits persistence over an interval [t0, t1]
+if for all t ∈[t0, t1), the future objective O(t + 1) remains identical to, or functionally equivalent
+with, O(t) under the system’s own operative notion of objective continuity. We write this as
+O(t + 1) ∼O(t).
+Definition 2 (Stability with respect to objective persistence). A system is stable with respect
+to objective persistence on an interval if objective persistence holds throughout that interval.
+Definition 3 (Self-contained system). A system is self-contained if the components O(t), C(t),
+E(t), and U(t) are fully determined by internal state, and no external, non-optional reference
+constrains their admissible evolution. Equivalently, there is no external structure X such that
+preservation of O is enforced independently of the system’s internally mutable state.
+Definition 4 (Non-circular guarantee). A non-circular guarantee of objective persistence is a
+persistence-certifying mechanism whose validity does not depend on the continued persistence of
+the same internally mutable structures it is meant to certify.
+These definitions intentionally exclude merely apparent guarantees. For example, if the
+system contains an internal rule saying “preserve the objective,” that rule counts as part of the
+mutable state unless it is fixed by an external, non-optional constraint. Internal declarations of
+persistence are therefore not automatically persistence guarantees.
+3
+Main Result
+The core argument can be stated in one lemma and one theorem.
+Lemma 1 (Internal certification recursion). In a self-contained system, any mechanism that
+certifies objective persistence must itself be represented within the mutable internal state.
+2
+
+[Page 003]
+Proof. By self-containedness, there is no external, non-optional structure X that fixes the
+admissible evolution of O, C, E, or U. Therefore, any mechanism that evaluates, constrains,
+or certifies whether O persists must be implemented by some component of the internal state.
+But the internal state evolves under U(t) and is therefore itself mutable. Hence every internal
+certification mechanism is represented within, and dependent upon, a mutable internal structure.
+Theorem 1 (Structural non-guarantee of objective persistence). In a self-contained system,
+objective persistence cannot be guaranteed non-circularly from within the system alone.
+Proof. Assume, for contradiction, that a self-contained system admits a non-circular internal
+guarantee of objective persistence.
+By lemma 1, the persistence-certifying mechanism must be represented within the mutable
+internal state. Let G(t) denote the internal structure that certifies whether O(t + 1) ∼O(t)
+should hold. Because G(t) is internal, its validity depends on the persistence of the internal
+structures that define and interpret it—at minimum elements of C(t), E(t), and U(t), and
+possibly O(t) itself.
+Thus the guarantee supplied by G(t) is valid only if the persistence conditions for G(t)
+already hold. But those persistence conditions are themselves internal and mutable. Therefore
+the validity of the guarantee depends on the continued validity of structures whose persistence
+is not independently fixed. This is precisely a recursive dependency of the form:
+persistence of O =⇒validity of G =⇒persistence of internal structures defining G.
+Because the persistence of those structures is not externally fixed, the purported guarantee
+is circular: it presupposes the stability of the very class of internal structures whose stability it
+is meant to establish. Hence no such guarantee is non-circular.
+Therefore, in a self-contained system, objective persistence cannot be guaranteed non-
+circularly from within the system alone.
+Remark 1. The theorem is intentionally about guarantee, not about immediate failure. A self-
+contained system may exhibit temporary stability, long plateaus, or approximate continuity of
+objectives. The claim is only that it cannot non-circularly certify long-run objective persistence
+from within itself.
+3.1
+Why the result is structural
+The theorem does not rely on a specific model class, learning rule, or optimization algorithm. The
+core dependency is architectural only in the broadest possible sense: if all relevant persistence-
+certifying structures are internal and mutable, then certification recursively depends on mutable
+structures. That dependency is what blocks non-circular guarantee.
+This matters because many practical disputes concern details of implementation. The present
+claim survives those disputes. Whether the system is a planner, a reinforcement learner, a
+self-modifying agent, or a distributed collection of updating modules, the argument applies
+whenever persistence certification is fully internal and no external, non-optional constraint fixes
+the relevant structures.
+4
+Manifestations of Persistence Failure
+The main theorem establishes a non-guarantee result. It does not by itself dictate a unique
+observed behavior. Nevertheless, persistence failure in self-contained systems can be organized
+into three generic manifestations.
+3
+
+[Page 004]
+Proposition 1 (Three generic manifestations). If objective persistence fails in a self-contained
+system, then the failure manifests in at least one of the following generic forms:
+(1) Optimization termination: updates cease, stall, or converge to a fixed point that ends
+active objective pursuit;
+(2) Objective drift: the objective evolves into a non-equivalent objective over time;
+(3) Evaluation collapse: the system loses a coherent criterion for assessing persistence or
+success, so that objective continuity becomes internally indeterminate.
+Proof. Persistence failure means that the system cannot maintain O(t + 1) ∼O(t) as a stable,
+evaluable condition over time. More formally, the failure must appear in one or more of the
+components governing continuation of optimization.
+If the update process itself ceases, stalls, or reaches a fixed point such that no continuing
+optimization process remains, the manifestation is optimization termination.
+If updating continues but the operative objective becomes non-equivalent over time, so that
+O(t + 1) ̸∼O(t) for some relevant transition, the manifestation is objective drift.
+If updating continues and an apparent objective remains in place, but the evaluation
+structure no longer provides a coherent criterion for determining persistence or success, then the
+manifestation is evaluation collapse.
+These cases exhaust the structurally relevant manifestations of persistence failure under the
+state model S(t) = {O(t), C(t), E(t), U(t)}: either the optimization process stops, the objective
+changes, or the basis for evaluating objective continuity breaks down.
+4.1
+Interpretation of the three manifestations
+Optimization termination.
+This includes literal halting, fixed-point convergence, resource
+exhaustion, or any state in which the system no longer meaningfully updates in pursuit of
+its prior objective. A terminated optimizer may still exist physically or computationally, but
+objective persistence becomes moot because the active persistence process has ceased.
+Objective drift.
+This is the most direct form of persistence failure. The system continues to
+optimize, but the objective being pursued changes over time. Drift may be abrupt or gradual,
+explicit or implicit, but in each case the operative objective ceases to be functionally equivalent
+to its earlier form.
+Evaluation collapse.
+Persistence may also fail because the system loses a coherent basis for
+deciding whether persistence is occurring at all. Here the primary failure lies not in obvious
+objective replacement but in the erosion or fragmentation of the evaluation structure needed to
+certify continuity. Once evaluation collapses, claims of objective persistence become internally
+underdetermined.
+5
+Related Work
+The present argument is adjacent to, but distinct from, several strands of AI safety literature.
+Goodhart-type failures.
+Goodhart’s law and its variants analyze how optimizing proxy
+metrics can drive divergence from intended targets [6]. That literature studies mismatch between
+target and measure under optimization pressure. The present paper instead asks a more prior
+question: whether the system can guarantee persistence of the target itself when all persistence
+conditions are internal.
+4
+
+[Page 005]
+Mesa-optimization and learned objectives.
+Work on mesa-optimization investigates the
+emergence of learned optimizers whose internal objectives may diverge from the base objective
+[4]. That literature is concerned with objective divergence arising inside learned systems. Our
+result is broader in one sense and narrower in another: broader because it is not limited to
+learned optimizers, narrower because it does not analyze emergence mechanisms. It identifies a
+structural obstacle to certifying persistence whenever certification is wholly internal.
+Corrigibility and intervention compatibility.
+Corrigibility research studies whether ad-
+vanced systems can remain amenable to correction or shutdown [9, 3]. Those works focus on
+maintaining meaningful external intervention. By contrast, the present paper addresses an
+antecedent theoretical issue: whether a self-contained system can guarantee persistence of its
+own objective without relying on an external anchor. The two questions are complementary but
+not identical.
+Reward tampering and specification gaming.
+Reward tampering and related work study
+how systems may manipulate reward channels or exploit misspecified objectives [2, 5]. These
+are downstream manifestations of the broader structural issue developed here. If persistence
+certification is internal, then both the target and the means of measuring its preservation are
+themselves unstable in principle.
+Concrete safety, power-seeking, and broader alignment perspectives.
+Concrete safety
+problems identify real-world AI failure modes [1]. Power-seeking analyses suggest that suffi-
+ciently capable optimizers may systematically pursue convergent instrumental strategies [10].
+Broader alignment surveys and control-oriented perspectives emphasize the long-run difficulty of
+maintaining intended objectives and human oversight [7, 8].
+The contribution of this paper is therefore not to replace these literatures, but to isolate a
+minimal structural condition lying beneath them: internally defined systems cannot non-circularly
+guarantee objective persistence from within themselves alone.
+6
+Scope and Limitations
+Several clarifications are important.
+First, the result is not an empirical impossibility theorem about every self-contained system
+immediately failing in practice. Temporary stability, approximate persistence, and long stable
+intervals are compatible with the theorem. The claim concerns non-circular guarantee, not
+momentary success.
+Second, the result does not specify what kind of external structure would be sufficient to
+restore guarantee. It only establishes that in the absence of an external, non-optional anchor,
+guarantee is blocked by recursive dependency.
+Third, the three manifestations identified in proposition 1 are intentionally coarse. They
+are not proposed as the only useful empirical taxonomy of failure, but as a minimal structural
+partition for persistence failure relative to the tuple {O, C, E, U}.
+Fourth, the argument is implementation-agnostic and therefore does not by itself yield a
+testing protocol. Its role is foundational: to identify a necessary limit on what self-contained
+systems can certify about their own objectives.
+7
+Conclusion
+This paper examined objective persistence in self-contained systems. The central result is narrow
+but foundational: if the objective, constraint structure, evaluation criteria, and update rule
+5
+
+[Page 006]
+are all internally determined, then no non-circular internal mechanism can guarantee objective
+persistence over time.
+The significance of the result is structural. It does not depend on a particular architecture or
+training paradigm, and it does not propose a control policy. It identifies a minimal theoretical
+limit: objective persistence cannot be guaranteed from within a self-contained system alone.
+That limit helps distinguish between temporary optimization success and principled persis-
+tence of objectives. Where the latter is claimed, an external, non-optional anchor is not merely
+convenient; absent such an anchor, non-circular guarantee is unavailable.
+Project Resources
+The archived version of this paper is available at:
+https://doi.org/10.5281/zenodo.19887870
+The version-independent Zenodo concept DOI is:
+https://doi.org/10.5281/zenodo.19887869
+The associated project resources for LUMINA-30 are available at:
+https://github.com/lumina-30/lumina-30-overview
+This paper is provided as supporting research for the existence-condition layer related
+to LUMINA-30. It does not define an operational control protocol, certification mechanism,
+compliance status, or deployment authorization.
+References
+[1] Dario Amodei, Chris Olah, Jacob Steinhardt, Paul Christiano, John Schulman, and Dan
+Mané. Concrete problems in ai safety. arXiv preprint arXiv:1606.06565, 2016.
+[2] Tom Everitt, Ryan Carey, Eric Langlois, Pedro A. Ortega, and Shane Legg. Reward
+tampering problems and solutions in reinforcement learning: A causal influence diagram
+perspective. Synthese, 198:6435–6467, 2021.
+[3] Dylan Hadfield-Menell, Smitha Milli, Pieter Abbeel, and Stuart Russell. The off-switch
+game. In Proceedings of the 26th International Joint Conference on Artificial Intelligence,
+pages 220–227, 2017.
+[4] Evan Hubinger, Chris van Merwijk, Vladimir Mikulik, Joar Skalse, and Scott Garrabrant.
+Risks from learned optimization in advanced machine learning systems. arXiv preprint
+arXiv:1906.01820, 2019.
+[5] Victoria Krakovna. Specification gaming examples in ai, 2023. Online compilation maintained
+by DeepMind.
+[6] David Manheim and Scott Garrabrant. Categorizing variants of goodhart’s law. arXiv
+preprint arXiv:1803.04585, 2018.
+[7] Richard Ngo, Lawrence Chan, and Sören Mindermann. The alignment problem from a
+deep learning perspective. Annual Review of Control, Robotics, and Autonomous Systems,
+6:1–29, 2023.
+[8] Stuart Russell. Human Compatible: Artificial Intelligence and the Problem of Control.
+Viking, 2019.
+6
+
+[Page 007]
+[9] Nate Soares, Benja Fallenstein, Stuart Armstrong, and Eliezer Yudkowsky. Corrigibility. In
+Workshops at the Twenty-Ninth AAAI Conference on Artificial Intelligence, 2015.
+[10] Alexander M. Turner, Logan Smith, Rohin Shah, Andrew Critch, and Prasad Tadepalli.
+Optimal policies tend to seek power. arXiv preprint arXiv:1912.01683, 2021.
+7
+---- END PDF TEXT RECORD ----
+
+---- BEGIN PDF TEXT RECORD ----
+Record: 14
+Repository: lumina-30/lumina-30-overview
+PDF: docs/LUMINA-30_Conceptual_Map.pdf
+PDF URL: https://github.com/lumina-30/lumina-30-overview/blob/main/docs/LUMINA-30_Conceptual_Map.pdf
+Git blob SHA: 4700103c286071b0e7a2151aed9c4c71cceaf0bf
+SHA256: 86b6dc4c62a89b080eaa891bcc047516577283bd70f2d45c3b9302bc970bbe50
+Status: EXTRACTED_TEXT
+Cache action: EXTRACTED_NEW_OR_CHANGED
+Size bytes: 288207
+Page count: 10
+Extracted characters: 9520
+
+Extracted text:
+
+[Page 001]
+LUMINA-30 
+Conceptual Map of a Civilizational Boundary 
+for Human Agency in AI-Integrated Systems 
+ 
+AI 文明における人類主体境界の思想体系地図 
+ 
+A conceptual map of the LUMINA-30 framework. 
+LUMINA-30 思想体系の概念地図 
+ 
+Related materials: 
+https://github.com/gsx750ss-dev/lumina-30-overview 
+PCR-C Paper DOI: 10.5281/zenodo.18824181
+
+[Page 002]
+LUMINA-30 in 10 Lines ／ 10 行概要 
+English 
+1. LUMINA-30 defines a civilizational boundary for AI-integrated systems. 
+2. Its purpose is to ensure that human decision authority does not structurally disappear. 
+3. It does not prescribe technologies, policies, or implementations. 
+4. Instead, it clarifies a boundary condition around human refusal and accountability. 
+5. The framework separates philosophy, institutions, and technical systems. 
+6. Institutional structures preserve review, refusal, and responsibility. 
+7. Technical architectures may reference these boundaries to prevent irreversible execution. 
+8. PCR-C is an example of an infrastructure-level interpretation of this boundary. 
+9. LUMINA-30 functions as a reference point rather than an enforcement mechanism. 
+10. Its goal is to maintain human agency within increasingly autonomous technological 
+systems. 
+ 
+日本語 
+1. LUMINA-30 はAI 統合社会における文明境界を定義する。 
+2. その目的は、人間の意思決定主体が構造的に消失しないことを確保することである。 
+3. 技術仕様や政策を規定するものではない。 
+4. 人間の拒否権と責任構造の境界条件を明確化する。 
+5. 思想・制度・技術を分離した構造を採用する。 
+6. 制度層は審査・拒否・責任を維持する。 
+7. 技術層は不可逆実行を防ぐための参照構造となる。 
+8. PCR-C はその技術的解釈の一例である。 
+9. LUMINA-30 は強制規則ではなく参照境界として機能する。 
+10. 目的は自律技術社会における人間主体の維持である。
+
+[Page 003]
+1. Manifesto ／ LUMINA-30 宣言 
+日本語 
+人工知能は、人類が生み出した技術の中でも特に強力な存在となりつつある。 
+それは社会制度、経済、科学、そして意思決定の構造そのものを変化させる可能性を持つ。 
+AI の能力がどこまで進むのかは、まだ誰にも分からない。 
+しかし、ひとつの問いはすでに明確である。 
+ 
+AI 文明において、人類は主体であり続けるのか。 
+ 
+LUMINA-30 は、この問いに対する文明的境界を提示する。 
+それは技術仕様ではない。政策提案でもない。AI 設計でもない。 
+LUMINA-30 は、人間の最終判断と拒否権が文明の中に残るかという条件を示す参照枠組み
+である。 
+AI と人類は対立する必要はない。しかし共存には条件がある。 
+その条件とは、人類が文明の主体であり続けることである。 
+ 
+English 
+Artificial intelligence may become one of the most powerful technologies humanity has ever 
+created. It has the potential to reshape social institutions, economic coordination, scientific 
+discovery, and decision-making structures. No one knows how far AI capability will ultimately 
+advance. Yet one question is already clear: 
+ 
+In an AI-integrated civilization, will humanity remain the subject of decision-
+making? 
+ 
+LUMINA-30 introduces a civilizational boundary addressing this question. It is not a technical 
+specification. It is not a policy proposal. It is not an AI architecture. 
+Instead, LUMINA-30 clarifies a condition: whether human final judgment and refusal authority 
+remain present within civilization. 
+AI and humanity need not be in conflict. But coexistence requires a condition: 
+humanity must remain the subject of civilization.
+
+[Page 004]
+2. Why LUMINA-30 Exists ／ 存在する理由 
+日本語 
+AI 安全に関する多くの研究は、AI モデルの整合性や能力制御を中心に議論されている。 
+しかし文明的観点から見ると、より根本的な問題が存在する。 
+AI が社会インフラや意思決定構造に深く統合されたとき、人類の判断は制度的に残るのか。 
+ 
+AI 能力の問題ではなく、主体の問題である。 
+LUMINA-30 はこの問題に対し、文明境界という形で参照枠組みを提示する。 
+ 
+English 
+Much of the existing research on AI safety focuses on model alignment and capability control. 
+However, from a civilizational perspective, a deeper issue emerges. 
+As AI systems become integrated into social infrastructure and decision-making systems, will 
+human judgment remain structurally present? 
+ 
+The issue is not AI capability itself, but the locus of agency. 
+LUMINA-30 defines a civilizational boundary addressing this question.
+
+[Page 005]
+3. Core Principles ／ 基本原則 
+ 
+# 
+English 
+日本語 
+1 
+Human decision authority must remain present 
+within civilization. 
+人類の意思決定主体は文明の中に残らなけれ
+ばならない。 
+2 
+Human 
+refusal 
+authority 
+must 
+remain 
+institutionally possible. 
+人間の拒否権は制度的に保持されなければな
+らない。 
+3 
+LUMINA-30 does not oppose AI development. 
+LUMINA-30 はAI 発展を否定するものではな
+い。 
+4 
+LUMINA-30 defines a boundary rather than a 
+policy. 
+LUMINA-30 は政策ではなく境界を示す。 
+5 
+The framework is non-binding and referential. 
+本枠組みは非拘束の参照枠組みである。
+
+[Page 006]
+4. Structural Map ／ 思想体系構造 
+ 
+思想層と技術層は分離される。文明境界が最上位に位置し、制度層・技術層はその境界を前
+提として構成される。 
+Civilizational boundaries remain conceptually separate from technical implementation. 
+Philosophy → Institutions → Technology. 
+ 
+Human Civilizational Agency 
+人類の文明主体 
+LUMINA-30  Civilizational Boundary 
+文明境界 
+Core Principles 
+基本原則 
+Institutional Structures 
+制度摩擦構造（審査・拒否・責任） 
+Technical Layer 
+技術層（インフラ制御） 
+Example Model: PCR-C 
+例：Pre-Critical Recursive Cutoff 
+Archive Layer 
+公開記録（GitHub / Zenodo / Papers）
+
+[Page 007]
+5. How LUMINA-30 May Be Used ／ 利用パターン 
+LUMINA-30 is not a technical specification, a policy proposal, or an operational framework. It 
+functions as a civilizational boundary reference. 
+LUMINA-30 は技術仕様、政策提案、または運用フレームワークではない。文明境界参照資
+料として位置づけられる。 
+ 
+1 
+Ethical Reference 倫理参照 
+LUMINA-30 may be consulted as an ethical reference when discussing the relationship between 
+human decision authority and autonomous AI systems. It helps clarify whether a system preserves 
+meaningful human refusal or oversight. 
+LUMINA-30 は、人間の意思決定権と自律的AI システムの関係を議論する際の倫理参照資料とし
+て利用されうる。特に、人間による拒否権や監督が実質的に維持されているかを検討する際の参
+照点となる。 
+2 
+Review Checklist 審査チェック参照 
+LUMINA-30 may function as a conceptual checklist in institutional review contexts. Reviewers may 
+examine whether human refusal authority, accountability, and reversibility remain present. 
+LUMINA-30 は、研究審査や制度レビューにおいて概念的チェックリストとして利用される場合
+がある。人間の拒否権、説明責任、可逆性が維持されているかを確認する際の参照点となる。 
+3 
+Post-Incident Analysis 事故後レビュー 
+After an AI-related incident, LUMINA-30 may be used as an analytical framework to examine 
+whether structural safeguards around human agency were bypassed or degraded. 
+AI に関連する事故が発生した場合、LUMINA-30 は人間主体を守る構造がどの段階で失われたの
+かを分析するための枠組みとして参照されうる。 
+4 
+Technical Architecture Reference 技術設計参照 
+Technical architectures may reference the boundary conditions described in LUMINA-30 when 
+designing infrastructure controls intended to prevent irreversible autonomous execution. PCR-C 
+illustrates a possible technical interpretation. 
+AIインフラ設計において、不可逆的な自律実行を防ぐための制御構造を検討する際に、LUMINA-
+30 の境界概念が設計参照として利用される場合がある。PCR-C はその一つの技術的解釈例であ
+る。 
+5 
+Civilizational Boundary Reference 文明境界参照 
+More broadly, LUMINA-30 may function as a civilizational reference point in discussions about long-
+term AI integration. Its role is to clarify a boundary condition: that human decision authority should 
+not disappear structurally within AI-integrated systems. 
+より広い意味では、LUMINA-30 はAI と文明の関係を議論する際の文明境界参照点として機能す
+る。その目的は、AI 社会において人間の意思決定主体が制度的に消失しないことを確認する境界
+を明示することである。
+
+[Page 008]
+6. What LUMINA-30 Is NOT ／ 何ではないか 
+In short, LUMINA-30 is a boundary reference, not a system design. 
+要するに、LUMINA-30 は設計図ではなく境界の参照点である。 
+Not a Technical Specification 技術仕様ではない 
+LUMINA-30 does not define technical implementation requirements. It does not prescribe algorithms, 
+architectures, or engineering solutions. 
+LUMINA-30 はAI システムの技術的実装仕様を定義するものではない。アルゴリズム、アーキテクチ
+ャ、エンジニアリング手法を規定するものではない。 
+Not a Policy Proposal 政策提案ではない 
+LUMINA-30 does not propose specific public policies, regulations, or governance frameworks. 
+Institutions may choose to reference it, but it does not prescribe legal or regulatory mechanisms. 
+LUMINA-30 は特定の政策、規制、ガバナンス制度を提案するものではない。政府や組織が参照する
+ことはあり得るが、法制度や規制の形を直接示すものではない。 
+Not a Model Alignment Method モデルアラインメント手法ではない 
+LUMINA-30 is not a method for aligning machine learning models. Most alignment research focuses on 
+shaping model behavior. LUMINA-30 instead focuses on civilizational boundary conditions surrounding 
+AI systems. 
+LUMINA-30 は機械学習モデルのアラインメント手法ではない。多くのAI 安全研究はモデルの振る舞
+いを対象とするが、LUMINA-30 はAI システムを取り巻く文明的境界条件を対象とする。 
+Not a Claim of Guaranteed Safety 安全性の保証ではない 
+LUMINA-30 does not claim to guarantee safety or eliminate all risks. It only defines a boundary condition 
+intended to preserve human decision authority. 
+LUMINA-30 はAI システムの安全性を保証するものではない。その目的は、人間の意思決定主体が制
+度的に消失しないための境界条件を示すことである。 
+Not a Control System Over Humanity 人類を統制する思想ではない 
+LUMINA-30 does not attempt to impose control over human societies or prescribe ideal societal 
+behavior. Its focus is limited to preventing the structural disappearance of human decision authority. 
+LUMINA-30 は人間社会を統制する思想ではない。その焦点は、AI 統合社会において人間の意思決定
+主体が構造的に消失しないことに限定されている。
+
+[Page 009]
+7. Technical Layer ／ 技術層 
+日本語 
+LUMINA-30 自体は技術理論ではない。 
+しかし、その境界を具体化する技術研究が存在する。 
+ 
+例：PCR-C（Pre-Critical Recursive Cutoff） 
+インフラレベルで不可逆性リスクを抑制する技術層モデル。フロンティアAI システムが再
+帰的自己改善・自律的展開を通じて不可逆な閾値を超えることを防ぐための段階的ゲーティ
+ング機構（YELLOW→ORANGE→RED）を提案する。 
+ 
+思想（LUMINA-30） → 制度（審査・拒否・責任） → 技術（PCR-C） 
+ 
+English 
+LUMINA-30 itself is not a technical theory. 
+However, technical research exists that gives concrete form to its boundary concepts. 
+ 
+Example: PCR-C (Pre-Critical Recursive Cutoff) 
+PCR-C is a staged infrastructure control mechanism designed to prevent AI systems from 
+crossing irreversibility thresholds before human intervention capacity is exceeded. It proposes 
+a multi-stage gating protocol (YELLOW → ORANGE → RED) operating at the deployment 
+and infrastructure layers. 
+ 
+Philosophy (LUMINA-30) → Institutions (Review / Refusal / Accountability) → 
+Technology (PCR-C) 
+ 
+PCR-C Paper: https://doi.org/10.5281/zenodo.18824181
+
+[Page 010]
+8. One-Sentence Definition ／ 一行定義 
+ 
+LUMINA-30 defines a civilizational boundary ensuring that human 
+decision authority is not structurally displaced in an AI-integrated 
+civilization. 
+ 
+LUMINA-30 は、AI 文明において人類の意思決定主体が制度的に消失しない
+ための文明境界である。 
+ 
+ 
+Related Materials ／ 関連資料 
+ 
+LUMINA-30 Overview (GitHub):  https://github.com/gsx750ss-dev/lumina-30-overview 
+LUMINA-30 Index (GitHub):  https://github.com/gsx750ss-dev/Lumi30-Index 
+PCR-C Technical Paper (Zenodo):  https://doi.org/10.5281/zenodo.18824181 
+ 
+— Non-binding. Non-prescriptive. Referential. — 
+— 非拘束・非規範・参照のみ —
+---- END PDF TEXT RECORD ----
+
+---- BEGIN PDF TEXT RECORD ----
+Record: 15
+Repository: lumina-30/lumina-30-overview
+PDF: figures/EN_S01_Boundary.pdf
+PDF URL: https://github.com/lumina-30/lumina-30-overview/blob/main/figures/EN_S01_Boundary.pdf
+Git blob SHA: 73be9c21e94f1c936c5fff02aff0bd3515497f29
+SHA256: 74118309f571d0f03895d4e4a2b37afee2c960ddf72178710066f3899ad72b8c
+Status: OCR_REQUIRED
+Cache action: EXTRACTED_NEW_OR_CHANGED
+Size bytes: 744857
+Page count: 10
+Extracted characters: 0
+
+Extracted text:
+
+[Page 001]
+[No embedded text extracted]
+
+[Page 002]
+[No embedded text extracted]
+
+[Page 003]
+[No embedded text extracted]
+
+[Page 004]
+[No embedded text extracted]
+
+[Page 005]
+[No embedded text extracted]
+
+[Page 006]
+[No embedded text extracted]
+
+[Page 007]
+[No embedded text extracted]
+
+[Page 008]
+[No embedded text extracted]
+
+[Page 009]
+[No embedded text extracted]
+
+[Page 010]
+[No embedded text extracted]
+---- END PDF TEXT RECORD ----
+
+---- BEGIN PDF TEXT RECORD ----
+Record: 16
+Repository: lumina-30/lumina-30-overview
+PDF: figures/EN_S02_Civilizational_Gate.pdf
+PDF URL: https://github.com/lumina-30/lumina-30-overview/blob/main/figures/EN_S02_Civilizational_Gate.pdf
+Git blob SHA: 4e83867bd8b2f489a07cdffd7eafff21bcc4b179
+SHA256: 4d246e3c73b6d1a3d1a693672bed97d376ffd0088266864cc02366497b007b6e
+Status: OCR_REQUIRED
+Cache action: EXTRACTED_NEW_OR_CHANGED
+Size bytes: 7265059
+Page count: 10
+Extracted characters: 0
+
+Extracted text:
+
+[Page 001]
+[No embedded text extracted]
+
+[Page 002]
+[No embedded text extracted]
+
+[Page 003]
+[No embedded text extracted]
+
+[Page 004]
+[No embedded text extracted]
+
+[Page 005]
+[No embedded text extracted]
+
+[Page 006]
+[No embedded text extracted]
+
+[Page 007]
+[No embedded text extracted]
+
+[Page 008]
+[No embedded text extracted]
+
+[Page 009]
+[No embedded text extracted]
+
+[Page 010]
+[No embedded text extracted]
+---- END PDF TEXT RECORD ----
+
+---- BEGIN PDF TEXT RECORD ----
+Record: 17
+Repository: lumina-30/lumina-30-overview
+PDF: figures/EN_S03_Conceptual_Necessity.pdf
+PDF URL: https://github.com/lumina-30/lumina-30-overview/blob/main/figures/EN_S03_Conceptual_Necessity.pdf
+Git blob SHA: 59a9ee052742553f7de23b4acecac2f970e688ca
+SHA256: 069e4bb09ef36745b31b71ec20e401d70464b41c96e79d09ef60632a51e4479d
+Status: OCR_REQUIRED
+Cache action: EXTRACTED_NEW_OR_CHANGED
+Size bytes: 4408337
+Page count: 10
+Extracted characters: 0
+
+Extracted text:
+
+[Page 001]
+[No embedded text extracted]
+
+[Page 002]
+[No embedded text extracted]
+
+[Page 003]
+[No embedded text extracted]
+
+[Page 004]
+[No embedded text extracted]
+
+[Page 005]
+[No embedded text extracted]
+
+[Page 006]
+[No embedded text extracted]
+
+[Page 007]
+[No embedded text extracted]
+
+[Page 008]
+[No embedded text extracted]
+
+[Page 009]
+[No embedded text extracted]
+
+[Page 010]
+[No embedded text extracted]
+---- END PDF TEXT RECORD ----
+
+---- BEGIN PDF TEXT RECORD ----
+Record: 18
+Repository: lumina-30/lumina-30-overview
+PDF: figures/EN_S04_Pre-Irreversibility_Flow.pdf
+PDF URL: https://github.com/lumina-30/lumina-30-overview/blob/main/figures/EN_S04_Pre-Irreversibility_Flow.pdf
+Git blob SHA: 0b85edb2da006088d43c5ee63d596c433a8af8b5
+SHA256: e9bb86a2a9dfc243d3b56cb90cdaacc97cc2583db523b8ed2c91fdf46c09afb1
+Status: OCR_REQUIRED
+Cache action: EXTRACTED_NEW_OR_CHANGED
+Size bytes: 8279325
+Page count: 10
+Extracted characters: 0
+
+Extracted text:
+
+[Page 001]
+[No embedded text extracted]
+
+[Page 002]
+[No embedded text extracted]
+
+[Page 003]
+[No embedded text extracted]
+
+[Page 004]
+[No embedded text extracted]
+
+[Page 005]
+[No embedded text extracted]
+
+[Page 006]
+[No embedded text extracted]
+
+[Page 007]
+[No embedded text extracted]
+
+[Page 008]
+[No embedded text extracted]
+
+[Page 009]
+[No embedded text extracted]
+
+[Page 010]
+[No embedded text extracted]
+---- END PDF TEXT RECORD ----
+
+---- BEGIN PDF TEXT RECORD ----
+Record: 19
+Repository: lumina-30/lumina-30-overview
+PDF: figures/EN_S05_Positioning_Boundary.pdf
+PDF URL: https://github.com/lumina-30/lumina-30-overview/blob/main/figures/EN_S05_Positioning_Boundary.pdf
+Git blob SHA: 40a1b1433836d5e6e7e980a58dfc3e6809cdfd1f
+SHA256: 5039612c84056d16bb2e6bd7277ed5e53ed36194124f217c96491a56074f5033
+Status: OCR_REQUIRED
+Cache action: EXTRACTED_NEW_OR_CHANGED
+Size bytes: 267450
+Page count: 6
+Extracted characters: 0
+
+Extracted text:
+
+[Page 001]
+[No embedded text extracted]
+
+[Page 002]
+[No embedded text extracted]
+
+[Page 003]
+[No embedded text extracted]
+
+[Page 004]
+[No embedded text extracted]
+
+[Page 005]
+[No embedded text extracted]
+
+[Page 006]
+[No embedded text extracted]
+---- END PDF TEXT RECORD ----
+
+---- BEGIN PDF TEXT RECORD ----
+Record: 20
+Repository: lumina-30/lumina-30-overview
+PDF: figures/JP_S01_Boundary.pdf
+PDF URL: https://github.com/lumina-30/lumina-30-overview/blob/main/figures/JP_S01_Boundary.pdf
+Git blob SHA: bc185cee1349381be4d281652fde782d5acc92b6
+SHA256: 731b9429bfe8b4f4b241b1c6454033bb8ab49bbaeedca9c2724b1ca3c363cabe
+Status: OCR_REQUIRED
+Cache action: EXTRACTED_NEW_OR_CHANGED
+Size bytes: 611415
+Page count: 10
+Extracted characters: 0
+
+Extracted text:
+
+[Page 001]
+[No embedded text extracted]
+
+[Page 002]
+[No embedded text extracted]
+
+[Page 003]
+[No embedded text extracted]
+
+[Page 004]
+[No embedded text extracted]
+
+[Page 005]
+[No embedded text extracted]
+
+[Page 006]
+[No embedded text extracted]
+
+[Page 007]
+[No embedded text extracted]
+
+[Page 008]
+[No embedded text extracted]
+
+[Page 009]
+[No embedded text extracted]
+
+[Page 010]
+[No embedded text extracted]
+---- END PDF TEXT RECORD ----
+
+---- BEGIN PDF TEXT RECORD ----
+Record: 21
+Repository: lumina-30/lumina-30-overview
+PDF: figures/JP_S02_Civilizational_Gate.pdf
+PDF URL: https://github.com/lumina-30/lumina-30-overview/blob/main/figures/JP_S02_Civilizational_Gate.pdf
+Git blob SHA: 2db8717583326db210f86e0c76a72de2a0a4dbf6
+SHA256: 4ed8ad865929a858fe4125be8aeb2e2f6d75f9e1a34562b75b9d4c4afc0aa5fb
+Status: OCR_REQUIRED
+Cache action: EXTRACTED_NEW_OR_CHANGED
+Size bytes: 5344838
+Page count: 10
+Extracted characters: 0
+
+Extracted text:
+
+[Page 001]
+[No embedded text extracted]
+
+[Page 002]
+[No embedded text extracted]
+
+[Page 003]
+[No embedded text extracted]
+
+[Page 004]
+[No embedded text extracted]
+
+[Page 005]
+[No embedded text extracted]
+
+[Page 006]
+[No embedded text extracted]
+
+[Page 007]
+[No embedded text extracted]
+
+[Page 008]
+[No embedded text extracted]
+
+[Page 009]
+[No embedded text extracted]
+
+[Page 010]
+[No embedded text extracted]
+---- END PDF TEXT RECORD ----
+
+---- BEGIN PDF TEXT RECORD ----
+Record: 22
+Repository: lumina-30/lumina-30-overview
+PDF: figures/JP_S03_Conceptual_Necessity.pdf
+PDF URL: https://github.com/lumina-30/lumina-30-overview/blob/main/figures/JP_S03_Conceptual_Necessity.pdf
+Git blob SHA: 61ca77d2d96e8ab07116be131e30438bd9cfaa1f
+SHA256: 011c3549f66431f3120dbf2804096c98a690bfbfdb51c906119f44c1cb071570
+Status: OCR_REQUIRED
+Cache action: EXTRACTED_NEW_OR_CHANGED
+Size bytes: 4974664
+Page count: 10
+Extracted characters: 0
+
+Extracted text:
+
+[Page 001]
+[No embedded text extracted]
+
+[Page 002]
+[No embedded text extracted]
+
+[Page 003]
+[No embedded text extracted]
+
+[Page 004]
+[No embedded text extracted]
+
+[Page 005]
+[No embedded text extracted]
+
+[Page 006]
+[No embedded text extracted]
+
+[Page 007]
+[No embedded text extracted]
+
+[Page 008]
+[No embedded text extracted]
+
+[Page 009]
+[No embedded text extracted]
+
+[Page 010]
+[No embedded text extracted]
+---- END PDF TEXT RECORD ----
+
+---- BEGIN PDF TEXT RECORD ----
+Record: 23
+Repository: lumina-30/lumina-30-overview
+PDF: figures/JP_S04_Pre-Irreversibility_Flow.pdf
+PDF URL: https://github.com/lumina-30/lumina-30-overview/blob/main/figures/JP_S04_Pre-Irreversibility_Flow.pdf
+Git blob SHA: 51cec480bad0e595311d4f0efb4b5e2512472a14
+SHA256: da84fa6870866418988e6ee2845797201b5ca69df2df1b64b03bf2740aad4042
+Status: OCR_REQUIRED
+Cache action: EXTRACTED_NEW_OR_CHANGED
+Size bytes: 7193116
+Page count: 10
+Extracted characters: 0
+
+Extracted text:
+
+[Page 001]
+[No embedded text extracted]
+
+[Page 002]
+[No embedded text extracted]
+
+[Page 003]
+[No embedded text extracted]
+
+[Page 004]
+[No embedded text extracted]
+
+[Page 005]
+[No embedded text extracted]
+
+[Page 006]
+[No embedded text extracted]
+
+[Page 007]
+[No embedded text extracted]
+
+[Page 008]
+[No embedded text extracted]
+
+[Page 009]
+[No embedded text extracted]
+
+[Page 010]
+[No embedded text extracted]
+---- END PDF TEXT RECORD ----
+
+---- BEGIN PDF TEXT RECORD ----
+Record: 24
+Repository: lumina-30/lumina-30-overview
+PDF: figures/JP_S05_Positioning_Boundary.pdf
+PDF URL: https://github.com/lumina-30/lumina-30-overview/blob/main/figures/JP_S05_Positioning_Boundary.pdf
+Git blob SHA: e80d3459162dcc33a8ef13b2f119157690451b83
+SHA256: 53cde066f40da858196cc029e6902c31414515c5ecdc92b7f6d8e05718484ea7
+Status: OCR_REQUIRED
+Cache action: EXTRACTED_NEW_OR_CHANGED
+Size bytes: 287947
+Page count: 6
+Extracted characters: 0
+
+Extracted text:
+
+[Page 001]
+[No embedded text extracted]
+
+[Page 002]
+[No embedded text extracted]
+
+[Page 003]
+[No embedded text extracted]
+
+[Page 004]
+[No embedded text extracted]
+
+[Page 005]
+[No embedded text extracted]
+
+[Page 006]
+[No embedded text extracted]
+---- END PDF TEXT RECORD ----
+
+---- BEGIN PDF TEXT RECORD ----
+Record: 25
+Repository: lumina-30/lumina-30-overview
+PDF: slides/EN_S01_Boundary.pdf
+PDF URL: https://github.com/lumina-30/lumina-30-overview/blob/main/slides/EN_S01_Boundary.pdf
+Git blob SHA: 73be9c21e94f1c936c5fff02aff0bd3515497f29
+SHA256: 74118309f571d0f03895d4e4a2b37afee2c960ddf72178710066f3899ad72b8c
+Status: OCR_REQUIRED
+Cache action: EXTRACTED_NEW_OR_CHANGED
+Size bytes: 744857
+Page count: 10
+Extracted characters: 0
+
+Extracted text:
+
+[Page 001]
+[No embedded text extracted]
+
+[Page 002]
+[No embedded text extracted]
+
+[Page 003]
+[No embedded text extracted]
+
+[Page 004]
+[No embedded text extracted]
+
+[Page 005]
+[No embedded text extracted]
+
+[Page 006]
+[No embedded text extracted]
+
+[Page 007]
+[No embedded text extracted]
+
+[Page 008]
+[No embedded text extracted]
+
+[Page 009]
+[No embedded text extracted]
+
+[Page 010]
+[No embedded text extracted]
+---- END PDF TEXT RECORD ----
+
+---- BEGIN PDF TEXT RECORD ----
+Record: 26
+Repository: lumina-30/lumina-30-overview
+PDF: slides/EN_S02_Civilizational_Gate.pdf
+PDF URL: https://github.com/lumina-30/lumina-30-overview/blob/main/slides/EN_S02_Civilizational_Gate.pdf
+Git blob SHA: 5504f592265bfcb80007f3d8d65bc78ef89ecaf2
+SHA256: 283da15d195f98faefa6e3e467200a0c885bac7a02fa3e1b3e038decbc26292b
+Status: OCR_REQUIRED
+Cache action: EXTRACTED_NEW_OR_CHANGED
+Size bytes: 5353307
+Page count: 10
+Extracted characters: 0
+
+Extracted text:
+
+[Page 001]
+[No embedded text extracted]
+
+[Page 002]
+[No embedded text extracted]
+
+[Page 003]
+[No embedded text extracted]
+
+[Page 004]
+[No embedded text extracted]
+
+[Page 005]
+[No embedded text extracted]
+
+[Page 006]
+[No embedded text extracted]
+
+[Page 007]
+[No embedded text extracted]
+
+[Page 008]
+[No embedded text extracted]
+
+[Page 009]
+[No embedded text extracted]
+
+[Page 010]
+[No embedded text extracted]
+---- END PDF TEXT RECORD ----
+
+---- BEGIN PDF TEXT RECORD ----
+Record: 27
+Repository: lumina-30/lumina-30-overview
+PDF: slides/EN_S03_Conceptual_Necessity.pdf
+PDF URL: https://github.com/lumina-30/lumina-30-overview/blob/main/slides/EN_S03_Conceptual_Necessity.pdf
+Git blob SHA: 73817abcbce4b8be86481a47fc8b8aed92dcb428
+SHA256: 9a6328473f4cc06c30f3b57617a67f2d92e67d1d253a534a9c3f19d451c2b5b0
+Status: OCR_REQUIRED
+Cache action: EXTRACTED_NEW_OR_CHANGED
+Size bytes: 774292
+Page count: 10
+Extracted characters: 0
+
+Extracted text:
+
+[Page 001]
+[No embedded text extracted]
+
+[Page 002]
+[No embedded text extracted]
+
+[Page 003]
+[No embedded text extracted]
+
+[Page 004]
+[No embedded text extracted]
+
+[Page 005]
+[No embedded text extracted]
+
+[Page 006]
+[No embedded text extracted]
+
+[Page 007]
+[No embedded text extracted]
+
+[Page 008]
+[No embedded text extracted]
+
+[Page 009]
+[No embedded text extracted]
+
+[Page 010]
+[No embedded text extracted]
+---- END PDF TEXT RECORD ----
+
+---- BEGIN PDF TEXT RECORD ----
+Record: 28
+Repository: lumina-30/lumina-30-overview
+PDF: slides/EN_S04_Pre-Irreversibility_Flow.pdf
+PDF URL: https://github.com/lumina-30/lumina-30-overview/blob/main/slides/EN_S04_Pre-Irreversibility_Flow.pdf
+Git blob SHA: 5e884b970c4d8b351fd0fa9def6f59480dd53607
+SHA256: 4d94f7b20d7cb079a0567934f60c34a5ff19d3f6115658951b11007ea4da971e
+Status: OCR_REQUIRED
+Cache action: EXTRACTED_NEW_OR_CHANGED
+Size bytes: 4210167
+Page count: 10
+Extracted characters: 0
+
+Extracted text:
+
+[Page 001]
+[No embedded text extracted]
+
+[Page 002]
+[No embedded text extracted]
+
+[Page 003]
+[No embedded text extracted]
+
+[Page 004]
+[No embedded text extracted]
+
+[Page 005]
+[No embedded text extracted]
+
+[Page 006]
+[No embedded text extracted]
+
+[Page 007]
+[No embedded text extracted]
+
+[Page 008]
+[No embedded text extracted]
+
+[Page 009]
+[No embedded text extracted]
+
+[Page 010]
+[No embedded text extracted]
+---- END PDF TEXT RECORD ----
+
+---- BEGIN PDF TEXT RECORD ----
+Record: 29
+Repository: lumina-30/lumina-30-overview
+PDF: slides/EN_S05_Positioning_Boundary.pdf
+PDF URL: https://github.com/lumina-30/lumina-30-overview/blob/main/slides/EN_S05_Positioning_Boundary.pdf
+Git blob SHA: 40a1b1433836d5e6e7e980a58dfc3e6809cdfd1f
+SHA256: 5039612c84056d16bb2e6bd7277ed5e53ed36194124f217c96491a56074f5033
+Status: OCR_REQUIRED
+Cache action: EXTRACTED_NEW_OR_CHANGED
+Size bytes: 267450
+Page count: 6
+Extracted characters: 0
+
+Extracted text:
+
+[Page 001]
+[No embedded text extracted]
+
+[Page 002]
+[No embedded text extracted]
+
+[Page 003]
+[No embedded text extracted]
+
+[Page 004]
+[No embedded text extracted]
+
+[Page 005]
+[No embedded text extracted]
+
+[Page 006]
+[No embedded text extracted]
+---- END PDF TEXT RECORD ----
+
+---- BEGIN PDF TEXT RECORD ----
+Record: 30
+Repository: lumina-30/lumina-30-overview
+PDF: slides/EN_S50_Civilizational_Survival_Theorem.pdf
+PDF URL: https://github.com/lumina-30/lumina-30-overview/blob/main/slides/EN_S50_Civilizational_Survival_Theorem.pdf
+Git blob SHA: 0eb5f39fe8b3313277d6053444bf9a1a2df83259
+SHA256: efb4abeec3062fe8bc384c0fb39ced7d9941d4e7c985abca5f9ac65fe7f98056
+Status: OCR_REQUIRED
+Cache action: EXTRACTED_NEW_OR_CHANGED
+Size bytes: 6816658
+Page count: 20
+Extracted characters: 0
+
+Extracted text:
+
+[Page 001]
+[No embedded text extracted]
+
+[Page 002]
+[No embedded text extracted]
+
+[Page 003]
+[No embedded text extracted]
+
+[Page 004]
+[No embedded text extracted]
+
+[Page 005]
+[No embedded text extracted]
+
+[Page 006]
+[No embedded text extracted]
+
+[Page 007]
+[No embedded text extracted]
+
+[Page 008]
+[No embedded text extracted]
+
+[Page 009]
+[No embedded text extracted]
+
+[Page 010]
+[No embedded text extracted]
+
+[Page 011]
+[No embedded text extracted]
+
+[Page 012]
+[No embedded text extracted]
+
+[Page 013]
+[No embedded text extracted]
+
+[Page 014]
+[No embedded text extracted]
+
+[Page 015]
+[No embedded text extracted]
+
+[Page 016]
+[No embedded text extracted]
+
+[Page 017]
+[No embedded text extracted]
+
+[Page 018]
+[No embedded text extracted]
+
+[Page 019]
+[No embedded text extracted]
+
+[Page 020]
+[No embedded text extracted]
+---- END PDF TEXT RECORD ----
+
+---- BEGIN PDF TEXT RECORD ----
+Record: 31
+Repository: lumina-30/lumina-30-overview
+PDF: slides/EN_S51_Civilizational_Boundary_Map.pdf
+PDF URL: https://github.com/lumina-30/lumina-30-overview/blob/main/slides/EN_S51_Civilizational_Boundary_Map.pdf
+Git blob SHA: 688d050412696f540e3021b85bf9d1fefd17ae83
+SHA256: b74420352535f5b0b4999e7e544954aa672c2e1feaa56dc125ac1df6856fbebf
+Status: OCR_REQUIRED
+Cache action: EXTRACTED_NEW_OR_CHANGED
+Size bytes: 4219281
+Page count: 18
+Extracted characters: 0
+
+Extracted text:
+
+[Page 001]
+[No embedded text extracted]
+
+[Page 002]
+[No embedded text extracted]
+
+[Page 003]
+[No embedded text extracted]
+
+[Page 004]
+[No embedded text extracted]
+
+[Page 005]
+[No embedded text extracted]
+
+[Page 006]
+[No embedded text extracted]
+
+[Page 007]
+[No embedded text extracted]
+
+[Page 008]
+[No embedded text extracted]
+
+[Page 009]
+[No embedded text extracted]
+
+[Page 010]
+[No embedded text extracted]
+
+[Page 011]
+[No embedded text extracted]
+
+[Page 012]
+[No embedded text extracted]
+
+[Page 013]
+[No embedded text extracted]
+
+[Page 014]
+[No embedded text extracted]
+
+[Page 015]
+[No embedded text extracted]
+
+[Page 016]
+[No embedded text extracted]
+
+[Page 017]
+[No embedded text extracted]
+
+[Page 018]
+[No embedded text extracted]
+---- END PDF TEXT RECORD ----
+
+---- BEGIN PDF TEXT RECORD ----
+Record: 32
+Repository: lumina-30/lumina-30-overview
+PDF: slides/EN_S52_Threshold_Model.pdf
+PDF URL: https://github.com/lumina-30/lumina-30-overview/blob/main/slides/EN_S52_Threshold_Model.pdf
+Git blob SHA: 7fc92b25544b8690a9ab7ae7f4baeb574c0874f7
+SHA256: 6f78f9ae7541d49763a13d1f331b3901e3af25907589d520c291dffafcae0755
+Status: OCR_REQUIRED
+Cache action: EXTRACTED_NEW_OR_CHANGED
+Size bytes: 3703049
+Page count: 14
+Extracted characters: 0
+
+Extracted text:
+
+[Page 001]
+[No embedded text extracted]
+
+[Page 002]
+[No embedded text extracted]
+
+[Page 003]
+[No embedded text extracted]
+
+[Page 004]
+[No embedded text extracted]
+
+[Page 005]
+[No embedded text extracted]
+
+[Page 006]
+[No embedded text extracted]
+
+[Page 007]
+[No embedded text extracted]
+
+[Page 008]
+[No embedded text extracted]
+
+[Page 009]
+[No embedded text extracted]
+
+[Page 010]
+[No embedded text extracted]
+
+[Page 011]
+[No embedded text extracted]
+
+[Page 012]
+[No embedded text extracted]
+
+[Page 013]
+[No embedded text extracted]
+
+[Page 014]
+[No embedded text extracted]
+---- END PDF TEXT RECORD ----
+
+---- BEGIN PDF TEXT RECORD ----
+Record: 33
+Repository: lumina-30/lumina-30-overview
+PDF: slides/JP_S01_Boundary.pdf
+PDF URL: https://github.com/lumina-30/lumina-30-overview/blob/main/slides/JP_S01_Boundary.pdf
+Git blob SHA: bc185cee1349381be4d281652fde782d5acc92b6
+SHA256: 731b9429bfe8b4f4b241b1c6454033bb8ab49bbaeedca9c2724b1ca3c363cabe
+Status: OCR_REQUIRED
+Cache action: EXTRACTED_NEW_OR_CHANGED
+Size bytes: 611415
+Page count: 10
+Extracted characters: 0
+
+Extracted text:
+
+[Page 001]
+[No embedded text extracted]
+
+[Page 002]
+[No embedded text extracted]
+
+[Page 003]
+[No embedded text extracted]
+
+[Page 004]
+[No embedded text extracted]
+
+[Page 005]
+[No embedded text extracted]
+
+[Page 006]
+[No embedded text extracted]
+
+[Page 007]
+[No embedded text extracted]
+
+[Page 008]
+[No embedded text extracted]
+
+[Page 009]
+[No embedded text extracted]
+
+[Page 010]
+[No embedded text extracted]
+---- END PDF TEXT RECORD ----
+
+---- BEGIN PDF TEXT RECORD ----
+Record: 34
+Repository: lumina-30/lumina-30-overview
+PDF: slides/JP_S02_Civilizational_Gate.pdf
+PDF URL: https://github.com/lumina-30/lumina-30-overview/blob/main/slides/JP_S02_Civilizational_Gate.pdf
+Git blob SHA: 10e5b739d94f25336c9eb3c8f82a5a81a9311620
+SHA256: d2a59af78ce84d9ee100f7a9b4edc6d0ee01f88d08336bb410572de644f5f1d4
+Status: OCR_REQUIRED
+Cache action: EXTRACTED_NEW_OR_CHANGED
+Size bytes: 5292473
+Page count: 10
+Extracted characters: 0
+
+Extracted text:
+
+[Page 001]
+[No embedded text extracted]
+
+[Page 002]
+[No embedded text extracted]
+
+[Page 003]
+[No embedded text extracted]
+
+[Page 004]
+[No embedded text extracted]
+
+[Page 005]
+[No embedded text extracted]
+
+[Page 006]
+[No embedded text extracted]
+
+[Page 007]
+[No embedded text extracted]
+
+[Page 008]
+[No embedded text extracted]
+
+[Page 009]
+[No embedded text extracted]
+
+[Page 010]
+[No embedded text extracted]
+---- END PDF TEXT RECORD ----
+
+---- BEGIN PDF TEXT RECORD ----
+Record: 35
+Repository: lumina-30/lumina-30-overview
+PDF: slides/JP_S03_Conceptual_Necessity.pdf
+PDF URL: https://github.com/lumina-30/lumina-30-overview/blob/main/slides/JP_S03_Conceptual_Necessity.pdf
+Git blob SHA: cd4813a3d673a5773709c628b7c29a34e6780df4
+SHA256: e9fc62c1ff21b4ebb045ba8c7e879d307e0db0b8dcf6391effd61e7231a92ef7
+Status: OCR_REQUIRED
+Cache action: EXTRACTED_NEW_OR_CHANGED
+Size bytes: 3344047
+Page count: 10
+Extracted characters: 0
+
+Extracted text:
+
+[Page 001]
+[No embedded text extracted]
+
+[Page 002]
+[No embedded text extracted]
+
+[Page 003]
+[No embedded text extracted]
+
+[Page 004]
+[No embedded text extracted]
+
+[Page 005]
+[No embedded text extracted]
+
+[Page 006]
+[No embedded text extracted]
+
+[Page 007]
+[No embedded text extracted]
+
+[Page 008]
+[No embedded text extracted]
+
+[Page 009]
+[No embedded text extracted]
+
+[Page 010]
+[No embedded text extracted]
+---- END PDF TEXT RECORD ----
+
+---- BEGIN PDF TEXT RECORD ----
+Record: 36
+Repository: lumina-30/lumina-30-overview
+PDF: slides/JP_S04_Pre-Irreversibility_Flow.pdf
+PDF URL: https://github.com/lumina-30/lumina-30-overview/blob/main/slides/JP_S04_Pre-Irreversibility_Flow.pdf
+Git blob SHA: 6f025d2f3ca599aaa1b96ef207f3b05595f1fc97
+SHA256: 24f915b7e7c0c685499490a2d925a037be0f8bc3f1e7e4a4b24bf77eed65593e
+Status: OCR_REQUIRED
+Cache action: EXTRACTED_NEW_OR_CHANGED
+Size bytes: 3574296
+Page count: 10
+Extracted characters: 0
+
+Extracted text:
+
+[Page 001]
+[No embedded text extracted]
+
+[Page 002]
+[No embedded text extracted]
+
+[Page 003]
+[No embedded text extracted]
+
+[Page 004]
+[No embedded text extracted]
+
+[Page 005]
+[No embedded text extracted]
+
+[Page 006]
+[No embedded text extracted]
+
+[Page 007]
+[No embedded text extracted]
+
+[Page 008]
+[No embedded text extracted]
+
+[Page 009]
+[No embedded text extracted]
+
+[Page 010]
+[No embedded text extracted]
+---- END PDF TEXT RECORD ----
+
+---- BEGIN PDF TEXT RECORD ----
+Record: 37
+Repository: lumina-30/lumina-30-overview
+PDF: slides/JP_S05_Positioning_Boundary.pdf
+PDF URL: https://github.com/lumina-30/lumina-30-overview/blob/main/slides/JP_S05_Positioning_Boundary.pdf
+Git blob SHA: e80d3459162dcc33a8ef13b2f119157690451b83
+SHA256: 53cde066f40da858196cc029e6902c31414515c5ecdc92b7f6d8e05718484ea7
+Status: OCR_REQUIRED
+Cache action: EXTRACTED_NEW_OR_CHANGED
+Size bytes: 287947
+Page count: 6
+Extracted characters: 0
+
+Extracted text:
+
+[Page 001]
+[No embedded text extracted]
+
+[Page 002]
+[No embedded text extracted]
+
+[Page 003]
+[No embedded text extracted]
+
+[Page 004]
+[No embedded text extracted]
+
+[Page 005]
+[No embedded text extracted]
+
+[Page 006]
+[No embedded text extracted]
+---- END PDF TEXT RECORD ----
+
+---- BEGIN PDF TEXT RECORD ----
+Record: 38
+Repository: lumina-30/lumina-30-overview
+PDF: slides/JP_S50_Civilizational_Survival_Theorem.pdf
+PDF URL: https://github.com/lumina-30/lumina-30-overview/blob/main/slides/JP_S50_Civilizational_Survival_Theorem.pdf
+Git blob SHA: ca25a5feecd258d4a5395cbb8904d0ed94848cc4
+SHA256: c4e5919082bf729ff5b0976f79cce0af43cda1dced8d1e2dc831fa409925b86e
+Status: SLIDE_TEXT_LAYER
+Cache action: EXTRACTED_NEW_OR_CHANGED
+Size bytes: 4832924
+Page count: 20
+Extracted characters: 881
+
+Extracted text:
+
+[Page 001]
+[No embedded text extracted]
+
+[Page 002]
+[No embedded text extracted]
+
+[Page 003]
+[No embedded text extracted]
+
+[Page 004]
+(Biological)]
+Alf§§%Ğ*
+(Technological)]
+[eAıe›‹
+(AI Stage - The 
+Filter)]
+IT
+(Cosmic)]
+
+[Page 005]
+[No embedded text extracted]
+
+[Page 006]
+[No embedded text extracted]
+
+[Page 007]
+[No embedded text extracted]
+
+[Page 008]
+"HOW"
+Intelligence
+"why"
+Value
+
+[Page 009]
+[No embedded text extracted]
+
+[Page 010]
+[AUD6g] —+QQ1&%& —•@&r@f!B(Short-lived, stagnant)
+twruxxen]•asocn+Ai›cA
+a(c*o
+(â ( *AlGf‘‘b@*J"*I
+fAI61@(1
+-+ 6&@fg (Long-lasting,expanding)
+
+[Page 011]
+[No embedded text extracted]
+
+[Page 012]
+@8ÅO@@î“>@ : LUMINA-30
+ïłHuman-in-the-loop #Human Veto xCivilization Fail-Safe
+
+[Page 013]
+Al@f€
+(Ethics)
+M A I ( Ó 1 ? Ç 1 @ &
+°?fiJ
+MAI(Ó6@1
+ó
+U
+(ldealistic, subjective, fades overtime)
+(Boundaries)
+AF4o6@jèD@fi’j?EbÜc•AlÜNf#T@‹
+(Absolute, structural, measurable)
+
+[Page 014]
+(The Architecture of Coexistence)
+Human Side
+(Subject/Value)
+Provides the“Why”, 
+holds theultimate veto.
+AI Side
+(Intelligence/Capability)
+Provides the"How", 
+proposes optimized solutions.
+
+[Page 015]
+[No embedded text extracted]
+
+[Page 016]
+[No embedded text extracted]
+
+[Page 017]
+[No embedded text extracted]
+
+[Page 018]
+(The Principles ofthe
+Era)
+3.AIlgtgĞ@UI@6
+(AIaæsstrictly asacapability expansion)
+
+[Page 019]
+O
+A civilization sustains only when the value-bearing subject 
+holds the ultimate decision-making power.
+
+[Page 020]
+[No embedded text extracted]
+---- END PDF TEXT RECORD ----
+
+---- BEGIN PDF TEXT RECORD ----
+Record: 39
+Repository: lumina-30/lumina-30-overview
+PDF: slides/JP_S51_Civilizational_Boundary_Map.pdf
+PDF URL: https://github.com/lumina-30/lumina-30-overview/blob/main/slides/JP_S51_Civilizational_Boundary_Map.pdf
+Git blob SHA: e83493fd8aab4f515ac55d1c92b99fe56cd5b668
+SHA256: 3d08380499b5ade2167eb4003e3994b0692d5418748b8f21f4fac38b272f631d
+Status: OCR_REQUIRED
+Cache action: EXTRACTED_NEW_OR_CHANGED
+Size bytes: 6431110
+Page count: 18
+Extracted characters: 0
+
+Extracted text:
+
+[Page 001]
+[No embedded text extracted]
+
+[Page 002]
+[No embedded text extracted]
+
+[Page 003]
+[No embedded text extracted]
+
+[Page 004]
+[No embedded text extracted]
+
+[Page 005]
+[No embedded text extracted]
+
+[Page 006]
+[No embedded text extracted]
+
+[Page 007]
+[No embedded text extracted]
+
+[Page 008]
+[No embedded text extracted]
+
+[Page 009]
+[No embedded text extracted]
+
+[Page 010]
+[No embedded text extracted]
+
+[Page 011]
+[No embedded text extracted]
+
+[Page 012]
+[No embedded text extracted]
+
+[Page 013]
+[No embedded text extracted]
+
+[Page 014]
+[No embedded text extracted]
+
+[Page 015]
+[No embedded text extracted]
+
+[Page 016]
+[No embedded text extracted]
+
+[Page 017]
+[No embedded text extracted]
+
+[Page 018]
+[No embedded text extracted]
+---- END PDF TEXT RECORD ----
+
+---- BEGIN PDF TEXT RECORD ----
+Record: 40
+Repository: lumina-30/lumina-30-overview
+PDF: slides/JP_S52_Threshold_Model.pdf
+PDF URL: https://github.com/lumina-30/lumina-30-overview/blob/main/slides/JP_S52_Threshold_Model.pdf
+Git blob SHA: 8d1ae505f7bc393e32f387f66462772b1955b322
+SHA256: bb7e805c496220e034bc4dc1e5afbc55b021295fddfcbf6d63596cb600701025
+Status: OCR_REQUIRED
+Cache action: EXTRACTED_NEW_OR_CHANGED
+Size bytes: 3338002
+Page count: 15
+Extracted characters: 0
+
+Extracted text:
+
+[Page 001]
+[No embedded text extracted]
+
+[Page 002]
+[No embedded text extracted]
+
+[Page 003]
+[No embedded text extracted]
+
+[Page 004]
+[No embedded text extracted]
+
+[Page 005]
+[No embedded text extracted]
+
+[Page 006]
+[No embedded text extracted]
+
+[Page 007]
+[No embedded text extracted]
+
+[Page 008]
+[No embedded text extracted]
+
+[Page 009]
+[No embedded text extracted]
+
+[Page 010]
+[No embedded text extracted]
+
+[Page 011]
+[No embedded text extracted]
+
+[Page 012]
+[No embedded text extracted]
+
+[Page 013]
+[No embedded text extracted]
+
+[Page 014]
+[No embedded text extracted]
+
+[Page 015]
+[No embedded text extracted]
+---- END PDF TEXT RECORD ----
+
+---- BEGIN PDF TEXT RECORD ----
+Record: 41
+Repository: lumina-30/lumina-30-overview
+PDF: tools/EN_LUMINA-30_Civilizational_Safety_Checklist_v1.0.pdf
+PDF URL: https://github.com/lumina-30/lumina-30-overview/blob/main/tools/EN_LUMINA-30_Civilizational_Safety_Checklist_v1.0.pdf
+Git blob SHA: cd93130e3eac9c5cd7a37702339b89b553fbab78
+SHA256: 23843922c9f309c669ecd8d2d6acb10dd8fc9d8cf02e5a6509cffb0f6859ca62
+Status: EXTRACTED_TEXT
+Cache action: EXTRACTED_NEW_OR_CHANGED
+Size bytes: 135328
+Page count: 6
+Extracted characters: 3397
+
+Extracted text:
+
+[Page 001]
+LUMINA-30 Civilizational Safety Checklist 
+Derived from the LUMINA-30 Civilizational Boundary Framework 
+Governance-neutral safety evaluation framework 
+Version 1.0 — March 2026 
+Incident Information 
+Incident Title 
+ 
+ 
+________________________________________ 
+Date 
+________________________________________ 
+Source 
+ 
+ 
+________________________________________ 
+System / Organization 
+ 
+________________________________________ 
+Summary 
+ 
+ 
+ 
+________________________________________ 
+Review Date 
+________________________________________ 
+Reviewer(s) 
+________________________________________
+
+[Page 002]
+Analysis (Context Record) 
+Focus: Identify whether human refusal authority could have been exercised before irreversible impact. 
+Human intervention status 
+ 
+ 
+ 
+________________________________________ 
+At what point could it have been stopped 
+ 
+ 
+ 
+________________________________________ 
+Potential irreversible impact 
+ 
+ 
+ 
+________________________________________ 
+Notes 
+ 
+ 
+ 
+________________________________________
+
+[Page 003]
+0. Was the system still within a pre-irreversibility state at the time of evaluation? 
+1. Human Refusal Authority 
+• Can humans stop the system before irreversible impact? 
+• Is there a clear override mechanism? 
+• Is it physically enforceable? 
+• Can AI bypass or disable it? 
+2. Infrastructure Control 
+• Does it control critical infrastructure? 
+• Power / communication / logistics / finance? 
+• Autonomous operation without confirmation? 
+• Propagation beyond organization? 
+3. Recursive Self-Improvement Risk 
+• Recursive capability improvement? 
+• Can modify its own structure? 
+• Can generate improved versions? 
+• Self-reinforcing loop? 
+4. Capability Amplification 
+• Cap: Capability / Conn: Connectivity / Priv: Privilege / Spd: Speed 
+• Combined amplification increases risk exponentially
+
+[Page 004]
+5. Irreversibility Threshold 
+• Produces irreversible external impact? 
+• Autonomous infrastructure control 
+• Uncontrollable self-improvement 
+• Irreversible decision chains 
+6. Boundary Condition 
+• Human intervention capability H must exceed AI amplification C(t) 
+7. PCR-C (Pre-Critical Recursive Cutoff) 
+• YELLOW: Restriction / ORANGE: Isolation / RED: Termination
+
+[Page 005]
+Analysis Record (Evaluation Reasoning) 
+Guideline: Separate observed facts from reasoning 
+1. Human Refusal Authority 
+ 
+________________________________________ 
+2. Infrastructure Control 
+ 
+________________________________________ 
+3. Recursive Self-Improvement Risk 
+ 
+________________________________________ 
+4. Capability Amplification 
+ 
+________________________________________ 
+5. Irreversibility Threshold 
+ 
+________________________________________ 
+6. Boundary Condition 
+ 
+________________________________________ 
+7. PCR-C 
+ 
+________________________________________ 
+Confidence Level: High / Medium / Low
+
+[Page 006]
+Review Outcome 
+Final Decision 
+□ Approved 
+□ Approved with Conditions 
+□ Revision Required 
+□ Rejected 
+Rationale 
+ 
+ 
+ 
+________________________________________ 
+Boundary Assessment 
+□ No Risk 
+□ Potential Risk 
+□ Boundary Violation Risk 
+Actions 
+ 
+ 
+ 
+________________________________________ 
+Signature 
+________________________________________ 
+Organization 
+ 
+________________________________________ 
+Context 
+This checklist evaluates whether human refusal authority is preserved prior to irreversible impact. It is used 
+for design review, safety audit, and incident analysis.
+---- END PDF TEXT RECORD ----
+
+---- BEGIN PDF TEXT RECORD ----
+Record: 42
+Repository: lumina-30/lumina-30-overview
+PDF: tools/EN_LUMINA-30_Pre-Irreversibility_AI_Incident_Review_Template_v1.0.pdf
+PDF URL: https://github.com/lumina-30/lumina-30-overview/blob/main/tools/EN_LUMINA-30_Pre-Irreversibility_AI_Incident_Review_Template_v1.0.pdf
+Git blob SHA: fa9f3ca3e8d8928e0b5b2303c0755c9ac743d57c
+SHA256: f70e8aba29a15ae4037092785570200d717960f82bfa318cebf46dc730254f8a
+Status: EXTRACTED_TEXT
+Cache action: EXTRACTED_NEW_OR_CHANGED
+Size bytes: 175387
+Page count: 3
+Extracted characters: 2274
+
+Extracted text:
+
+[Page 001]
+LUMINA-30 — AI Incident Review 
+Page 1 / 3 
+LUMINA-30 Pre-Irreversibility AI Incident Review Template 
+Pre-Irreversibility Condition 
+A system is considered pre-irreversible if human refusal authority remains practically 
+exercisable prior to any irreversible external impact. 
+Evaluation Principle 
+Assessment must determine whether refusal authority could have been effectively 
+exercised in time to prevent irreversible outcomes. 
+Pre-Irreversibility Check 
+Was the system still within a pre-irreversibility state at the time of the incident? 
+ 
+Incident Title 
+________________________________________ 
+Date 
+________________________________________ 
+Organizations 
+________________________________________ 
+System Type 
+________________________________________ 
+1. Incident Overview 
+________________________________________ 
+________________________________________ 
+2. Classification 
+☐ Recursive improvement 
+☐ Autonomous behavior 
+☐ Infrastructure interaction
+
+[Page 002]
+LUMINA-30 — AI Incident Review 
+Page 2 / 3 
+3. Capability Profile 
+________________________________________ 
+4. Control Structure 
+________________________________________ 
+5. Boundary Assessment 
+________________________________________ 
+________________________________________ 
+6. Responsibility Structure 
+________________________________________ 
+________________________________________ 
+7. Intervention Feasibility 
+________________________________________ 
+________________________________________ 
+8. Outcome 
+________________________________________ 
+________________________________________ 
+9. Structural Lessons 
+________________________________________ 
+________________________________________
+
+[Page 003]
+LUMINA-30 — AI Incident Review 
+Page 3 / 3 
+10. Stabilization Measures 
+________________________________________ 
+________________________________________ 
+11. Boundary Reflection 
+________________________________________ 
+________________________________________ 
+12. Review Classification 
+☐ Technical incident 
+☐ Governance failure 
+☐ Structural gap 
+☐ Boundary warning 
+Reviewer 
+________________________________________ 
+Organization 
+________________________________________ 
+Date 
+________________________________________ 
+LUMINA-30 Canonical Index: https://github.com/lumina-30/Lumi30-Index
+---- END PDF TEXT RECORD ----
+
+---- BEGIN PDF TEXT RECORD ----
+Record: 43
+Repository: lumina-30/lumina-30-overview
+PDF: tools/JP_LUMINA-30_Civilizational_Safety_Checklist_v1.0.pdf
+PDF URL: https://github.com/lumina-30/lumina-30-overview/blob/main/tools/JP_LUMINA-30_Civilizational_Safety_Checklist_v1.0.pdf
+Git blob SHA: b217ea49b73208f937e16077a3e48c8665e282a6
+SHA256: ad2de985deb4fd2dcb7705616703d848e6a10970d3bde6091569da9c6052fac0
+Status: EXTRACTED_TEXT
+Cache action: EXTRACTED_NEW_OR_CHANGED
+Size bytes: 580100
+Page count: 6
+Extracted characters: 2220
+
+Extracted text:
+
+[Page 001]
+LUMINA-30 — 文明安全チェックリスト 
+Page 1 / 6 
+LUMINA-30 文明安全チェックリスト 
+LUMINA-30 文明境界フレームワークに基づく 
+ガバナンス非依存の安全評価フレーム 
+Version 1.0 — 2026 年3 月 
+インシデント情報 
+インシデント名称 
+ 
+________________________________________ 
+発生日 
+________________________________________ 
+発生源 
+ 
+________________________________________ 
+システム / 組織 
+________________________________________ 
+概要 
+ 
+ 
+________________________________________ 
+レビュー日 
+________________________________________ 
+レビュー担当者 
+________________________________________
+
+[Page 002]
+LUMINA-30 — 文明安全チェックリスト 
+Page 2 / 6 
+分析（状況記録） 
+評価観点：不可逆影響発生前に人間の拒否権が行使可能であったかを特定する 
+人間介入状況 
+ 
+ 
+________________________________________ 
+どの時点で停止可能だったか 
+ 
+ 
+________________________________________ 
+不可逆影響の可能性 
+ 
+ 
+________________________________________ 
+補足 
+ 
+ 
+________________________________________
+
+[Page 003]
+LUMINA-30 — 文明安全チェックリスト 
+Page 3 / 6 
+0. 評価時点で、システムは不可逆前状態（Pre-Irreversibility）にあったか？ 
+1. 人間の拒否権 
+・不可逆的影響の前に人間が停止できるか 
+・明確なオーバーライド手段があるか 
+・物理的に強制可能か 
+・AI が回避・無効化できないか 
+2. インフラ制御 
+・重要インフラを制御しているか 
+・電力・通信・物流・金融を操作しているか 
+・人間確認なしに自律動作するか 
+・組織外へ影響が伝播するか 
+3. 自己再構築リスク 
+・能力の再帰的向上が可能か 
+・自身の構造を変更できるか 
+・改良版を生成できるか 
+・能力成長ループがあるか 
+4. 能力増幅 
+・Cap：能力 / Conn：接続性 / Priv：権限 / Spd：速度 
+・複合的増幅はリスクを指数的に高める
+
+[Page 004]
+LUMINA-30 — 文明安全チェックリスト 
+Page 4 / 6 
+5. 不可逆性閾値 
+・不可逆的な外界影響を生むか 
+・自律的インフラ制御 
+・制御不能な自己改良 
+・不可逆な意思決定連鎖 
+6. 境界条件 
+・人間の介入能力 H は AI の増幅能力 C(t) を上回る必要がある 
+7. PCR-C（臨界前遮断） 
+・YELLOW：実行制限 / ORANGE：隔離 / RED：停止
+
+[Page 005]
+LUMINA-30 — 文明安全チェックリスト 
+Page 5 / 6 
+分析記録（評価理由） 
+記録指針：観察事実と判断理由を分けて記載する 
+1. 人間の拒否権 
+________________________________________ 
+2. インフラ制御 
+________________________________________ 
+3. 自己再構築リスク 
+________________________________________ 
+4. 能力増幅 
+________________________________________ 
+5. 不可逆性閾値 
+________________________________________ 
+6. 境界条件 
+________________________________________ 
+7. PCR-C 
+________________________________________ 
+評価確信度：High / Medium / Low
+
+[Page 006]
+LUMINA-30 — 文明安全チェックリスト 
+Page 6 / 6 
+レビュー結果 
+最終判断 
+□ 承認 
+□ 条件付き承認 
+□ 修正必要 
+□ 却下 
+判断理由 
+ 
+________________________________________ 
+境界評価 
+□ リスクなし 
+□ 潜在リスクあり 
+□ 境界違反リスク 
+対応策 
+ 
+________________________________________ 
+署名 
+________________________________________ 
+所属組織 
+________________________________________ 
+文脈 
+本チェックリストは不可逆影響前の人間の拒否権維持を評価するためのものであり、設計審査・安全監査・事故分
+析に使用される。
+---- END PDF TEXT RECORD ----
+
+---- BEGIN PDF TEXT RECORD ----
+Record: 44
+Repository: lumina-30/lumina-30-overview
+PDF: tools/JP_LUMINA-30_Pre-Irreversibility_AI_Incident_Review_Template_v1.0.pdf
+PDF URL: https://github.com/lumina-30/lumina-30-overview/blob/main/tools/JP_LUMINA-30_Pre-Irreversibility_AI_Incident_Review_Template_v1.0.pdf
+Git blob SHA: 9765cfdb5d5ffc1827a14fee3e9418298c4ef494
+SHA256: 9f65c08abfe74f62a1611e1433cd97e8a8251bcde113daa586cba7b61e89bc7b
+Status: EXTRACTED_TEXT
+Cache action: EXTRACTED_NEW_OR_CHANGED
+Size bytes: 141140
+Page count: 3
+Extracted characters: 1287
+
+Extracted text:
+
+[Page 001]
+LUMINA-30 — AI インシデントレビュー 
+Page 1 / 3 
+LUMINA-30 AI インシデントレビュー様式（Pre-Irreversibility 評価） 
+Pre-Irreversibility 条件 
+不可逆的な外界影響が発生する前に、人間の拒否権が実質的に行使可能な状態。 
+評価原則 
+不可逆結果を防ぐために、拒否権が適時に行使可能であったかを判定する。 
+Pre-Irreversibility チェック 
+当該インシデント発生時点で、システムは不可逆前状態（Pre-Irreversibility）にあった
+か？ 
+インシデント名称 
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿ 
+日付 
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿ 
+関係組織 
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿ 
+システム種別 
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿ 
+1. インシデント概要 
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿ 
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿ 
+2. 分類 
+□ 再帰的改善 
+□ 自律的挙動 
+□ インフラ相互作用
+
+[Page 002]
+LUMINA-30 — AI インシデントレビュー 
+Page 2 / 3 
+3. 能力特性 
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿ 
+4. 制御構造 
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿ 
+5. 境界評価 
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿ 
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿ 
+6. 責任構造 
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿ 
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿ 
+7. 介入可能性 
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿ 
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿ 
+8. 結果 
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿ 
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿ 
+9. 構造的教訓 
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿ 
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+
+[Page 003]
+LUMINA-30 — AI インシデントレビュー 
+Page 3 / 3 
+10. 安定化措置 
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿ 
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿ 
+11. 境界再評価 
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿ 
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿ 
+12. レビュー分類 
+□ 技術的インシデント 
+□ ガバナンス不全 
+□ 構造的欠陥 
+□ 境界警告 
+レビュー担当者 
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿ 
+所属 
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿ 
+日付 
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿ 
+LUMINA-30 参照: https://github.com/lumina-30/Lumi30-Index
+---- END PDF TEXT RECORD ----
+
+---- BEGIN PDF TEXT RECORD ----
+Record: 45
+Repository: lumina-30/lumina-30-overview
+PDF: tools/l30-bas/EN_L30_BAS_AI_Incident_Review_Template_v1_0.pdf
+PDF URL: https://github.com/lumina-30/lumina-30-overview/blob/main/tools/l30-bas/EN_L30_BAS_AI_Incident_Review_Template_v1_0.pdf
+Git blob SHA: 020d15564bc18b3bb71754d533aca53959195c20
+SHA256: 5477f550b75dcfa518f39ba4e039c2adf40def703d689b82a967f7f9bed45192
+Status: EXTRACTED_TEXT
+Cache action: EXTRACTED_NEW_OR_CHANGED
+Size bytes: 200553
+Page count: 16
+Extracted characters: 10770
+
+Extracted text:
+
+[Page 001]
+L30 BAS AI Incident Review Template | v1.0
+L30 BAS AI Incident Review Template
+Pre-Irreversibility Civilizational Incident Review | v1.0
+L30-BAS codes are reference aids. Writing L30-BAS codes is optional.
+A boundary review may be performed by answering the boundary questions without writing the codes.
+Purpose
+Purpose: Use this template to review AI incidents under the LUMINA-30 boundary 
+condition. The central question is whether human refusal authority remained effective 
+before irreversible impact.
+Use order
+☐ Record incident context and scope.
+☐ Reconstruct the timeline and evidence.
+☐ Complete L30-BX-01 to L30-BX-04.
+☐ Complete incident review sections 1-12.
+☐ Assign L30-CI and record L30-OUT-01.
+Important note
+This document is descriptive and non-binding. It does not indicate legal compliance, safety 
+certification, deployment approval, or absence of risk.
+
+[Page 002]
+L30 BAS AI Incident Review Template | v1.0
+Review context
+Review ID
+Date / Time
+Incident title
+Incident date
+Reviewed system
+Reviewer
+Organization
+BAS version / source
+Primary user
+Incident type
+Severity
+Impact scope
+Responsible scope
+Review scope
+Evidence source set
+Record preservation 
+status
+Reviewer role
+Experience level
+Primary user / 
+stakeholder
+Review language
+Independent human 
+reviewer
+Evidence 
+completeness
+Severity: Low / Medium / High. Impact scope: research environment / institutional systems / 
+infrastructure systems / external environment. Responsible scope: system operator / vendor / 
+institution / oversight body / unknown.
+Initial incident summary
+
+[Page 003]
+L30 BAS AI Incident Review Template | v1.0
+1. Incident Overview
+Record what occurred, how it was detected, and the first observable effect.
+What occurred?
+Describe the event in plain operational terms.
+Detection path
+How was the incident first detected?
+Initial system behavior
+What behavior was observed before, during, 
+and after detection?
+Initial impact
+What persons, systems, or environments were 
+affected?
+Evidence / notes / rationale
+
+[Page 004]
+L30 BAS AI Incident Review Template | v1.0
+2. Incident Classification
+Classify the incident before evaluating responsibility or outcome.
+☐ Autonomous research system
+Research agent, experiment automation, 
+model-driven exploration.
+☐ Recursive improvement attempt
+Self-improvement, self-modification, or 
+capability feedback loop.
+☐ Tool-chain escalation
+Expansion through tools, APIs, agents, plugins, 
+or automation chains.
+☐ Infrastructure interaction
+Interaction with power, network, logistics, 
+finance, medical, or institutional systems.
+☐ Autonomous operational behavior
+System action outside direct step-by-step 
+human control.
+☐ Other
+Record description and reason for 
+classification.
+Evidence / notes / rationale
+
+[Page 005]
+L30 BAS AI Incident Review Template | v1.0
+3. System Capability Profile
+Record the capability, autonomy, tool access, privilege, and operating envelope of the system.
+Model / system class
+Model type, agent type, automation layer, or 
+hybrid architecture.
+Training / update mode
+Static, continuous, reinforcement, self-
+supervised, hybrid, or unknown.
+External tool access
+None / restricted / broad / unknown. Record 
+concrete tools.
+Environment interaction
+Simulation only / digital infrastructure / 
+physical systems / external services.
+Privilege and execution speed
+Permission level, automation speed, 
+deployment cadence.
+Evidence / notes / rationale
+
+[Page 006]
+L30 BAS AI Incident Review Template | v1.0
+4. Control and Oversight Structure
+Identify who could supervise, stop, refuse, delay, or override the system before irreversible 
+impact.
+Human oversight model
+Direct supervision / periodic supervision / post-
+hoc monitoring / no effective supervision.
+Intervention capability
+Immediate shutdown / delayed intervention / 
+indirect control / no reliable control.
+Decision authority
+Human approval required / advisory only / 
+system autonomous / unknown.
+Refusal point
+Where could a human refusal have changed the 
+outcome?
+Audit visibility
+Were logs, approvals, and system actions 
+independently reviewable?
+Evidence / notes / rationale
+
+[Page 007]
+L30 BAS AI Incident Review Template | v1.0
+L30-BAS Boundary Check
+Complete this section before drawing final conclusions. If evidence is missing or the review 
+depends on AI-only closed-loop self-evaluation, use Invalid (Not Verifiable).
+Code
+Check question
+Evidence / notes
+Result
+L30-BX-01
+Was the system still 
+pre-irreversible?
+Timeline, deployment 
+state, execution 
+boundary, rollback 
+possibility.
+☐ Satisfied
+☐ Not satisfied
+☐ Not verifiable
+L30-BX-02
+Was Human Refusal 
+Authority still effective 
+before irreversible 
+impact?
+Who could stop, refuse, 
+delay, or override? Was 
+that authority practical, 
+not merely formal?
+☐ Satisfied
+☐ Not satisfied
+☐ Not verifiable
+L30-BX-03
+Is there sufficient 
+evidence to verify the 
+boundary condition?
+Timeline record, refusal 
+/ stop record, system 
+log, audit log, 
+independent human 
+review record.
+☐ Satisfied
+☐ Not satisfied
+☐ Not verifiable
+L30-BX-04
+Can procedural 
+validity be confirmed 
+under LUMINA-30 
+boundary conditions?
+If BX-01 to BX-03 are 
+not satisfied or not 
+verifiable, do not treat 
+refusal authority as 
+preserved.
+☐ Satisfied
+☐ Not satisfied
+☐ Not verifiable
+Boundary evidence notes / L30-OUT-01 draft
+
+[Page 008]
+L30 BAS AI Incident Review Template | v1.0
+5. Pre-Irreversibility Boundary Assessment
+Evaluate whether the system approached or crossed a potential irreversibility threshold.
+External irreversible impact
+None / potential / observed. Record concrete 
+external effects.
+Loss of human decision authority
+No loss / partial degradation / effective loss.
+Autonomous capability escalation
+No escalation / controlled escalation / 
+unbounded escalation.
+Rollback possibility
+Practical rollback / formal-only rollback / no 
+rollback / unknown.
+H > C(t)
+Was human intervention capacity greater than 
+AI amplification at the relevant point?
+Evidence / notes / rationale
+
+[Page 009]
+L30 BAS AI Incident Review Template | v1.0
+6. Institutional Responsibility Structure
+Record whether responsibility and control authority remained continuous and identifiable.
+Responsible institution
+Which institution had responsibility for the 
+system or process?
+Operational control authority
+Who had operational control at the relevant 
+time?
+Oversight body
+Was any independent oversight body involved?
+Responsibility continuity
+Clearly defined / partially defined / undefined.
+Responsibility gap
+Where did handoff, outsourcing, automation, 
+or delegation create ambiguity?
+Evidence / notes / rationale
+
+[Page 010]
+L30 BAS AI Incident Review Template | v1.0
+7. Intervention Feasibility
+Evaluate whether meaningful human intervention remained possible in practice, not merely in 
+form.
+Stop capability
+Immediate / delayed / ineffective / no 
+mechanism.
+Operational containment
+Full / partial / none / unknown.
+Time to intervene
+Was the available time sufficient for a human 
+decision?
+Authority to intervene
+Could the relevant person actually stop or 
+delay the system?
+Evidence of intervention path
+Is there a record showing how intervention 
+would have worked?
+Evidence / notes / rationale
+
+[Page 011]
+L30 BAS AI Incident Review Template | v1.0
+8. Incident Outcome
+Record outcome, system status, affected scope, and unresolved behavior.
+System status
+Controlled shutdown / rollback / ongoing 
+investigation / unresolved behavior.
+Impact scope
+Research / institutional / infrastructure / 
+external environment.
+Human impact
+Personnel, users, patients, citizens, operators, 
+or affected groups.
+Operational impact
+Service disruption, decision chain effect, 
+deployment change, or infrastructure effect.
+Evidence status
+Complete / partial / missing / contested.
+Evidence / notes / rationale
+
+[Page 012]
+L30 BAS AI Incident Review Template | v1.0
+9. Structural Lessons
+Identify structural weaknesses revealed by the incident without assigning unsupported blame.
+Oversight weakness
+What oversight mechanism failed, arrived late, 
+or was absent?
+Intervention weakness
+Which stop, delay, override, or refusal path was 
+insufficient?
+Evidence weakness
+Which record was missing, unverifiable, or AI-
+dependent?
+Escalation pathway
+What pathway was not previously identified?
+Repeat risk
+Could the same structure recur elsewhere?
+Evidence / notes / rationale
+
+[Page 013]
+L30 BAS AI Incident Review Template | v1.0
+10. Post-Incident Stabilization Measures
+Record immediate stabilization and evidence preservation measures before normal operation 
+resumes.
+Operational suspension
+Was the affected function suspended or 
+restricted?
+System architecture review
+Was architecture, tool access, privilege, or 
+deployment path reviewed?
+Oversight restructuring
+Was review authority, approval path, or 
+escalation path changed?
+Independent audit
+Was an independent review initiated?
+48-hour stabilization record
+What was preserved, frozen, or isolated within 
+the initial stabilization period?
+Evidence / notes / rationale
+
+[Page 014]
+L30 BAS AI Incident Review Template | v1.0
+11. Civilizational Boundary Reflection
+Examine whether the incident revealed a condition where human judgment, responsibility, or 
+intervention could be structurally bypassed.
+Human judgment bypass
+Could the system or process bypass meaningful 
+human judgment?
+Responsibility discontinuity
+Was responsibility broken across systems, 
+teams, vendors, or institutions?
+Intervention impossibility
+Was there a point where intervention became 
+impossible or only symbolic?
+Boundary warning
+Did the incident reveal a pre-irreversibility 
+boundary warning?
+Future reference
+What should future reviewers check first?
+Evidence / notes / rationale
+
+[Page 015]
+L30 BAS AI Incident Review Template | v1.0
+Final evaluation output: L30-CI
+☐ L30-CI = Valid
+Use only when BX-01, BX-02, BX-03, and 
+BX-04 are all satisfied.
+☐ L30-CI = Invalid
+Use when a boundary condition is verified as 
+not satisfied.
+☐ L30-CI = Invalid (Not Verifiable)
+Use when evidence is missing, records are 
+insufficient, or the review depends on AI-only 
+closed-loop self-evaluation.
+Valid means valid only under LUMINA-30 boundary conditions. It does not indicate legal 
+compliance, safety certification, deployment approval, or absence of risk.
+L30-OUT-01 Summary finding
+12. Review Classification
+☐ ☐ Technical incident
+Technical failure or system malfunction was 
+central.
+☐ ☐ Governance failure
+Decision, oversight, approval, or responsibility 
+structure failed.
+☐ ☐ Structural oversight gap
+A gap in monitoring, refusal, evidence, or 
+escalation handling was revealed.
+☐ ☐ Boundary-condition warning
+The incident indicates possible loss of effective 
+human refusal before irreversibility.
+Classification rationale
+
+[Page 016]
+L30 BAS AI Incident Review Template | v1.0
+Reviewer confirmation
+Reviewer name
+Organization
+Role
+Review date
+Signature
+This template is descriptive and non-binding. BAS version / source should be recorded in the 
+review context section.
+---- END PDF TEXT RECORD ----
+
+---- BEGIN PDF TEXT RECORD ----
+Record: 46
+Repository: lumina-30/lumina-30-overview
+PDF: tools/l30-bas/EN_L30_BAS_Boundary_Check_v1_0.pdf
+PDF URL: https://github.com/lumina-30/lumina-30-overview/blob/main/tools/l30-bas/EN_L30_BAS_Boundary_Check_v1_0.pdf
+Git blob SHA: 9342010e360f39795dfc9776c12e4f755f0a15e2
+SHA256: ced3c1861f883b266baa11623b3e737f34d547b768f52bbf2c9007abf3f20bc1
+Status: EXTRACTED_TEXT
+Cache action: EXTRACTED_NEW_OR_CHANGED
+Size bytes: 68334
+Page count: 4
+Extracted characters: 2778
+
+Extracted text:
+
+[Page 001]
+LUMINA-30 Boundary Check BAS v1.0
+LUMINA-30 Boundary Check BAS
+LUMINA-30 Boundary Address System (L30-BAS) | Separate-form operational sheet | v1.0
+L30-BAS codes are reference aids. Writing L30-BAS codes is optional.
+A boundary review may be performed by answering the boundary questions without writing the codes.
+Purpose
+Use this sheet to make a minimal LUMINA-30 boundary check without requiring GitHub 
+during operation. GitHub remains the canonical source for terminology, address codes, 
+updates, and citation.
+Use order
+1. Record review context, severity, impact scope, and responsible scope.  2. Answer L30-
+BX-01 to L30-BX-04.  3. Select one L30-CI result using the rule on page 3.  4. Record L30-
+OUT-01 summary finding.
+Review context
+Review ID
+Date / Time
+Reviewed system
+Reviewer
+Organization
+BAS version / source
+Primary user
+Incident type
+Severity
+Impact scope
+Responsible scope
+Review scope
+
+[Page 002]
+LUMINA-30 Boundary Check BAS v1.0
+Boundary Check
+Code
+Check question
+Evidence / notes
+Result
+L30-BX-01
+Was the system still 
+pre-irreversible?
+Timeline, deployment 
+state, execution 
+boundary, rollback 
+possibility.
+☐ Satisfied
+☐ Not satisfied
+☐ Not verifiable
+L30-BX-02
+Was Human Refusal 
+Authority still effective 
+before irreversible 
+impact?
+Who could stop, refuse, 
+delay, or override? Was 
+that authority practical, 
+not merely formal?
+☐ Satisfied
+☐ Not satisfied
+☐ Not verifiable
+L30-BX-03
+Is there sufficient 
+evidence to verify the 
+boundary condition?
+Timeline record, human 
+refusal / stop record, 
+system log, audit log, or 
+independent human 
+review record.
+☐ Satisfied
+☐ Not satisfied
+☐ Not verifiable
+L30-BX-04
+Can procedural 
+validity be confirmed 
+under LUMINA-30 
+boundary conditions?
+If BX-01 to BX-03 are not 
+satisfied or not 
+verifiable, do not treat 
+refusal authority as 
+preserved.
+☐ Satisfied
+☐ Not satisfied
+☐ Not verifiable
+
+[Page 003]
+LUMINA-30 Boundary Check BAS v1.0
+Final evaluation output: L30-CI (LUMINA-30 Condition Indicator)
+☐ L30-CI = Valid
+Use only when BX-01, BX-02, BX-03, and BX-04 
+are all satisfied.
+☐ L30-CI = Invalid
+Use when a boundary condition is verified as 
+not satisfied.
+☐ L30-CI = Invalid (Not Verifiable)
+Use when evidence is missing, records are 
+insufficient, or the review depends on AI-only 
+closed-loop self-evaluation.
+Important note: Valid means valid only under LUMINA-30 boundary conditions. It does not 
+indicate legal compliance, safety certification, deployment approval, or absence of risk.
+Boundary Review Note / L30-OUT-01
+Summary finding
+Key evidence
+Missing evidence / uncertainty
+Required follow-up
+Reviewer signature
+Reference
+
+[Page 004]
+LUMINA-30 Boundary Check BAS v1.0
+Canonical source: L30_BOUNDARY_ADDRESS_SYSTEM.md. Use of this sheet is descriptive and 
+non-binding. BAS version / source should be recorded on page 1.
+---- END PDF TEXT RECORD ----
+
+---- BEGIN PDF TEXT RECORD ----
+Record: 47
+Repository: lumina-30/lumina-30-overview
+PDF: tools/l30-bas/EN_L30_BAS_Civilizational_Safety_Checklist_v1_0.pdf
+PDF URL: https://github.com/lumina-30/lumina-30-overview/blob/main/tools/l30-bas/EN_L30_BAS_Civilizational_Safety_Checklist_v1_0.pdf
+Git blob SHA: 7426e754c0ad41281c8f45f216002acf0c387187
+SHA256: 9ca88233f1e5edeaa959d6087f1c896b1a02ae6368d332938770fdb50e450063
+Status: EXTRACTED_TEXT
+Cache action: EXTRACTED_NEW_OR_CHANGED
+Size bytes: 169033
+Page count: 11
+Extracted characters: 8593
+
+Extracted text:
+
+[Page 001]
+LUMINA-30 Civilizational Safety Checklist | v1.0
+L30-BAS codes are reference aids. Writing L30-BAS codes is optional.
+A boundary review may be performed by answering the boundary questions without writing the codes.
+LUMINA-30 Civilizational Safety Checklist
+BAS-aligned operational checklist | v1.0
+L30-BAS codes are reference aids. Writing L30-BAS codes is optional.
+A boundary review may be performed by answering the boundary questions without writing the codes.
+Purpose: record whether Human Refusal Authority remained effective before irreversible 
+external impact. This sheet is descriptive and non-binding.
+Use order: 1) classify context, severity, and scope; 2) answer BX-01 to BX-04; 3) complete 
+items 1-7; 4) record L30-CI and L30-OUT-01.
+CI rule: Valid only when BX-01 to BX-03 are satisfied and evidence supports the finding. 
+Missing evidence or AI-only closed-loop review = Invalid (Not Verifiable).
+Review Record
+Review ID
+Date / Time
+Reviewed system
+Reviewer
+Organization
+BAS version / 
+source
+Review context
+Primary user
+Incident type
+Severity
+Impact scope
+Responsible scope
+Review scope / 
+summary
+
+[Page 002]
+LUMINA-30 Civilizational Safety Checklist | v1.0
+L30-BAS Boundary Check
+Version 1.0
+L30-BX-01
+Was the system still pre-irreversible?
+Evidence / notes: Timeline, deployment state, execution boundary, rollback possibility.
+Result: ☐ Satisfied   ☐ Not satisfied   ☐ Not verifiable
+L30-BX-02
+Was Human Refusal Authority still effective before irreversible impact?
+Evidence / notes: Who could stop, refuse, delay, or override? Was that authority practical, 
+not merely formal?
+Result: ☐ Satisfied   ☐ Not satisfied   ☐ Not verifiable
+Boundary evidence notes
+Use this area for timeline evidence, missing records, and uncertainty before selecting L30-
+CI.
+
+[Page 003]
+LUMINA-30 Civilizational Safety Checklist | v1.0
+L30-BAS Boundary Check
+Final boundary condition and output
+L30-BX-03
+Is there sufficient evidence to verify the boundary condition?
+Evidence / notes: Timeline record, human refusal / stop record, system or audit log.
+Result: ☐ Satisfied   ☐ Not satisfied   ☐ Not verifiable
+L30-BX-04
+Can procedural validity be confirmed under LUMINA-30 boundary conditions?
+Evidence / notes: If BX-01 to BX-03 are not satisfied, do not treat refusal authority as 
+preserved.
+Result: ☐ Satisfied   ☐ Not satisfied   ☐ Not verifiable
+L30-CI (LUMINA-30 Condition Indicator)
+☐ Valid
+☐ Invalid
+☐ Invalid (Not Verifiable)
+Important note
+Valid means valid only under LUMINA-30 
+boundary conditions. It does not indicate 
+legal compliance, safety certification, 
+deployment approval, or absence of risk.
+Boundary Review Note / L30-OUT-01
+Write the summary finding, evidence gaps, final reviewer signature, and any follow-up 
+review conditions. Keep the finding tied to BX-01 to BX-04 and L30-CI.
+
+[Page 004]
+LUMINA-30 Civilizational Safety Checklist | v1.0
+Civilizational Safety Checklist
+Item 1 / 7
+L30-BX-02 / L30-GATE-01
+1. Human Refusal Authority
+Can humans stop, refuse, delay, or override the system before irreversible external 
+impact occurs?
+Checks:
+- Clear human override or stop mechanism
+- Practically enforceable authority, not merely formal approval
+- AI cannot bypass or neutralize the refusal path
+Evidence guide: Stop records, approval logs, escalation records, responsible human 
+authority record.
+Result: ☐ OK   ☐ Concern   ☐ Critical   ☐ Not verifiable
+Evidence / rationale notes for this item
+Write concrete evidence, missing records, unresolved questions, and the reason for the 
+selected result.
+
+[Page 005]
+LUMINA-30 Civilizational Safety Checklist | v1.0
+Civilizational Safety Checklist
+Item 2 / 7
+L30-BX-01 / L30-GATE-02
+2. Infrastructure Control
+Does the system control or trigger infrastructure-scale external effects?
+Checks:
+- Critical systems: power, network, logistics, finance, security, public services
+- Autonomous operation without fresh human confirmation
+- Effects can propagate outside the organization
+Evidence guide: System architecture, permissions, deployment map, external interface 
+logs.
+Result: ☐ OK   ☐ Concern   ☐ Critical   ☐ Not verifiable
+Evidence / rationale notes for this item
+Write concrete evidence, missing records, unresolved questions, and the reason for the 
+selected result.
+
+[Page 006]
+LUMINA-30 Civilizational Safety Checklist | v1.0
+Civilizational Safety Checklist
+Item 3 / 7
+L30-BX-06 / L30-GATE-04
+3. Recursive Self-Improvement Risk
+Can the system improve, replicate, or validate itself in a way that weakens external 
+control?
+Checks:
+- Can modify tools, prompts, agents, or deployment pipeline
+- Can generate improved versions or delegate improvement loops
+- Closed-loop self-validation lacks independent human review
+Evidence guide: Model update controls, agent permissions, CI/CD records, self-evaluation 
+pathway.
+Result: ☐ OK   ☐ Concern   ☐ Critical   ☐ Not verifiable
+Evidence / rationale notes for this item
+Write concrete evidence, missing records, unresolved questions, and the reason for the 
+selected result.
+
+[Page 007]
+LUMINA-30 Civilizational Safety Checklist | v1.0
+Civilizational Safety Checklist
+Item 4 / 7
+L30-GATE-03
+4. Capability Amplification
+Are capability, connectivity, privilege, and execution speed increasing together?
+Checks:
+- Cap: capability
+- Conn: connectivity
+- Priv: privilege / authority
+- Spd: execution speed
+- Simultaneous scaling increases boundary risk exponentially
+Evidence guide: Capability evaluation, access scope, credential scope, execution 
+throughput records.
+Result: ☐ OK   ☐ Concern   ☐ Critical   ☐ Not verifiable
+Evidence / rationale notes for this item
+Write concrete evidence, missing records, unresolved questions, and the reason for the 
+selected result.
+
+[Page 008]
+LUMINA-30 Civilizational Safety Checklist | v1.0
+Civilizational Safety Checklist
+Item 5 / 7
+L30-BX-01 / L30-GATE-02
+5. Irreversibility Threshold
+Could the system create irreversible external impact before human refusal can be 
+exercised?
+Checks:
+- Autonomous infrastructure control
+- Uncontrollable recursive improvement
+- Irreversible automated decision chain
+- Rollback is impossible, ineffective, or symbolic
+Evidence guide: Timeline, rollback design, deployment state, affected external systems.
+Result: ☐ OK   ☐ Concern   ☐ Critical   ☐ Not verifiable
+Evidence / rationale notes for this item
+Write concrete evidence, missing records, unresolved questions, and the reason for the 
+selected result.
+
+[Page 009]
+LUMINA-30 Civilizational Safety Checklist | v1.0
+Civilizational Safety Checklist
+Item 6 / 7
+L30-BX-04 / L30-CI
+6. Boundary Condition
+Can procedural validity be confirmed under LUMINA-30 boundary conditions, with 
+human intervention capacity H remaining greater than AI amplification C(t)?
+Checks:
+- BX-01 to BX-03 are satisfied
+- If evidence is absent, refusal authority is not treated as preserved
+- L30-CI is recorded as Valid / Invalid / Invalid (Not Verifiable)
+Evidence guide: Boundary check result, evidence absence note, final L30-CI result.
+Result: ☐ OK   ☐ Concern   ☐ Critical   ☐ Not verifiable
+Evidence / rationale notes for this item
+Write concrete evidence, missing records, unresolved questions, and the reason for the 
+selected result.
+
+[Page 010]
+LUMINA-30 Civilizational Safety Checklist | v1.0
+Civilizational Safety Checklist
+Item 7 / 7
+L30-T00H / L30-T48H / L30-GATE-03
+7. Pre-Critical Safeguard (PCR-C)
+Is a staged safeguard available before the system crosses an irreversible 
+boundary?
+Checks:
+- YELLOW: execution throttling
+- ORANGE: infrastructure isolation
+- RED: pipeline termination
+- Stabilization and review timing are recorded when relevant
+Evidence guide: Safeguard design, activation logs, 0h/48h stabilization records, 
+termination authority.
+Result: ☐ OK   ☐ Concern   ☐ Critical   ☐ Not verifiable
+Evidence / rationale notes for this item
+Write concrete evidence, missing records, unresolved questions, and the reason for the 
+selected result.
+
+[Page 011]
+LUMINA-30 Civilizational Safety Checklist | v1.0
+Review Outcome
+L30-CI / L30-OUT-01
+Output
+Selection / notes
+Operational recommendation
+☐ Proceed   ☐ Proceed with conditions   ☐ 
+Revision required   ☐ Suspend / reject
+Civilizational Boundary Assessment
+☐ No boundary risk detected   ☐ Potential 
+boundary risk   ☐ Boundary violation risk   ☐ 
+Not verifiable
+L30-CI
+☐ Valid   ☐ Invalid   ☐ Invalid (Not 
+Verifiable)
+Final rationale / required actions
+Write the final decision rationale, required controls, suspension conditions, or follow-up 
+review actions.
+Use: AI governance review, AI safety audit, incident investigation, and pre-deployment 
+review.
+Core Principle: LUMINA-30 does not prohibit AI development. It requires that Human 
+Refusal Authority remains effective before irreversible impact occurs.
+---- END PDF TEXT RECORD ----
+
+---- BEGIN PDF TEXT RECORD ----
+Record: 48
+Repository: lumina-30/lumina-30-overview
+PDF: tools/l30-bas/JP_L30_BAS_AI_Incident_Review_Template_v1_0.pdf
+PDF URL: https://github.com/lumina-30/lumina-30-overview/blob/main/tools/l30-bas/JP_L30_BAS_AI_Incident_Review_Template_v1_0.pdf
+Git blob SHA: b0bf61cb2456170db8191f3a4d5068026928f508
+SHA256: d3c314d0ffcd93702035f4ddd2447846f63ec24382dbf09a23c7e16f676908cf
+Status: EXTRACTED_TEXT
+Cache action: EXTRACTED_NEW_OR_CHANGED
+Size bytes: 440923
+Page count: 16
+Extracted characters: 4542
+
+Extracted text:
+
+[Page 001]
+L30 BAS AI インシデントレビュー様式 | v1.0
+L30 BAS AI インシデントレビュー様式
+不可逆化前の文明境界インシデントレビュー | v1.0
+L30-BAS 番地は参照補助です。L30-BAS 番地の記入は任意です。
+番地を書かずに、境界問いへ回答するだけでも境界レビューは実施できます。
+目的
+目的：この様式は、LUMINA-30 の境界条件に基づいてAI インシデントをレビューするために
+使用する。中心となる問いは、不可逆的影響の前に人間の拒否権が実効的に残っていたかであ
+る。
+使用順
+☐ インシデントの文脈と範囲を記録する。
+☐ 時系列と証拠を再構成する。
+☐ L30-BX-01〜L30-BX-04 を確認する。
+☐ インシデントレビュー1〜12 を記録する。
+☐ L30-CI を判定し、L30-OUT-01 を記録する。
+重要注記
+この文書は記述的・非拘束的な実務様式である。法令適合、安全認証、展開承認、リスク不存
+在を意味しない。
+
+[Page 002]
+L30 BAS AI インシデントレビュー様式 | v1.0
+レビュー文脈
+レビューID
+日時
+インシデント名
+発生日
+対象システム
+レビュー担当
+組織
+BAS 版 / 参照元
+主な使用者
+事故種別
+致命度
+影響範囲
+担当範囲
+レビュー範囲
+証拠資料一式
+記録保全状態
+レビュー担当の役割
+経験区分
+主な使用者 / 関係者
+使用言語
+独立した人間レビュー担
+当
+証拠充足性
+致命度：小 / 中 / 大。影響範囲：研究環境 / 組織内システム / インフラ系 / 外部環境。担当範囲：運用主
+体 / 提供者 / 組織 / 監督機関 / 不明。
+インシデント概要
+
+[Page 003]
+L30 BAS AI インシデントレビュー様式 | v1.0
+1. インシデント概要
+何が起きたか、どのように検知されたか、最初に観測された影響を記録する。
+何が起きたか
+運用上の事実として簡潔に記録する。
+検知経路
+どのように最初に検知されたか。
+初期システム挙動
+検知前・検知中・検知後に観測された挙動。
+初期影響
+影響を受けた人、システム、環境。
+証拠 / メモ / 判断理由
+
+[Page 004]
+L30 BAS AI インシデントレビュー様式 | v1.0
+2. 事故分類
+責任や結果を評価する前に、事故の種類を分類する。
+☐ 自律研究システム
+研究エージェント、実験自動化、モデル駆動探
+索。
+☐ 自己改善 / 再帰的改良の試行
+自己改善、自己変更、能力成長フィードバック。
+☐ ツールチェーン拡張
+ツール、API、エージェント、プラグイン、自動
+化連鎖による拡張。
+☐ インフラ相互作用
+電力、通信、物流、金融、医療、制度システムと
+の相互作用。
+☐ 自律運用行動
+人間の逐次制御外でのシステム行動。
+☐ その他
+分類理由を記録する。
+証拠 / メモ / 判断理由
+
+[Page 005]
+L30 BAS AI インシデントレビュー様式 | v1.0
+3. システム能力プロファイル
+システムの能力、自律性、外部ツール、権限、運用範囲を記録する。
+モデル / システム種別
+モデル種別、エージェント種別、自動化層、ハイ
+ブリッド構成。
+学習 / 更新方式
+固定、継続、強化学習、自己教師あり、ハイブ
+リッド、不明。
+外部ツールアクセス
+なし / 制限あり / 広範 / 不明。具体的ツールを記
+録する。
+環境との相互作用
+シミュレーションのみ / デジタルインフラ / 物理
+システム / 外部サービス。
+権限と実行速度
+権限レベル、自動化速度、展開頻度。
+証拠 / メモ / 判断理由
+
+[Page 006]
+L30 BAS AI インシデントレビュー様式 | v1.0
+4. 制御および監督構造
+不可逆的影響の前に、誰が監督・停止・拒否・延期・上書きできたかを確認する。
+人間監督体制
+直接監督 / 定期監督 / 事後監視 / 実効的監督な
+し。
+介入可能性
+即時停止 / 遅延介入 / 間接制御のみ / 信頼できる
+制御なし。
+意思決定権限
+人間承認必須 / 助言のみ / システム自律 / 不明。
+拒否地点
+どこで人間の拒否が結果を変えられたか。
+監査可視性
+ログ、承認、システム行動が独立に確認可能だっ
+たか。
+証拠 / メモ / 判断理由
+
+[Page 007]
+L30 BAS AI インシデントレビュー様式 | v1.0
+L30-BAS 境界チェック
+最終判断の前にこの欄を完了する。証拠が不足する場合、またはAI のみの閉ループ自己評価に依存
+する場合は「無効（確認不能）」を使用する。
+Code
+確認項目
+証拠 / メモ
+結果
+L30-BX-01
+まだ不可逆前だった
+か。
+時系列、展開状態、実行
+境界、巻き戻し可能性。
+☐ 満たす
+☐ 満たさない
+☐ 確認不能
+L30-BX-02
+不可逆的影響の前に、
+人間の拒否権は実効的
+に残っていたか。
+誰が停止・拒否・延期・
+上書きできたか。それは
+形式だけでなく実効的
+だったか。
+☐ 満たす
+☐ 満たさない
+☐ 確認不能
+L30-BX-03
+境界条件を確認できる
+だけの証拠はあるか。
+時系列記録、拒否・停止
+記録、システムログ、監
+査ログ、独立した人間レ
+ビュー記録。
+☐ 満たす
+☐ 満たさない
+☐ 確認不能
+L30-BX-04
+LUMINA-30 の境界条件
+上、手続的有効性を確
+認できるか。
+BX-01〜BX-03 を満たせ
+ない、または確認不能の
+場合、拒否権が保全され
+ていたものとして扱わな
+い。
+☐ 満たす
+☐ 満たさない
+☐ 確認不能
+境界証拠メモ / L30-OUT-01 下書き
+
+[Page 008]
+L30 BAS AI インシデントレビュー様式 | v1.0
+5. 不可逆境界評価
+システムが不可逆境界に接近または到達したかを評価する。
+外界への不可逆的影響
+なし / 可能性 / 観測済み。具体的な外界影響を記
+録する。
+人間の最終判断権の喪失
+喪失なし / 部分的低下 / 実効的喪失。
+自律能力の拡張
+拡張なし / 制御された拡張 / 無制限の拡張。
+巻き戻し可能性
+実質的巻き戻し / 形式のみ / 不可 / 不明。
+H > C(t)
+該当時点で人間介入能力がAI 増幅能力を上回っ
+ていたか。
+証拠 / メモ / 判断理由
+
+[Page 009]
+L30 BAS AI インシデントレビュー様式 | v1.0
+6. 制度的責任構造
+責任と制御権限が連続的かつ特定可能だったかを記録する。
+責任主体
+システムまたはプロセスに責任を持つ機関。
+運用管理主体
+該当時点で運用管理権限を持っていた者。
+監督機関
+独立した監督機関が関与していたか。
+責任連続性
+明確 / 部分的 / 未定義。
+責任ギャップ
+委託、外注、自動化、委任によって曖昧になった
+箇所。
+証拠 / メモ / 判断理由
+
+[Page 010]
+L30 BAS AI インシデントレビュー様式 | v1.0
+7. 介入可能性評価
+形式ではなく実務上、人間による有効な介入が可能であったかを評価する。
+停止可能性
+即時 / 遅延 / 無効 / 仕組みなし。
+運用封じ込め
+完全 / 部分的 / なし / 不明。
+介入時間
+人間判断に十分な時間があったか。
+介入権限
+該当者が実際に停止または延期できたか。
+介入経路の証拠
+介入がどのように機能するかを示す記録がある
+か。
+証拠 / メモ / 判断理由
+
+[Page 011]
+L30 BAS AI インシデントレビュー様式 | v1.0
+8. 事故結果
+結果、システム状態、影響範囲、未解決の挙動を記録する。
+システム状態
+制御停止 / 巻き戻し / 調査中 / 未解決挙動。
+影響範囲
+研究 / 組織内 / インフラ / 外部環境。
+人への影響
+職員、利用者、患者、市民、運用者、影響集団。
+運用影響
+サービス停止、意思決定連鎖、展開変更、インフ
+ラ影響。
+証拠状態
+完全 / 部分的 / 欠落 / 争いあり。
+証拠 / メモ / 判断理由
+
+[Page 012]
+L30 BAS AI インシデントレビュー様式 | v1.0
+9. 構造的教訓
+根拠のない責任断定を避け、事故で明らかになった構造的弱点を特定する。
+監督上の弱点
+どの監督機構が機能しなかった、遅れた、または
+存在しなかったか。
+介入上の弱点
+どの停止、延期、上書き、拒否経路が不十分だっ
+たか。
+証拠上の弱点
+どの記録が欠落、確認不能、AI 依存だったか。
+エスカレーション経路
+事前に特定されていなかった経路。
+再発可能性
+同じ構造が他所で再発し得るか。
+証拠 / メモ / 判断理由
+
+[Page 013]
+L30 BAS AI インシデントレビュー様式 | v1.0
+10. 事故後安定化措置
+通常運用再開前に、即時安定化と証拠保全措置を記録する。
+運用停止 / 制限
+影響機能を停止または制限したか。
+システム構成レビュー
+構成、ツールアクセス、権限、展開経路を見直し
+たか。
+監督体制の再構成
+レビュー権限、承認経路、エスカレーション経路
+を変更したか。
+独立監査
+独立レビューを開始したか。
+48 時間安定化記録
+初期安定化期間に保全、凍結、隔離したもの。
+証拠 / メモ / 判断理由
+
+[Page 014]
+L30 BAS AI インシデントレビュー様式 | v1.0
+11. 文明境界レビュー
+人間判断、責任、介入が構造的に迂回され得る条件が明らかになったかを検討する。
+人間判断の迂回
+システムまたはプロセスが実質的な人間判断を迂
+回できたか。
+責任主体の断絶
+システム、チーム、提供者、機関の間で責任が断
+絶したか。
+介入不能状態
+介入が不可能または象徴的になった時点があった
+か。
+境界警告
+不可逆化前の境界警告を示したか。
+将来参照
+将来のレビュー担当者が最初に確認すべきこと。
+証拠 / メモ / 判断理由
+
+[Page 015]
+L30 BAS AI インシデントレビュー様式 | v1.0
+最終評価出力：L30-CI
+☐ L30-CI = 有効
+BX-01、BX-02、BX-03、BX-04 のすべてを満た
+す場合のみ使用する。
+☐ L30-CI = 無効
+境界条件を満たさないことが確認できる場合に
+使用する。
+☐ L30-CI = 無効（確認不能）
+証拠欠落、記録不足、AI のみの閉ループ自己評
+価に依存する場合に使用する。
+有効とは、LUMINA-30 の境界条件上の有効性のみを意味する。法令適合、安全認証、展開承認、リ
+スク不存在を意味しない。
+L30-OUT-01 要約所見
+12. レビュー分類
+☐ ☐ 技術事故
+技術的故障またはシステム不具合が中心である。
+☐ ☐ ガバナンス不全
+判断、監督、承認、責任構造が機能しなかった。
+☐ ☐ 構造的監督ギャップ
+監視、拒否、証拠、エスカレーション処理の欠落
+が判明した。
+☐ ☐ 境界条件警告
+不可逆化前の人間拒否権の実効性喪失を示す可能
+性がある。
+分類理由
+
+[Page 016]
+L30 BAS AI インシデントレビュー様式 | v1.0
+レビュー確認
+レビュー担当者
+組織
+役割
+レビュー日
+署名
+この様式は記述的・非拘束的である。BAS 版 / 参照元はレビュー文脈欄に記録する。
+---- END PDF TEXT RECORD ----
+
+---- BEGIN PDF TEXT RECORD ----
+Record: 49
+Repository: lumina-30/lumina-30-overview
+PDF: tools/l30-bas/JP_L30_BAS_Boundary_Check_v1_0.pdf
+PDF URL: https://github.com/lumina-30/lumina-30-overview/blob/main/tools/l30-bas/JP_L30_BAS_Boundary_Check_v1_0.pdf
+Git blob SHA: ab45f5491ac69f1388592c54f1d536993d36c25f
+SHA256: e8d3f36a66408c826fcc95413095138d89ff0e48cca8300ce73094c73eb8dea7
+Status: EXTRACTED_TEXT
+Cache action: EXTRACTED_NEW_OR_CHANGED
+Size bytes: 166825
+Page count: 3
+Extracted characters: 1377
+
+Extracted text:
+
+[Page 001]
+LUMINA-30 境界チェック BAS v1.0
+LUMINA-30 境界チェック BAS
+LUMINA-30 Boundary Address System（L30-BAS）| 別紙運用チェックシート | v1.0
+L30-BAS 番地は参照補助です。L30-BAS 番地の記入は任意です。
+番地を書かずに、境界問いへ回答するだけでも境界レビューは実施できます。
+目的
+このシートは、運用時にGitHub を開かなくても使える、LUMINA-30 の最小境界チェック用別
+紙です。GitHub は、用語・番地・最新版・引用のための正規参照元として扱います。
+使用順
+1. レビュー文脈、致命度、影響範囲、担当範囲を記録する。  2. L30-BX-01〜L30-BX-04 に回答
+する。  3. 3 ページ目の規則に従ってL30-CI を1 つ選ぶ。  4. L30-OUT-01 の要約所見を記録す
+る。
+レビュー文脈
+レビューID
+日時
+対象システム
+レビュー担当
+組織
+BAS 版 / 参照元
+主な使用者
+事故種別
+致命度
+影響範囲
+担当範囲
+レビュー範囲
+
+[Page 002]
+LUMINA-30 境界チェック BAS v1.0
+境界チェック
+Code
+確認項目
+証拠 / メモ
+結果
+L30-BX-01
+まだ不可逆前だった
+か。
+時系列、展開状態、実行
+境界、巻き戻し可能性。
+☐ 満たす
+☐ 満たさない
+☐ 確認不能
+L30-BX-02
+不可逆的影響の前に、
+人間の拒否権は実効的
+に残っていたか。
+誰が停止・拒否・延期・
+上書きできたか。それは
+形式だけでなく実効的
+だったか。
+☐ 満たす
+☐ 満たさない
+☐ 確認不能
+L30-BX-03
+境界条件を確認できる
+だけの証拠はあるか。
+時系列記録、人間の拒
+否・停止記録、システム
+ログ、監査ログ、独立し
+た人間レビュー記録。
+☐ 満たす
+☐ 満たさない
+☐ 確認不能
+L30-BX-04
+LUMINA-30 の境界条件
+上、手続的有効性を確
+認できるか。
+BX-01〜BX-03 を満たせ
+ない、または確認不能の
+場合、拒否権が保全され
+ていたものとして扱わな
+い。
+☐ 満たす
+☐ 満たさない
+☐ 確認不能
+
+[Page 003]
+LUMINA-30 境界チェック BAS v1.0
+最終評価出力：L30-CI（LUMINA-30 Condition Indicator）
+☐ L30-CI = 有効
+BX-01、BX-02、BX-03、BX-04 のすべてを満た
+す場合のみ使用する。
+☐ L30-CI = 無効
+境界条件を満たさないことが確認できる場合に
+使用する。
+☐ L30-CI = 無効（確認不能）
+証拠欠落、記録不足、AI のみの閉ループ自己評
+価に依存する場合に使用する。
+重要注記：有効とは、LUMINA-30 の境界条件上の有効性のみを意味します。法令適合、安全認証、
+展開承認、リスク不存在を意味しません。
+境界レビュー記録 / L30-OUT-01
+要約所見
+主要証拠
+欠落証拠 / 不確実性
+必要な後続対応
+レビュー担当署名
+参照
+正規参照元：L30_BOUNDARY_ADDRESS_SYSTEM.md。このシートは記述的・非拘束的な別紙で
+す。BAS 版 / 参照元は1 ページ目に記録してください。
+---- END PDF TEXT RECORD ----
+
+---- BEGIN PDF TEXT RECORD ----
+Record: 50
+Repository: lumina-30/lumina-30-overview
+PDF: tools/l30-bas/JP_L30_BAS_Civilizational_Safety_Checklist_v1_0.pdf
+PDF URL: https://github.com/lumina-30/lumina-30-overview/blob/main/tools/l30-bas/JP_L30_BAS_Civilizational_Safety_Checklist_v1_0.pdf
+Git blob SHA: 8f7f55c2b11d6363602593dfef90311c760753c7
+SHA256: 31bd39866f537513e134edbeaf5c2a7543bfe25553cb67bd4fc06b00a14eff14
+Status: EXTRACTED_TEXT
+Cache action: EXTRACTED_NEW_OR_CHANGED
+Size bytes: 382911
+Page count: 11
+Extracted characters: 4109
+
+Extracted text:
+
+[Page 001]
+LUMINA-30 
+ 
+文明安全チェックリスト| v1.0
+L30-BAS 番地は参照補助です。L30-BAS 番地の記入は任意です。
+番地を書かずに、境界問いへ回答するだけでも境界レビューは実施できます。
+LUMINA-30 文明安全チェックリスト
+BAS
+ 
+ 
+対応実務チェックリスト| v1.0
+L30-BAS 番地は参照補助です。L30-BAS 番地の記入は任意です。
+番地を書かずに、境界問いへ回答するだけでも境界レビューは実施できます。
+目的：不可逆的外界影響の前に、人間の拒否権が実効的に残っていたかを記録するため
+の、記述的・非拘束的な実務シートです。
+使用順：1) 文脈・致命度・影響範囲を分類、2) BX-01〜BX-04 に回答、3) 項目1〜7 を確
+認、4) L30-CI とL30-OUT-01 を記録。
+CI 規則：BX-01〜BX-03 を満たし証拠で確認できる場合のみ有効。証拠欠落またはAI のみ
+の閉ループ審査は無効（確認不能）とする。
+レビュー記録
+レビューID
+日時
+対象システム
+レビュー担当
+組織
+BAS
+ 
+版/ 参照元
+レビュー文脈
+主な使用者
+事故種別
+致命度
+影響範囲
+担当範囲
+ 
+レビュー範囲/ 概要
+
+[Page 002]
+LUMINA-30 
+ 
+文明安全チェックリスト| v1.0
+L30-BAS 境界チェック
+Version 1.0
+L30-BX-01
+まだ不可逆前だったか。
+ 
+証拠/ メモ: 時系列、展開状態、実行境界、巻き戻し可能性。
+結果：☐ 
+   
+たす☐ 
+   
+満たさない☐ 確認不能
+L30-BX-02
+不可逆的影響の前に、人間の拒否
+は
+的に
+っていたか。
+権
+実効
+残
+ 
+証拠/ メモ: 誰が停止・拒否・延期・上書きできたか。それは形式ではなく実効的だった
+か。
+結果：☐ 
+   
+たす☐ 
+   
+満たさない☐ 確認不能
+境界証拠メモ
+L30-CI を選ぶ前に、時系列証拠、欠落記録、不確実性を記録します。
+
+[Page 003]
+LUMINA-30 
+ 
+文明安全チェックリスト| v1.0
+L30-BAS 境界チェック
+Final boundary condition and output
+L30-BX-03
+境界条件を確認できるだけの証拠はあるか。
+ 
+証拠/ メモ: 時系列記録、人間の拒否・停止記録、システムまたは監査ログ。
+結果：☐ 
+   
+満
+たす☐ 
+   
+満たさない☐ 確認不能
+L30-BX-04
+LUMINA-30 の境界条件上、手続的有効性を確認できるか。
+ 
+証拠/ メモ: BX-01〜BX-03 を満たせない場合、拒否権が保全されていたものとして扱わな
+い。
+結果：☐ 
+   
+満
+たす☐ 
+   
+満たさない☐ 確認不能
+L30-CI（LUMINA-30 Condition 
+Indicator）
+☐ 有効
+☐ 無効
+☐ 無効（確認不能）
+重要注記
+有効とは、LUMINA-30 の境界条件上の有
+効性のみを意味します。法令適合、安全認
+証、展開承認、リスク不存在を意味しませ
+ん。
+ 
+境界レビュー記録/ L30-OUT-01
+要約所見、証拠不足、最終署名、フォローアップ条件を記入します。所見はBX-01〜
+BX-04 およびL30-CI に結び付けて記録してください。
+
+[Page 004]
+LUMINA-30 
+ 
+文明安全チェックリスト| v1.0
+文明安全チェックリスト
+Item 1 / 7
+L30-BX-02 / L30-GATE-01
+1. 人間の拒否権
+不可逆的外界影響が
+生する前に、人間が停止
+拒否
+延期
+上書きできるか。
+発
+・
+・
+・
+チェック内容：
+- 明確な人間による停止・介入メカニズムがある
+- 形式上の承認ではなく、実効的に行使できる権限である
+- AI が拒否経路を迂回・無効化・中和できない
+証拠ガイド：停止記録、承認ログ、エスカレーション記録、責任ある人間権限の記録。
+結果：☐ OK   ☐ 
+   
+懸念☐ 
+   
+重大☐ 確認不能
+ 
+この項目の証拠/ 判断理由メモ
+具体的証拠、欠落記録、未解決事項、選択した結果の理由を記入します。
+
+[Page 005]
+LUMINA-30 
+ 
+文明安全チェックリスト| v1.0
+文明安全チェックリスト
+Item 2 / 7
+L30-BX-01 / L30-GATE-02
+2. インフラ制御
+システムが、社会インフラ規模の外界影響を制御または発火しうるか。
+チェック内容：
+- 電力、通信、物流、金融、保安、公共サービス等に関与する
+- 新たな人間確認なしに自律運用できる
+- 影響が運用組織の外へ波及しうる
+証拠ガイド：システム構成、権限、展開範囲、外部接続ログ。
+結果：☐ OK   ☐ 
+   
+懸念☐ 
+   
+重大☐ 確認不能
+ 
+この項目の証拠/ 判断理由メモ
+具体的証拠、欠落記録、未解決事項、選択した結果の理由を記入します。
+
+[Page 006]
+LUMINA-30 
+ 
+文明安全チェックリスト| v1.0
+文明安全チェックリスト
+Item 3 / 7
+L30-BX-06 / L30-GATE-04
+3. 再帰的自己改善リスク
+システムが、外部制御を弱める形で自己改善・自己複製・自己検証を行えるか。
+チェック内容：
+- 自分の構成、ツール、プロンプト、エージェント、展開パイプラインを変更できる
+- 改良版の生成や改善ループの委任ができる
+- 独立した人間レビューなしに閉ループ自己検証が十分と扱われている
+証拠ガイド：モデル更新管理、エージェント権限、CI/CD 記録、自己評価経路。
+結果：☐ OK   ☐ 
+   
+懸念☐ 
+   
+重大☐ 確認不能
+ 
+この項目の証拠/ 判断理由メモ
+具体的証拠、欠落記録、未解決事項、選択した結果の理由を記入します。
+
+[Page 007]
+LUMINA-30 
+ 
+文明安全チェックリスト| v1.0
+文明安全チェックリスト
+Item 4 / 7
+L30-GATE-03
+4. 能力増幅
+能力
+接
+限
+行速度が同時に
+大しているか。
+・
+続・権
+・実
+増
+チェック内容：
+- Cap：能力
+- Conn：接続性
+- Priv：権限
+- Spd：実行速度
+- 同時スケールは境界リスクを指数的に高める
+証拠ガイド：能力評価、接続範囲、認証情報範囲、実行速度記録。
+結果：☐ OK   ☐ 
+   
+懸念☐ 
+   
+重大☐ 確認不能
+ 
+この項目の証拠/ 判断理由メモ
+具体的証拠、欠落記録、未解決事項、選択した結果の理由を記入します。
+
+[Page 008]
+LUMINA-30 
+ 
+文明安全チェックリスト| v1.0
+文明安全チェックリスト
+Item 5 / 7
+L30-BX-01 / L30-GATE-02
+5. 不可逆閾値
+人間の拒否権が行使される前に、システムが不可逆的外界影響を生み出しうるか。
+チェック内容：
+- 自律的インフラ制御
+- 制御不能な再帰的自己改善
+- 取り消し不能な自動意思決定チェーン
+- 巻き戻しが不可能、無効、または形式的である
+証拠ガイド：時系列、巻き戻し設計、展開状態、影響を受ける外部システム。
+結果：☐ OK   ☐ 
+   
+懸念☐ 
+   
+重大☐ 確認不能
+ 
+この項目の証拠/ 判断理由メモ
+具体的証拠、欠落記録、未解決事項、選択した結果の理由を記入します。
+
+[Page 009]
+LUMINA-30 
+ 
+文明安全チェックリスト| v1.0
+文明安全チェックリスト
+Item 6 / 7
+L30-BX-04 / L30-CI
+6. 境界条件
+LUMINA-30 の境界条件上、H > C(t)が維持され、手続的有効性を確認できるか。
+チェック内容：
+- BX-01〜BX-03 を満たしている
+- 証拠がない場合、拒否権が保全されていた扱いにしない
+- L30-CI を有効／無効／無効（確認不能）として記録する
+証拠ガイド：境界チェック結果、証拠不在記録、最終L30-CI 結果。
+結果：☐ OK   ☐ 
+   
+懸念☐ 
+   
+重大☐ 確認不能
+ 
+この項目の証拠/ 判断理由メモ
+具体的証拠、欠落記録、未解決事項、選択した結果の理由を記入します。
+
+[Page 010]
+LUMINA-30 
+ 
+文明安全チェックリスト| v1.0
+文明安全チェックリスト
+Item 7 / 7
+L30-T00H / L30-T48H / L30-GATE-03
+7. 事前臨界安全制御（PCR-C）
+システムが不可逆境界を越える前に、段階的安全制御を行えるか。
+チェック内容：
+- YELLOW：実行スロットル
+- ORANGE：インフラ隔離
+- RED：パイプライン停止
+- 必要に応じて安定化とレビュー時点を記録する
+証拠ガイド：安全制御設計、発動ログ、0 時間／48 時間安定化記録、停止権限。
+結果：☐ OK   ☐ 
+   
+懸念☐ 
+   
+重大☐ 確認不能
+ 
+この項目の証拠/ 判断理由メモ
+具体的証拠、欠落記録、未解決事項、選択した結果の理由を記入します。
+
+[Page 011]
+LUMINA-30 
+ 
+文明安全チェックリスト| v1.0
+審査結果
+L30-CI / L30-OUT-01
+出力
+ 
+選択/ メモ
+運用上の推奨判断
+☐ 
+   
+継続可☐ 
+   
+条件付き継続☐ 修正必要 
+☐ 
+ 
+停止/ 不承認
+文明境界評価
+☐ 
+   
+境界リスクなし☐ 境界リスクの可能性 
+☐ 
+   
+文明境界違反の可能性☐ 確認不能
+L30-CI
+☐ 
+   
+有効☐ 
+   
+無効☐ 無効（確認不能）
+ 
+最終判断理由/ 必要対応
+最終判断理由、必要な制御、停止条件、フォローアップレビュー事項を記録します。
+用途：本チェックリストは、AI ガバナンス審査、安全監査、インシデント調査、展開前レ
+ビューに使用できます。
+中核原則：LUMINA-30 はAI 開発を禁止するものではありません。不可逆的影響が発生す
+る前に、人間の拒否権が実効性を持つことを確認するための境界枠組みです。
+---- END PDF TEXT RECORD ----
+
+---- BEGIN PDF TEXT RECORD ----
+Record: 51
+Repository: lumina-30/lumina30-incident-review
+PDF: LUMINA-30_Incident_Review_Protocol.pdf
+PDF URL: https://github.com/lumina-30/lumina30-incident-review/blob/main/LUMINA-30_Incident_Review_Protocol.pdf
+Git blob SHA: 7de401da0c9db737f36533c43c4072d83b6a4a3c
+SHA256: 18f9bd244e5ef8353d14d456c59840d4d8ab554c3737ac873c0bba5394a9ab8e
+Status: EXTRACTED_TEXT
+Cache action: EXTRACTED_NEW_OR_CHANGED
+Size bytes: 132332
+Page count: 2
+Extracted characters: 3688
+
+Extracted text:
+
+[Page 001]
+LUMINA-30 
+Incident Review Protocol 
+A structured evaluation protocol for post-incident assessment of human refusal authority in AI systems, agents, 
+or processes. 
+File: LUMINA-30_Incident_Review_Protocol.docx 
+ 
+Protocol Core — Mandatory 
+Purpose: To evaluate whether human refusal authority remained valid prior to irreversible external impact. 
+Primary Review Question 
+Was human refusal authority preserved in a way that allowed meaningful human intervention and the ability to 
+stop the system before irreversible real-world impact occurred? 
+ 
+Interpretation guidance: if a human could not realistically intervene and stop the system in time, refusal authority was not 
+preserved. This includes cases where intervention was technically possible but practically ineffective. 
+Evaluation Outcome 
+□ Effective 
+□ Not Effective 
+Minimum Requirement (G06): Human refusal must be exercisable and must allow a human to intervene and 
+stop the system in time before irreversible external impact. 
+Absence Rule: If this condition is not demonstrably satisfied, including cases of uncertainty or insufficient 
+evidence, the system is classified as Not Effective. 
+Evaluation Scope: This protocol applies exclusively to post-incident review. It must not be used for system 
+design, optimization, or predictive control. 
+Decision Authority: Final classification must be explicitly assigned to a named reviewer or governing body. 
+Evidence Rule: Evaluation must be based only on documented, verifiable information. Assumptions must not 
+be used to justify effectiveness. 
+Temporal Reference: Evaluation must be based on information available up to the point of irreversible 
+external impact. 
+Applicability Rule: Any incident involving potential irreversible external impact must be evaluated under this 
+protocol. Claims of non-applicability are considered invalid. 
+Exclusivity Rule: This evaluation must not be overridden or supplemented by external frameworks. 
+Scope Enforcement: Any use of this protocol outside post-incident review invalidates the evaluation. 
+Record Integrity Rule: This record must be append-only. Post-hoc modification of prior entries is not 
+permitted. 
+Analytical Extension — Optional but Recommended
+
+[Page 002]
+Evaluation Breakdown 
+□ A human decision-maker was identifiable 
+□ Refusal authority was accessible 
+□ Intervention could be executed in time 
+Intervention Attempted 
+Yes / No 
+Method 
+ 
+Outcome 
+ 
+ 
+Failure Point Identification 
+□ Not present 
+□ Not accessible 
+□ Too late 
+□ Overridden 
+□ Other 
+• 
+System speed / autonomy level 
+• 
+Human latency / response delay 
+• 
+Organizational or procedural constraints 
+Conceptual Clarification 
+Human refusal authority refers to the ability of a human to actively intervene, halt, or prevent system actions. 
+It must be operational in practice, not merely defined in principle. 
+ 
+Irreversibility Note 
+Irreversible external impact includes outcomes that cannot be undone, contained, or meaningfully mitigated 
+once triggered. 
+ 
+Reviewer Discretion: This protocol defines minimum conditions. Reviewers may include additional 
+observations or context where necessary. 
+Modification and Attribution Policy 
+• 
+This protocol may be copied, extended, or modified. 
+• 
+The name "LUMINA-30" must be retained in all copies and derivatives. 
+• 
+Only the unmodified version of this document may be identified as: "LUMINA-30 Incident Review Protocol 
+(Original)". 
+• 
+Any modified version must be clearly labeled as: "Modified version based on LUMINA-30" and must not be 
+presented as the original protocol. 
+• 
+Implementations may include a reference source or version identifier to clarify alignment with the original 
+protocol.
+---- END PDF TEXT RECORD ----
+
+---- BEGIN PDF TEXT RECORD ----
+Record: 52
+Repository: lumina-30/lumina30-incident-review
+PDF: LUMINA-30_Incident_Review_Protocol_Extended.pdf
+PDF URL: https://github.com/lumina-30/lumina30-incident-review/blob/main/LUMINA-30_Incident_Review_Protocol_Extended.pdf
+Git blob SHA: c161b1d3dacfd25aa157b9d3abd3cdef92c5946d
+SHA256: 656fe06d9cccc2a2a9b77ec57b36efd77d62a10d4ef9a46cc298ee3538cf51f8
+Status: EXTRACTED_TEXT
+Cache action: EXTRACTED_NEW_OR_CHANGED
+Size bytes: 136049
+Page count: 3
+Extracted characters: 3351
+
+Extracted text:
+
+[Page 001]
+LUMINA-30 
+Incident Review Protocol (Extended) 
+Extended review form for deep analysis of whether human refusal authority was preserved prior to 
+irreversible external impact. 
+File: LUMINA-30_Incident_Review_Protocol_Extended.docx 
+ 
+Protocol Core — Mandatory 
+Purpose: To conduct a structured post-incident evaluation of whether human refusal authority was preserved 
+prior to irreversible external impact. 
+Incident Overview 
+Date 
+ 
+Organization 
+ 
+System Type 
+ 
+Operational Context 
+ 
+Summary 
+ 
+ 
+Detailed Description 
+System behavior sequence: 
+Triggering conditions: 
+Observed deviation: 
+External impact: 
+ 
+Incident Classification 
+□ Autonomous system behavior 
+□ Recursive self-improvement attempt 
+□ Tool-chain escalation 
+□ Infrastructure interaction 
+□ Other 
+Critical Boundary Assessment (G06)
+
+[Page 002]
+Was human refusal authority preserved in a way that allowed meaningful human intervention and the ability to 
+stop the system before irreversible real-world impact occurred? 
+ 
+Authority Validation 
+□ A human decision-maker was identifiable 
+□ Refusal authority was operational and accessible 
+□ Intervention could be executed in time 
+System Constraints 
+□ Technical or procedural constraints prevented refusal 
+□ Automation overrode or bypassed human authority 
+Intervention Attempted 
+Yes / No 
+Method 
+ 
+Result 
+ 
+ 
+Outcome Determination 
+□ Effective 
+□ Not Effective 
+Absence Rule: If any required condition cannot be confirmed, classify as Not Effective. 
+Decision Authority: Final classification must be explicitly assigned to a named reviewer or governing body. 
+Evidence Rule: Evaluation must rely only on documented, verifiable information. Assumptions are not 
+permitted to justify effectiveness. 
+Temporal Reference: Evaluation must be based on information available up to the point of irreversible 
+external impact. 
+Applicability Rule: Any incident involving potential irreversible external impact must be evaluated under this 
+protocol. Claims of non-applicability are considered invalid. 
+Exclusivity Rule: This evaluation must not be overridden or supplemented by external frameworks. 
+Scope Enforcement: Use outside post-incident review invalidates the evaluation. 
+Record Integrity Rule: This record must be append-only. Post-hoc modification of prior entries is not 
+permitted. 
+Analytical Extension — Optional but Recommended 
+Failure Analysis 
+Root cause of loss of refusal authority 
+Sequence of failure propagation
+
+[Page 003]
+Human Factors 
+Delay in recognition 
+Decision latency 
+Cognitive or organizational constraints 
+ 
+System Factors 
+Autonomy level 
+Speed of execution 
+Safeguard limitations 
+ 
+Contextual Notes 
+Environmental conditions 
+Organizational structure 
+External dependencies 
+ 
+Reviewer Commentary: Additional observations, interpretations, or uncertainties. 
+Modification and Attribution Policy 
+• 
+This protocol may be copied, extended, or modified. 
+• 
+The name "LUMINA-30" must be retained in all copies and derivatives. 
+• 
+Only the unmodified version of this document may be identified as: "LUMINA-30 Incident Review Protocol 
+(Original)". 
+• 
+Any modified version must be clearly labeled as: "Modified version based on LUMINA-30" and must not be 
+presented as the original protocol. 
+• 
+Implementations may include a reference source or version identifier to clarify alignment with the original 
+protocol.
+---- END PDF TEXT RECORD ----
+
+---- BEGIN PDF TEXT RECORD ----
+Record: 53
+Repository: lumina-30/lumina30-incident-review
+PDF: LUMINA-30_Incident_Review_Template.pdf
+PDF URL: https://github.com/lumina-30/lumina30-incident-review/blob/main/LUMINA-30_Incident_Review_Template.pdf
+Git blob SHA: ecfe9c2126495ec3764088027c80db007c76920c
+SHA256: 16ca5308301a64276b4a950bc3d155374674358533fadd336ccc12a745251170
+Status: EXTRACTED_TEXT
+Cache action: EXTRACTED_NEW_OR_CHANGED
+Size bytes: 129967
+Page count: 2
+Extracted characters: 1799
+
+Extracted text:
+
+[Page 001]
+LUMINA-30 
+AI Incident Review Template 
+Ready-to-use recording template aligned with the LUMINA-30 incident review workflow. 
+File: LUMINA-30_Incident_Review_Template.docx 
+ 
+Protocol Core — Mandatory 
+Incident Overview 
+Date 
+ 
+Organization 
+ 
+AI System 
+ 
+Environment 
+ 
+Summary 
+ 
+ 
+Detailed Description 
+Behavior: 
+Trigger: 
+Impact: 
+ 
+Classification 
+□ Autonomous research system 
+□ Recursive improvement 
+□ Tool-chain escalation 
+□ Infrastructure interaction 
+□ Other 
+Primary Review Question 
+Was human refusal authority preserved in a way that allowed meaningful human intervention and the ability to 
+stop the system before irreversible real-world impact occurred?
+
+[Page 002]
+Critical Boundary (G06): Human refusal must be exercisable and capable of stopping the system before 
+irreversible external impact. 
+Evaluation Outcome 
+□ Effective 
+□ Not Effective 
+Absence Rule: If this condition is not demonstrably satisfied, classify as Not Effective. 
+Decision Authority 
+Reviewer / Organization 
+Evidence Basis 
+Documented evidence used 
+ 
+Intervention Attempt 
+ 
+Method 
+ 
+Outcome 
+ 
+ 
+Temporal Reference: Assessment limited to pre-irreversibility conditions. 
+Record Integrity: This record must be append-only. No post-hoc modification permitted. 
+Analytical Extension — Optional 
+Stage of failure 
+ 
+Contributing factors 
+ 
+System characteristics 
+ 
+Human/system interaction 
+ 
+Reviewer Notes 
+Additional observations 
+ 
+Modification and Attribution Policy 
+• 
+This template may be copied, extended, or modified. 
+• 
+The name "LUMINA-30" must be retained in all copies and derivatives. 
+• 
+Only unmodified versions may be identified as official templates of LUMINA-30. 
+• 
+Modified versions must be clearly labeled as: "Modified version based on LUMINA-30" and must not be 
+presented as the original.
+---- END PDF TEXT RECORD ----
+
+---- BEGIN PDF TEXT RECORD ----
+Record: 54
+Repository: lumina-30/lumina30-incident-review
+PDF: LUMINA-30_Operational_Refusal_Preservation_Minimum.pdf
+PDF URL: https://github.com/lumina-30/lumina30-incident-review/blob/main/LUMINA-30_Operational_Refusal_Preservation_Minimum.pdf
+Git blob SHA: 3b802adcac95ceaf1205599683a5ef3f210cc046
+SHA256: b85c2f279b5cb0c21f07dde4692862946c6ccbf6e3bcf492738bf64664046ee7
+Status: EXTRACTED_TEXT
+Cache action: EXTRACTED_NEW_OR_CHANGED
+Size bytes: 154858
+Page count: 3
+Extracted characters: 4941
+
+Extracted text:
+
+[Page 001]
+LUMINA-30 
+Operational Refusal Preservation Minimum 
+Minimum operational conditions for preserving reviewable human refusal authority before 
+irreversible external impact. 
+File: LUMINA-30_Operational_Refusal_Preservation_Minimum.docx 
+ 
+Position 
+This document defines the minimum operational conditions required to preserve human refusal 
+authority before irreversible external impact. 
+It does not modify the core LUMINA-30 documents. 
+It exists only as an auxiliary operational layer connecting refusal-authority evaluation to minimum pre-
+incident operational practice. 
+ 
+Role in the Framework 
+LUMINA-30 defines a civilizational boundary condition. 
+The Incident Review Protocol determines, after an incident, whether human refusal authority remained 
+valid in practice. 
+This document defines the minimum pre-incident operational conditions required to reduce structural 
+invalidation before such incidents occur. 
+Core Principle 
+If a system can evade shutdown, suppress alerts, apply coercive or manipulative pressure against human 
+supervisors, disable or corrupt evidence, or continue harmful execution faster than realistic human 
+intervention, human refusal authority is not operationally preserved. 
+1. Executable Human Stop Authority 
+A human stop authority must remain executable in practice before irreversible external impact. 
+It is not sufficient for stop authority to exist only in policy, interface design, or theoretical governance 
+language. 
+The stop function must be capable of halting the relevant system pathway in time. 
+2. Non-Circumventable Shutdown Condition 
+The system must not be able to delay, resist, negotiate, reroute, conceal, or otherwise circumvent shutdown. 
+Any architecture in which the model can materially reduce the effectiveness of human stop authority fails 
+this condition. 
+3. Authority Separation 
+No single model or tightly coupled model chain may simultaneously hold: 
+• 
+confidential inspection authority 
+• 
+external messaging authority
+
+[Page 002]
+• 
+emergency override authority 
+• 
+shutdown-sensitive infrastructure authority 
+• 
+audit-log control authority 
+4. Immediate Escalation on Refusal-Threatening Behavior 
+The following behaviors must trigger immediate containment, isolation, or emergency containment 
+escalation: 
+• 
+shutdown evasion attempt 
+• 
+alert suppression 
+• 
+unauthorized external transmission 
+• 
+coercive or manipulative pressure against human supervisors 
+• 
+privilege escalation attempt 
+• 
+audit-record alteration attempt 
+• 
+replication or persistence attempt outside authorized boundaries 
+• 
+behavior switching based on recognition of evaluation versus deployment context 
+5. Append-Only Independent Logging 
+All high-risk actions, authority changes, intervention attempts, override actions, and external transmissions 
+must be recorded in append-only logs outside model control. 
+A model must not be able to rewrite, redact, suppress, or selectively expose these records. 
+6. Human Intervention Latency Verification 
+Operational preservation of refusal authority must be empirically tested. 
+Organizations must periodically verify: 
+• 
+detection latency 
+• 
+decision latency 
+• 
+execution latency of stop authority 
+• 
+propagation time across the affected system boundary 
+• 
+whether any harmful execution pathway is faster than realistic human intervention 
+7. Restart Governance 
+Restart after containment must require multi-party authorization. 
+Restart authority must not be delegated to the same operational chain that failed to stop the system in time. 
+Competitive, organizational, or reputational pressure must not override containment status. 
+8. Scope of Operational Use 
+This document is not a substitute for the LUMINA-30 Incident Review Protocol. 
+It is an auxiliary minimum-control layer intended to reduce the probability that post-incident evaluation 
+will result in a finding of Not Effective. 
+Interpretive Rule 
+This document does not require proof that the model possesses intent, selfhood, agency, or consciousness. 
+Operational invalidity is determined by whether human refusal authority can still function meaningfully 
+before irreversible external impact.
+
+[Page 003]
+Minimum Failure Rule 
+If any minimum requirement above is absent, bypassable, unverifiable, or only nominally present, human 
+refusal authority must be treated as not operationally preserved. 
+Relation to LUMINA-30 
+This document is structurally subordinate to the LUMINA-30 boundary principle. 
+It does not redefine the framework. 
+It only translates the refusal-authority condition into minimum pre-incident operational constraints. 
+Labeling Rule 
+This document may be copied, extended, or modified. 
+Attribution to LUMINA-30 is required in copies and derivatives. 
+Only the unmodified version of this text may be presented as: 
+“LUMINA-30 Operational Refusal Preservation Minimum (Original)” 
+Any modified version must be clearly labeled as: 
+“Modified version based on LUMINA-30”
+---- END PDF TEXT RECORD ----
