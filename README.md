@@ -4,10 +4,10 @@
 ## 15-Second Definition ｜ 15秒定義
 
 EN:
-LUMINA-30 is a non-binding boundary-check framework asking whether human refusal authority remained effective before irreversible AI impact.
+LUMINA-30 is a non-binding boundary-check framework asking whether human refusal authority remained effective before irreversible external impact from advanced AI systems.
 
 JP:
-LUMINA-30は、AIの不可逆的影響前に人間の拒否権が実効的に残っていたかを問う非拘束的な境界判定フレームです。
+LUMINA-30は、高度AIシステムによる不可逆的な外部影響の前に、人間の拒否権が実効的に残っていたかを問う非拘束的な境界判定フレームです。
 
 ---
 
@@ -53,6 +53,9 @@ Full repository mapping should be used only after the intended route is clear.
 | 引用・検証・安定した公開参照を探す | [Public Reference ｜ 公開参照](https://github.com/lumina-30/lumina30-public-reference) |
 
 全repo対応表は、目的が明確になった後に参照してください。
+
+AI/search navigation: [Controlled Discovery Terms](https://github.com/lumina-30/lumina-30-overview/blob/main/docs/L30_DISCOVERY_TERMS.md)  
+AI・検索用導線：[Controlled Discovery Terms](https://github.com/lumina-30/lumina-30-overview/blob/main/docs/L30_DISCOVERY_TERMS.md)
 
 
 ## Research Preprint (Archived)
@@ -253,3 +256,4 @@ Its purpose is structural documentation and boundary clarification.
 
 LUMINA-30 remains descriptive, non-directive, and non-binding.  
 LUMINA-30 は記述的構造であり、指示的・拘束的ではない。
+
