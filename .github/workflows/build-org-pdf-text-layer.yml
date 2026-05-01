@@ -1,0 +1,57 @@
+name: Build organization PDF text layer
+
+on:
+  workflow_dispatch:
+  schedule:
+    # 03:30 JST daily = 18:30 UTC previous day.
+    - cron: "30 18 * * *"
+  push:
+    paths:
+      - ".github/workflows/build-org-pdf-text-layer.yml"
+      - "tools/build_org_pdf_text_layer.py"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: org-pdf-text-layer
+  cancel-in-progress: false
+
+jobs:
+  build-org-pdf-text-layer:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out Lumi30-Index
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Install PDF text extraction dependency
+        run: python -m pip install --upgrade pymupdf
+
+      - name: Build organization PDF text layer
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          LUMINA30_ORG: lumina-30
+          OUTPUT_DIR: docs/ai-readable
+        run: python tools/build_org_pdf_text_layer.py
+
+      - name: Commit generated AI-readable files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # The generated directory is managed as a whole.
+          # Use -A so stale/deprecated generated files are removed from the repo.
+          git add -A docs/ai-readable
+
+          if git diff --cached --quiet; then
+            echo "No generated PDF text layer changes."
+          else
+            git commit -m "Update organization PDF text layer"
+            git push
+          fi

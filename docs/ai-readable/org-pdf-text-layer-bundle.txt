@@ -1,0 +1,4 @@
+LUMINA-30 Organization PDF Text Layer Bundle
+This file is generated automatically. Do not edit by hand.
+
+Initial placeholder. The GitHub Actions workflow will regenerate this file from the current organization PDF set.
