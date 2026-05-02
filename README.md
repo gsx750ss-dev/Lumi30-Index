@@ -39,7 +39,7 @@ First-time readers should choose one of the following three routes before browsi
 |---|---|
 | Understand LUMINA-30 | [Conceptual Overview ｜ 概念概要](https://github.com/lumina-30/lumina-30-overview) |
 | Review an AI incident or boundary failure | [Incident Review Hub ｜ 事故レビュー入口](https://github.com/lumina-30/lumina30-incident-review) |
-| Cite, verify, or find stable public references | [Public Reference ｜ 公開参照](https://github.com/lumina-30/lumina30-public-reference) |
+| Cite, verify, or find stable public references | [Public Reference ｜ 公開参照ハブ](https://github.com/lumina-30/lumina30-public-reference) |
 
 Full repository mapping should be used only after the intended route is clear.
 
@@ -50,7 +50,7 @@ Full repository mapping should be used only after the intended route is clear.
 |---|---|
 | LUMINA-30を理解する | [Conceptual Overview ｜ 概念概要](https://github.com/lumina-30/lumina-30-overview) |
 | AI事故・境界失効をレビューする | [Incident Review Hub ｜ 事故レビュー入口](https://github.com/lumina-30/lumina30-incident-review) |
-| 引用・検証・安定した公開参照を探す | [Public Reference ｜ 公開参照](https://github.com/lumina-30/lumina30-public-reference) |
+| 引用・検証・安定した公開参照を探す | [Public Reference ｜ 公開参照ハブ](https://github.com/lumina-30/lumina30-public-reference) |
 
 全repo対応表は、目的が明確になった後に参照してください。
 
@@ -169,44 +169,44 @@ Recommended search and citation terms should remain natural and non-promotional:
 ### Quick Routing / 目的別の最短導線
 
 - **First-time overview / 初見の概要確認**  
-  [LUMINA-30 Overview / LUMINA-30 概要](https://github.com/lumina-30/lumina-30-overview)  
+  [Conceptual Overview ｜ 概念概要](https://github.com/lumina-30/lumina-30-overview)  
   Visual and explanatory entry point for understanding the framework before reading individual repositories.  
   個別repoに入る前に、全体像・図・説明を確認する入口。
 
 - **Canonical boundary reference / 正典境界参照**  
-  [LUMINA-30 Core Repository / LUMINA-30 中核repo](https://github.com/lumina-30/LUMINA-30)  
+  [LUMINA-30 Core Repository ｜ LUMINA-30 中核repo](https://github.com/lumina-30/LUMINA-30)  
   Core non-binding boundary reference for preserving effective human refusal before irreversibility.  
   不可逆化前の実効的人間拒否権を保持するための中核・非拘束的境界参照。
 
 - **Canonical full text / 正典全文**  
-  [Lumi30-FullText / Lumi30 全文](https://github.com/lumina-30/Lumi30-FullText)  
+  [Canonical & Supplementary Full Text ｜ 正典・補助文書全文](https://github.com/lumina-30/Lumi30-FullText)  
   Consolidated full-text entry for canonical and supplementary materials.  
   正典および補助文書の全文確認用入口。
 
 - **Incident review and boundary check / 事故レビュー・境界判定**  
-  [lumina30-incident-review / 事故レビュー主ハブ](https://github.com/lumina-30/lumina30-incident-review)  
+  [Incident Review Hub ｜ 事故レビュー入口](https://github.com/lumina-30/lumina30-incident-review)  
   Practical review hub for Required Questions, boundary checks, templates, and stakeholder one-page briefs.  
   Required Questions、境界判定、テンプレート、相手別1枚資料を扱う主実務ハブ。
 
 - **Legal, audit, and governance use / 法務・監査・ガバナンス用途**  
-  [ai-accountability-reference / 説明責任参照](https://github.com/lumina-30/ai-accountability-reference)  
+  [AI Accountability Reference ｜ 説明責任参照](https://github.com/lumina-30/ai-accountability-reference)  
   Accountability, auditability, post-hoc responsibility, and responsibility continuity language.  
   説明責任、監査可能性、事後責任、責任連続性の制度言語。  
-  [institutional-friction-toolkit / 制度摩擦ツールキット](https://github.com/lumina-30/institutional-friction-toolkit)  
+  [Institutional Friction Toolkit ｜ 制度摩擦ツールキット](https://github.com/lumina-30/institutional-friction-toolkit)  
   Failure-to-stop, override breakdown, restart control failure, and procedural invalidity analysis.  
   停止不全、override 崩壊、再起動統制不全、手続的無効の分析。  
-  [stop-authority-reference / 拒否権定義アンカー](https://github.com/lumina-30/stop-authority-reference)  
+  [Stop Authority Reference ｜ 拒否権定義アンカー](https://github.com/lumina-30/stop-authority-reference)  
   Compact reference for stop authority, refusal authority, and pre-irreversibility interruption.  
   stop authority、refusal authority、不可逆前中断可能性の簡潔な定義アンカー。
 
 - **Public record and citation support / 公開記録・引用補助**  
-  [lumina30-public-reference / 公開参照ハブ](https://github.com/lumina-30/lumina30-public-reference)  
+  [Public Reference ｜ 公開参照ハブ](https://github.com/lumina-30/lumina30-public-reference)  
   Compact public-facing entry for discovery and citation routing.  
   発見性と引用導線のための公開向け入口。  
-  [Lumi30-Public-Record / 公開記録真正性](https://github.com/lumina-30/Lumi30-Public-Record)  
+  [Public Record ｜ 公開記録真正性](https://github.com/lumina-30/Lumi30-Public-Record)  
   Fixed record identity and hash reference for public verification.  
   公開検証のための記録識別子・ハッシュ参照。  
-  [Lumi30-PDF-Archive / PDF固定配布](https://github.com/lumina-30/Lumi30-PDF-Archive)  
+  [PDF Archive ｜ PDF固定配布](https://github.com/lumina-30/Lumi30-PDF-Archive)  
   Stable PDF archive for preservation and offline distribution.  
   保存とオフライン配布のための固定PDFアーカイブ。
 
@@ -224,7 +224,7 @@ Recommended search and citation terms should remain natural and non-promotional:
   GitHub traffic と DataCite DOI event の取得を補助するローカルPowerShellスクリプト。
 
 - **Repository structure map / repo構造確認**  
-  [lumina-30-structure-map / 構造マップ](https://github.com/lumina-30/lumina-30-structure-map)  
+  [Structure Map ｜ 構造マップ](https://github.com/lumina-30/lumina-30-structure-map)  
   Structural navigation aid for understanding how the repositories relate to one another.  
   各repoの関係を把握するための構造導線。
 
@@ -232,15 +232,15 @@ Recommended search and citation terms should remain natural and non-promotional:
 
 ## Read the Complete Text / 全文参照
 
-- [Canonical & Supplementary Full Text / 正典・補助文書全文](https://github.com/lumina-30/Lumi30-FullText)  
+- [Canonical & Supplementary Full Text ｜ 正典・補助文書全文](https://github.com/lumina-30/Lumi30-FullText)  
   Full-text GitHub entry for canonical and supplementary materials.  
   正典および補助文書全文の GitHub 入口。
 
-- [Official Fixed PDF Archive / 公式固定PDFアーカイブ](https://github.com/lumina-30/Lumi30-PDF-Archive)  
+- [PDF Archive ｜ PDF固定配布](https://github.com/lumina-30/Lumi30-PDF-Archive)
   Stable PDF archive for fixed distribution and preservation.  
   固定配布と保存のための安定PDFアーカイブ。
 
-- [Research Landscape Mapping / 研究的位置づけ・学術接続](https://github.com/lumina-30/lumina30-incident-review/blob/main/reference/Research_Landscape_Mapping.md)  
+- [Research Landscape Mapping ｜ 研究的位置づけ・学術接続](https://github.com/lumina-30/lumina30-incident-review/blob/main/reference/Research_Landscape_Mapping.md)  
   Research positioning and academic context reference.  
   研究的位置づけと学術接続を確認する参照文書。
 
