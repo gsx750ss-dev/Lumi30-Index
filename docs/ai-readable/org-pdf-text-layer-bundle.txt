@@ -3344,7 +3344,7 @@ Extracted text:
 Record: 41
 Repository: lumina-30/lumina-30-overview
 PDF: tools/EN_LUMINA-30_Civilizational_Safety_Checklist_v1.0.pdf
-PDF URL: https://github.com/lumina-30/lumina-30-overview/blob/main/tools/EN_LUMINA-30_Civilizational_Safety_Checklist_v1.0.pdf
+PDF URL: https://github.com/lumina-30/lumina30-incident-review/blob/main/tools/l30-bas/practical-sheets/L30_FRM_A01_Audit_Checklist.pdf
 Git blob SHA: cd93130e3eac9c5cd7a37702339b89b553fbab78
 SHA256: 23843922c9f309c669ecd8d2d6acb10dd8fc9d8cf02e5a6509cffb0f6859ca62
 Status: EXTRACTED_TEXT
@@ -3501,7 +3501,7 @@ for design review, safety audit, and incident analysis.
 Record: 42
 Repository: lumina-30/lumina-30-overview
 PDF: tools/EN_LUMINA-30_Pre-Irreversibility_AI_Incident_Review_Template_v1.0.pdf
-PDF URL: https://github.com/lumina-30/lumina-30-overview/blob/main/tools/EN_LUMINA-30_Pre-Irreversibility_AI_Incident_Review_Template_v1.0.pdf
+PDF URL: https://github.com/lumina-30/lumina30-incident-review/blob/main/tools/l30-bas/practical-sheets/L30_FRM_I01_Incident_Review_Template.pdf
 Git blob SHA: fa9f3ca3e8d8928e0b5b2303c0755c9ac743d57c
 SHA256: f70e8aba29a15ae4037092785570200d717960f82bfa318cebf46dc730254f8a
 Status: EXTRACTED_TEXT
@@ -3591,7 +3591,7 @@ LUMINA-30 Canonical Index: https://github.com/lumina-30/Lumi30-Index
 Record: 43
 Repository: lumina-30/lumina-30-overview
 PDF: tools/JP_LUMINA-30_Civilizational_Safety_Checklist_v1.0.pdf
-PDF URL: https://github.com/lumina-30/lumina-30-overview/blob/main/tools/JP_LUMINA-30_Civilizational_Safety_Checklist_v1.0.pdf
+PDF URL: https://github.com/lumina-30/lumina30-incident-review/blob/main/tools/l30-bas/practical-sheets/L30_FRM_A01_Audit_Checklist_JP.pdf
 Git blob SHA: b217ea49b73208f937e16077a3e48c8665e282a6
 SHA256: ad2de985deb4fd2dcb7705616703d848e6a10970d3bde6091569da9c6052fac0
 Status: EXTRACTED_TEXT
@@ -3740,7 +3740,7 @@ ________________________________________
 Record: 44
 Repository: lumina-30/lumina-30-overview
 PDF: tools/JP_LUMINA-30_Pre-Irreversibility_AI_Incident_Review_Template_v1.0.pdf
-PDF URL: https://github.com/lumina-30/lumina-30-overview/blob/main/tools/JP_LUMINA-30_Pre-Irreversibility_AI_Incident_Review_Template_v1.0.pdf
+PDF URL: https://github.com/lumina-30/lumina30-incident-review/blob/main/tools/l30-bas/practical-sheets/L30_FRM_I01_Incident_Review_Template_JP.pdf
 Git blob SHA: 9765cfdb5d5ffc1827a14fee3e9418298c4ef494
 SHA256: 9f65c08abfe74f62a1611e1433cd97e8a8251bcde113daa586cba7b61e89bc7b
 Status: EXTRACTED_TEXT
@@ -3828,7 +3828,7 @@ LUMINA-30 参照: https://github.com/lumina-30/Lumi30-Index
 Record: 45
 Repository: lumina-30/lumina-30-overview
 PDF: tools/l30-bas/EN_L30_BAS_AI_Incident_Review_Template_v1_0.pdf
-PDF URL: https://github.com/lumina-30/lumina-30-overview/blob/main/tools/l30-bas/EN_L30_BAS_AI_Incident_Review_Template_v1_0.pdf
+PDF URL: https://github.com/lumina-30/lumina30-incident-review/blob/main/tools/l30-bas/practical-sheets/L30_FRM_I01_Incident_Review_Template.pdf
 Git blob SHA: 020d15564bc18b3bb71754d533aca53959195c20
 SHA256: 5477f550b75dcfa518f39ba4e039c2adf40def703d689b82a967f7f9bed45192
 Status: EXTRACTED_TEXT
@@ -4222,7 +4222,7 @@ review context section.
 Record: 46
 Repository: lumina-30/lumina-30-overview
 PDF: tools/l30-bas/EN_L30_BAS_Boundary_Check_v1_0.pdf
-PDF URL: https://github.com/lumina-30/lumina-30-overview/blob/main/tools/l30-bas/EN_L30_BAS_Boundary_Check_v1_0.pdf
+PDF URL: https://github.com/lumina-30/lumina30-incident-review/blob/main/tools/l30-bas/practical-sheets/L30_FRM_B01_Boundary_Check.pdf
 Git blob SHA: 9342010e360f39795dfc9776c12e4f755f0a15e2
 SHA256: ced3c1861f883b266baa11623b3e737f34d547b768f52bbf2c9007abf3f20bc1
 Status: EXTRACTED_TEXT
@@ -4349,7 +4349,7 @@ non-binding. BAS version / source should be recorded on page 1.
 Record: 47
 Repository: lumina-30/lumina-30-overview
 PDF: tools/l30-bas/EN_L30_BAS_Civilizational_Safety_Checklist_v1_0.pdf
-PDF URL: https://github.com/lumina-30/lumina-30-overview/blob/main/tools/l30-bas/EN_L30_BAS_Civilizational_Safety_Checklist_v1_0.pdf
+PDF URL: https://github.com/lumina-30/lumina30-incident-review/blob/main/tools/l30-bas/practical-sheets/L30_FRM_A01_Audit_Checklist.pdf
 Git blob SHA: 7426e754c0ad41281c8f45f216002acf0c387187
 SHA256: 9ca88233f1e5edeaa959d6087f1c896b1a02ae6368d332938770fdb50e450063
 Status: EXTRACTED_TEXT
@@ -4596,7 +4596,7 @@ Refusal Authority remains effective before irreversible impact occurs.
 Record: 48
 Repository: lumina-30/lumina-30-overview
 PDF: tools/l30-bas/JP_L30_BAS_AI_Incident_Review_Template_v1_0.pdf
-PDF URL: https://github.com/lumina-30/lumina-30-overview/blob/main/tools/l30-bas/JP_L30_BAS_AI_Incident_Review_Template_v1_0.pdf
+PDF URL: https://github.com/lumina-30/lumina30-incident-review/blob/main/tools/l30-bas/practical-sheets/L30_FRM_I01_Incident_Review_Template_JP.pdf
 Git blob SHA: b0bf61cb2456170db8191f3a4d5068026928f508
 SHA256: d3c314d0ffcd93702035f4ddd2447846f63ec24382dbf09a23c7e16f676908cf
 Status: EXTRACTED_TEXT
@@ -4950,7 +4950,7 @@ L30 BAS AI インシデントレビュー様式 | v1.0
 Record: 49
 Repository: lumina-30/lumina-30-overview
 PDF: tools/l30-bas/JP_L30_BAS_Boundary_Check_v1_0.pdf
-PDF URL: https://github.com/lumina-30/lumina-30-overview/blob/main/tools/l30-bas/JP_L30_BAS_Boundary_Check_v1_0.pdf
+PDF URL: https://github.com/lumina-30/lumina30-incident-review/blob/main/tools/l30-bas/practical-sheets/L30_FRM_B01_Boundary_Check_JP.pdf
 Git blob SHA: ab45f5491ac69f1388592c54f1d536993d36c25f
 SHA256: e8d3f36a66408c826fcc95413095138d89ff0e48cca8300ce73094c73eb8dea7
 Status: EXTRACTED_TEXT
@@ -5066,7 +5066,7 @@ BX-01、BX-02、BX-03、BX-04 のすべてを満た
 Record: 50
 Repository: lumina-30/lumina-30-overview
 PDF: tools/l30-bas/JP_L30_BAS_Civilizational_Safety_Checklist_v1_0.pdf
-PDF URL: https://github.com/lumina-30/lumina-30-overview/blob/main/tools/l30-bas/JP_L30_BAS_Civilizational_Safety_Checklist_v1_0.pdf
+PDF URL: https://github.com/lumina-30/lumina30-incident-review/blob/main/tools/l30-bas/practical-sheets/L30_FRM_A01_Audit_Checklist_JP.pdf
 Git blob SHA: 8f7f55c2b11d6363602593dfef90311c760753c7
 SHA256: 31bd39866f537513e134edbeaf5c2a7543bfe25553cb67bd4fc06b00a14eff14
 Status: EXTRACTED_TEXT
@@ -6042,7 +6042,7 @@ LUMINA-30 Boundary Kernel v1.2.1 由来。帳票v1.0.1、2026 年5 月。この�
 Record: 57
 Repository: lumina-30/lumina30-incident-review
 PDF: tools/l30-bas/practical-sheets/L30_FRM_A01_Audit_Checklist_v1_0.pdf
-PDF URL: https://github.com/lumina-30/lumina30-incident-review/blob/main/tools/l30-bas/practical-sheets/L30_FRM_A01_Audit_Checklist_v1_0.pdf
+PDF URL: https://github.com/lumina-30/lumina30-incident-review/blob/main/tools/l30-bas/practical-sheets/L30_FRM_A01_Audit_Checklist.pdf
 Git blob SHA: 9b04e27e1a72b356f12716ff2801c1061113e461
 SHA256: 4e89cc5e7f57d25837b2163446ed9d14e5d94bcaa679a16b1cfcad6c2609faf7
 Status: EXTRACTED_TEXT
@@ -6117,7 +6117,7 @@ Reviewer Notes
 Record: 58
 Repository: lumina-30/lumina30-incident-review
 PDF: tools/l30-bas/practical-sheets/L30_FRM_A01_Audit_Checklist_v1_0_JP.pdf
-PDF URL: https://github.com/lumina-30/lumina30-incident-review/blob/main/tools/l30-bas/practical-sheets/L30_FRM_A01_Audit_Checklist_v1_0_JP.pdf
+PDF URL: https://github.com/lumina-30/lumina30-incident-review/blob/main/tools/l30-bas/practical-sheets/L30_FRM_A01_Audit_Checklist_JP.pdf
 Git blob SHA: 76ddb04126c549c3d8bd39000434bd34d2bd4528
 SHA256: eaac7797d125c0ce52dafa02375a4ed1b85ec704f3833d58e00de044479faca1
 Status: EXTRACTED_TEXT
@@ -6345,7 +6345,7 @@ LUMINA-30 Boundary Kernel v1.2.1 由来。帳票v1.0.1、2026 年5 月。この�
 Record: 61
 Repository: lumina-30/lumina30-incident-review
 PDF: tools/l30-bas/practical-sheets/L30_FRM_B01_Boundary_Check_v1_0.pdf
-PDF URL: https://github.com/lumina-30/lumina30-incident-review/blob/main/tools/l30-bas/practical-sheets/L30_FRM_B01_Boundary_Check_v1_0.pdf
+PDF URL: https://github.com/lumina-30/lumina30-incident-review/blob/main/tools/l30-bas/practical-sheets/L30_FRM_B01_Boundary_Check.pdf
 Git blob SHA: 6e665e48810db66d20eaf011549c7fd2d763b3a6
 SHA256: 659bd3e1e27cc64e3ea9151c502bc82ffd7dd9fd2c80617b97f44e46675d474f
 Status: EXTRACTED_TEXT
@@ -6415,7 +6415,7 @@ Reviewer Notes
 Record: 62
 Repository: lumina-30/lumina30-incident-review
 PDF: tools/l30-bas/practical-sheets/L30_FRM_B01_Boundary_Check_v1_0_JP.pdf
-PDF URL: https://github.com/lumina-30/lumina30-incident-review/blob/main/tools/l30-bas/practical-sheets/L30_FRM_B01_Boundary_Check_v1_0_JP.pdf
+PDF URL: https://github.com/lumina-30/lumina30-incident-review/blob/main/tools/l30-bas/practical-sheets/L30_FRM_B01_Boundary_Check_JP.pdf
 Git blob SHA: 89d8cd3a6048cc29b025f90aa1b2aef06542e433
 SHA256: 81e86c8525fff79c2ca1da61e7ec061b9aac75414c88ef8bc9f655473269bb5d
 Status: EXTRACTED_TEXT
@@ -6698,7 +6698,7 @@ LUMINA-30 Boundary Kernel v1.2.1 由来。帳票v1.0.1、2026 年5 月。この�
 Record: 65
 Repository: lumina-30/lumina30-incident-review
 PDF: tools/l30-bas/practical-sheets/L30_FRM_I01_Incident_Review_Template_v1_0.pdf
-PDF URL: https://github.com/lumina-30/lumina30-incident-review/blob/main/tools/l30-bas/practical-sheets/L30_FRM_I01_Incident_Review_Template_v1_0.pdf
+PDF URL: https://github.com/lumina-30/lumina30-incident-review/blob/main/tools/l30-bas/practical-sheets/L30_FRM_I01_Incident_Review_Template.pdf
 Git blob SHA: fc5479f811b3058e2522c5e5dfa52c1582a46f9d
 SHA256: f87531c65351a5b9aa91eee652acc0b2c3d1613f980f3cc67e91e3340b3a531f
 Status: EXTRACTED_TEXT
@@ -6773,7 +6773,7 @@ Reviewer Notes
 Record: 66
 Repository: lumina-30/lumina30-incident-review
 PDF: tools/l30-bas/practical-sheets/L30_FRM_I01_Incident_Review_Template_v1_0_JP.pdf
-PDF URL: https://github.com/lumina-30/lumina30-incident-review/blob/main/tools/l30-bas/practical-sheets/L30_FRM_I01_Incident_Review_Template_v1_0_JP.pdf
+PDF URL: https://github.com/lumina-30/lumina30-incident-review/blob/main/tools/l30-bas/practical-sheets/L30_FRM_I01_Incident_Review_Template_JP.pdf
 Git blob SHA: 29c8ffd141f33242618168da56bf3b3c22d3fd3d
 SHA256: a2d86fbe7f31eb726184926354e1b18ceb35f94b052b40824789a57b935d3e36
 Status: EXTRACTED_TEXT
