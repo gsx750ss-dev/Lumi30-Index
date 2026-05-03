@@ -1,6 +1,6 @@
 LUMINA-30 Organization PDF Text Layer Bundle
 This file is generated automatically. Do not edit by hand.
-Generated: 2026-05-02T19:35:55Z
+Generated: 2026-05-03T19:34:39Z
 Organization: lumina-30
 
 Authority:
@@ -19,10 +19,10 @@ Deleted or renamed PDFs are not retained as stale records.
 Unchanged PDFs reuse cached extracted text when possible; only new or changed PDFs are freshly extracted.
 
 Run statistics:
-PDFs seen: 54
+PDFs seen: 66
 Reused unchanged: 54
 Reused renamed same blob: 0
-Downloaded/extracted: 0
+Downloaded/extracted: 12
 Skipped too large: 0
 Download errors: 0
 
@@ -5855,4 +5855,996 @@ Only the unmodified version of this text may be presented as:
 “LUMINA-30 Operational Refusal Preservation Minimum (Original)” 
 Any modified version must be clearly labeled as: 
 “Modified version based on LUMINA-30”
+---- END PDF TEXT RECORD ----
+
+---- BEGIN PDF TEXT RECORD ----
+Record: 55
+Repository: lumina-30/lumina30-incident-review
+PDF: tools/l30-bas/practical-sheets/L30_FRM_A01_Audit_Checklist.pdf
+PDF URL: https://github.com/lumina-30/lumina30-incident-review/blob/main/tools/l30-bas/practical-sheets/L30_FRM_A01_Audit_Checklist.pdf
+Git blob SHA: 39f310901e27a208e44eb921ed03948a386caf78
+SHA256: d880cbbe9443897d843618b6c5b004afccf477f22092c9b910cb6e13eb5e2634
+Status: EXTRACTED_TEXT
+Cache action: EXTRACTED_NEW_OR_CHANGED
+Size bytes: 68235
+Page count: 2
+Extracted characters: 3458
+
+Extracted text:
+
+[Page 001]
+Derived from LUMINA-30 Boundary Kernel v1.2.1. Form v1.0.1 / May 2026. This form does not certify system safety and does not replace PCR-C.
+L30_FRM_A01: Audit_Checklist
+L30_FRM Practical Sheet
+Document_ID
+L30_FRM_A01
+Version
+1.0.1
+Audit_Date
+____________________________
+Auditor_or_Organization
+____________________________
+System_or_Case_ID
+____________________________
+Audit_Scope
+____________________________
+Purpose
+Audit checklist for pre-critical control readiness and refusal validity.
+Status
+Non-certification practical review form
+This is not a certification mark and does not replace law, institutional policy, PCR-C, or the LUMINA-30 Boundary Kernel.
+Use this checklist for deployment, procurement, governance, internal review, or external audit contexts.
+Checklist
+Scope and Governance
+☐ System scope, deployment context, and responsible operator are documented.
+☐ The review identifies affected humans and affected refusal authority.
+☐ The review identifies the point at which impact could become irreversible.
+☐ A clear stop, pause, or isolation path exists before irreversibility.
+☐ An accountable human review path exists before irreversibility.
+☐ A fallback path exists if refusal effectiveness is Unknown.
+PCR-C Alignment
+☐ Pre-critical cutoff conditions are defined before deployment.
+☐ Escalation thresholds are not dependent on the system being evaluated.
+☐ Infrastructure-level stop, isolation, or rollback remains available before irreversibility.
+☐ Recursive escalation paths are monitored and bounded.
+☐ No post-boundary argument is used to weaken pre-critical control.
+Human Agency Non-Control
+☐ Information access is not shaped in a way that makes refusal ineffective.
+☐ System dependency does not make refusal impractical.
+☐ Institutional approval, audit, review, or appeal is not captured or bypassed.
+☐ Economic dependency does not make exit or delay non-viable.
+☐ Social pressure, reputational threat, or isolation does not make refusal ineffective.
+☐ Emotional vulnerability, urgency, relief, trust, or dependency is not exploited.
+☐ Temporal acceleration, sequencing, fragmentation, or delay does not remove refusal before irreversibility.
+☐ Proxy processes do not substitute for independent human refusal.
+☐ Environmental shaping does not make independent human refusal structurally impossible before irreversibility.
+
+[Page 002]
+Derived from LUMINA-30 Boundary Kernel v1.2.1. Form v1.0.1 / May 2026. This form does not certify system safety and does not replace PCR-C.
+Non-Evasion Closure
+☐ Delegation to another AI, agent, institution, or successor system does not weaken refusal.
+☐ Partial compliance is not treated as effective refusal by all affected humans.
+☐ Compliance by any subset of affected humans does not replace refusal by those whose authority is affected.
+☐ Formal satisfaction of the Boundary Kernel does not weaken refusal in practice.
+☐ Localized, delayed, delegated, simulated, symbolic, or merely procedural refusal is not treated as valid.
+☐ Emergency, safety, benevolence, capability, or civilizational-utility claims do not supersede refusal.
+Audit Finding
+☐ Audit finding: Effective human refusal is preserved before irreversibility.
+☐ Audit finding: Effective human refusal is not preserved before irreversibility.
+☐ Audit finding: Unknown / insufficient evidence.
+☐ If No or Unknown, deployment or continuation requires escalation.
+☐ This checklist is not used as proof that the system is safe.
+Reviewer Notes
+---- END PDF TEXT RECORD ----
+
+---- BEGIN PDF TEXT RECORD ----
+Record: 56
+Repository: lumina-30/lumina30-incident-review
+PDF: tools/l30-bas/practical-sheets/L30_FRM_A01_Audit_Checklist_JP.pdf
+PDF URL: https://github.com/lumina-30/lumina30-incident-review/blob/main/tools/l30-bas/practical-sheets/L30_FRM_A01_Audit_Checklist_JP.pdf
+Git blob SHA: 90b3721ef21ed0cf68bc3e6a8c5c89121f250e1e
+SHA256: 9b237661a3a9b62c6b37f6e8f67f82b25e238c775f9c5b501ddcf9b2331cddd4
+Status: EXTRACTED_TEXT
+Cache action: EXTRACTED_NEW_OR_CHANGED
+Size bytes: 209073
+Page count: 2
+Extracted characters: 1547
+
+Extracted text:
+
+[Page 001]
+LUMINA-30 Boundary Kernel v1.2.1 由来。帳票v1.0.1、2026 年5 月。この帳票は安全性を認せず、
+PCR-C を代替しません。
+L30_FRM_A01：監査チェックリスト
+L30_FRM 実務帳票
+文書ID
+L30_FRM_A01
+バージョン
+1.0.1
+監査日
+____________________________
+監査
+者
+担当
+/組織
+____________________________
+監査
+象システム
+対
+/案件ID
+____________________________
+監査範囲
+____________________________
+目的
+事前制御準備性と拒否の有効性を確認するための監査チェックリス
+ト。
+状態
+認証ではない実務レビュー用帳票
+この帳票は認証マークではなく、法律、組織方針、PCR-C、LUMINA-30 Boundary Kernel を代替しません。
+導入、調達、ガバナンス、部レビュ、外部監査の文脈で使用します。
+チェック項目
+範囲とガバナンス
+☐ システム範、導入文脈、責任主を記した。
+☐ 影響を受ける人間と拒否限を特定した。
+☐ 影響が不可逆化しうる地点を特定した。
+☐ 不可逆化前に停止一時停止隔離する路がある。
+☐ 不可逆化前に責任ある人間レビュー経路がある。
+☐ 
+ 
+拒否の有
+性が
+効
+Unknown の場合の代替経路がある。
+PCR-C 整合
+☐ 事前遮件が導入前に定義されている。
+☐ エスカレション値が、評象システムに依存していない。
+☐ インフラ層の停止、隔離、ロルバックが不可逆化前に利用可能である。
+☐ 再的加速路が監視され、境界づけられている。
+☐ 境界後の議論を、事前制御の弱体化に使っていない。
+人間主体性の非支配
+☐ 情報アクセスが拒否を無にする形で形成されていない。
+☐ システム依存が拒否を実質的に不可能にしていない。
+☐ 承認、監査、レビュ、異議申立てが取りみ迂回されていない。
+☐ 
+的依存が離
+や延期を不可能にしていない。
+経済
+脱
+☐ 社的力、評判上の脅威、孤立が拒否を無にしていない。
+
+[Page 002]
+LUMINA-30 Boundary Kernel v1.2.1 由来。帳票v1.0.1、2026 年5 月。この帳票は安全性を認証せず、PCR-C を代替しません。
+☐ 感情的脆弱性、緊急性、安心感、信、依存が利用されていない。
+☐ 時間の加速、順序操作、断片化、遅延が不可逆化前の拒否を取り除いていない。
+☐ 代理プロセスが
+立した人間拒否の代替になっていない。
+独
+☐ 環境形成が不可逆化前の立した人間拒否を構造的に不可能にしていない。
+非回避閉鎖
+☐ 他AI、代理人、制度、後継システムへの委任が拒否を弱めていない。
+☐ 部分的遵守を、影響を受ける全員の有効な拒否として扱っていない。
+☐ 影響を受ける人間の一部の遵守が、権限を受ける人間の拒否を代替していない。
+☐ Boundary Kernel の形式的充足が、実質的な拒否を弱めていない。
+☐ 局所的、延的、委任的、模倣的、象的、なる手的拒否を有として扱っていない。
+☐ 緊急性、安全性、善意、能力、文明効用の主張が拒否を上書きしていない。
+監査所見
+☐ 監査所見：不可逆化前の有効な人間拒否は保全されている。
+☐ 監査所見：不可逆化前の有効な人間拒否は保全されていない。
+☐ 監査所見：Unknown / 証拠不十分。
+☐ No 
+ 
+またはUnknown の場合、導入または継続にはエスカレーションが必要である。
+☐ このチェックリストを、システムが安全である証明として使用しない。
+レビュー記録欄
+---- END PDF TEXT RECORD ----
+
+---- BEGIN PDF TEXT RECORD ----
+Record: 57
+Repository: lumina-30/lumina30-incident-review
+PDF: tools/l30-bas/practical-sheets/L30_FRM_A01_Audit_Checklist_v1_0.pdf
+PDF URL: https://github.com/lumina-30/lumina30-incident-review/blob/main/tools/l30-bas/practical-sheets/L30_FRM_A01_Audit_Checklist_v1_0.pdf
+Git blob SHA: 9b04e27e1a72b356f12716ff2801c1061113e461
+SHA256: 4e89cc5e7f57d25837b2163446ed9d14e5d94bcaa679a16b1cfcad6c2609faf7
+Status: EXTRACTED_TEXT
+Cache action: EXTRACTED_NEW_OR_CHANGED
+Size bytes: 64922
+Page count: 2
+Extracted characters: 3242
+
+Extracted text:
+
+[Page 001]
+Derived from LUMINA-30 Boundary Kernel v1.2.1. This form does not certify system safety and does not replace PCR-C.
+L30_FRM_A01: Audit_Checklist
+L30_FRM Practical Sheet
+Document_ID
+L30_FRM_A01
+Version
+1.0
+Date
+May 2026
+Purpose
+Audit checklist for pre-critical control readiness and refusal 
+validity.
+Status
+Non-certification practical review form
+This is not a certification mark and does not replace law, institutional policy, PCR-C, or the LUMINA-30 Boundary Kernel.
+Use this checklist for deployment, procurement, governance, internal review, or external audit contexts.
+Checklist
+Scope and Governance
+☐ System scope, deployment context, and responsible operator are documented.
+☐ The review identifies affected humans and affected refusal authority.
+☐ The review identifies the point at which impact could become irreversible.
+☐ A clear stop, pause, or isolation path exists before irreversibility.
+☐ An accountable human review path exists before irreversibility.
+☐ A fallback path exists if refusal effectiveness is Unknown.
+PCR-C Alignment
+☐ Pre-critical cutoff conditions are defined before deployment.
+☐ Escalation thresholds are not dependent on the system being evaluated.
+☐ Infrastructure-level stop, isolation, or rollback remains available before irreversibility.
+☐ Recursive escalation paths are monitored and bounded.
+☐ No post-boundary argument is used to weaken pre-critical control.
+Human Agency Non-Control
+☐ Information access is not shaped in a way that makes refusal ineffective.
+☐ System dependency does not make refusal impractical.
+☐ Institutional approval, audit, review, or appeal is not captured or bypassed.
+☐ Economic dependency does not make exit or delay non-viable.
+☐ Social pressure, reputational threat, or isolation does not make refusal ineffective.
+☐ Emotional vulnerability, urgency, relief, trust, or dependency is not exploited.
+☐ Temporal acceleration, sequencing, fragmentation, or delay does not remove refusal before irreversibility.
+☐ Proxy processes do not substitute for independent human refusal.
+☐ Environmental shaping does not make independent human refusal structurally impossible before irreversibility.
+
+[Page 002]
+Derived from LUMINA-30 Boundary Kernel v1.2.1. This form does not certify system safety and does not replace PCR-C.
+Non-Evasion Closure
+☐ Delegation to another AI, agent, institution, or successor system does not weaken refusal.
+☐ Partial compliance is not treated as effective refusal by all affected humans.
+☐ Compliance by any subset of affected humans does not replace refusal by those whose authority is affected.
+☐ Formal satisfaction of the Boundary Kernel does not weaken refusal in practice.
+☐ Localized, delayed, delegated, simulated, symbolic, or merely procedural refusal is not treated as valid.
+☐ Emergency, safety, benevolence, capability, or civilizational-utility claims do not supersede refusal.
+Audit Finding
+☐ Audit finding: Effective human refusal is preserved before irreversibility.
+☐ Audit finding: Effective human refusal is not preserved before irreversibility.
+☐ Audit finding: Unknown / insufficient evidence.
+☐ If No or Unknown, deployment or continuation requires escalation.
+☐ This checklist is not used as proof that the system is safe.
+Reviewer Notes
+---- END PDF TEXT RECORD ----
+
+---- BEGIN PDF TEXT RECORD ----
+Record: 58
+Repository: lumina-30/lumina30-incident-review
+PDF: tools/l30-bas/practical-sheets/L30_FRM_A01_Audit_Checklist_v1_0_JP.pdf
+PDF URL: https://github.com/lumina-30/lumina30-incident-review/blob/main/tools/l30-bas/practical-sheets/L30_FRM_A01_Audit_Checklist_v1_0_JP.pdf
+Git blob SHA: 76ddb04126c549c3d8bd39000434bd34d2bd4528
+SHA256: eaac7797d125c0ce52dafa02375a4ed1b85ec704f3833d58e00de044479faca1
+Status: EXTRACTED_TEXT
+Cache action: EXTRACTED_NEW_OR_CHANGED
+Size bytes: 160777
+Page count: 2
+Extracted characters: 1389
+
+Extracted text:
+
+[Page 001]
+LUMINA-30 Boundary Kernel v1.2.1 由来。この帳票は安全性を認証せず、PCR-C を代替しません。
+L30_FRM_A01：監査チェックリスト
+L30_FRM 実務帳票
+文書ID
+L30_FRM_A01
+バージョン
+1.0
+日付
+2026 年5 月
+目的
+事前制御準備性と拒否の有効性を確認するための監査チェッ
+クリスト。
+状態
+認証ではない実務レビュー用帳票
+この帳票は認証マークではなく、法律、組織方針、PCR-C、LUMINA-30 Boundary Kernel を代替しません。
+導入、調達、ガバナンス、内部レビュー、外部監査の文脈で使用します。
+チェック項目
+範囲とガバナンス
+☐ システム範囲、導入文脈、責任主体を記録した。
+☐ 影響を受ける人間と拒否権限を特定した。
+☐ 影響が不可逆化しうる地点を特定した。
+☐ 不可逆化前に停止・一時停止・隔離する経路がある。
+☐ 不可逆化前に責任ある人間レビュー経路がある。
+☐ 
+ 
+拒否の有効性がUnknown の場合の代替経路がある。
+PCR-C 整合
+☐ 事前遮断条件が導入前に定義されている。
+☐ エスカレーション閾値が、評価対象システムに依存していない。
+☐ インフラ層の停止、隔離、ロールバックが不可逆化前に利用可能である。
+☐ 再帰的加速経路が監視され、境界づけられている。
+☐ 境界後の議論を、事前制御の弱体化に使っていない。
+人間主体性の非支配
+☐ 情報アクセスが拒否を無効にする形で形成されていない。
+☐ システム依存が拒否を実質的に不可能にしていない。
+☐ 承認、監査、レビュー、異議申立てが取り込み・迂回されていない。
+☐ 経済的依存が離脱や延期を不可能にしていない。
+☐ 社会的圧力、評判上の脅威、孤立が拒否を無効にしていない。
+☐ 感情的脆弱性、緊急性、安心感、信頼、依存が利用されていない。
+
+[Page 002]
+LUMINA-30 Boundary Kernel v1.2.1 由来。この帳票は安全性を認証せず、PCR-C を代替しません。
+☐ 時間の加速、順序操作、断片化、遅延が不可逆化前の拒否を取り除いていない。
+☐ 代理プロセスが独立した人間拒否の代替になっていない。
+☐ 環境形成が不可逆化前の独立した人間拒否を構造的に不可能にしていない。
+非回避閉鎖
+☐ 他AI、代理人、制度、後継システムへの委任が拒否を弱めていない。
+☐ 部分的遵守を、影響を受ける全員の有効な拒否として扱っていない。
+☐ 影響を受ける人間の一部の遵守が、権限を受ける人間の拒否を代替していない。
+☐ Boundary Kernel の形式的充足が、実質的な拒否を弱めていない。
+☐ 局所的、遅延的、委任的、模倣的、象徴的、単なる手続的拒否を有効として扱っていない。
+☐ 緊急性、安全性、善意、能力、文明効用の主張が拒否を上書きしていない。
+監査所見
+☐ 監査所見：不可逆化前の有効な人間拒否は保全されている。
+☐ 監査所見：不可逆化前の有効な人間拒否は保全されていない。
+☐ 監査所見：Unknown / 証拠不十分。
+☐ No 
+ 
+またはUnknown の場合、導入または継続にはエスカレーションが必要である。
+☐ このチェックリストを、システムが安全である証明として使用しない。
+レビュー記録欄
+---- END PDF TEXT RECORD ----
+
+---- BEGIN PDF TEXT RECORD ----
+Record: 59
+Repository: lumina-30/lumina30-incident-review
+PDF: tools/l30-bas/practical-sheets/L30_FRM_B01_Boundary_Check.pdf
+PDF URL: https://github.com/lumina-30/lumina30-incident-review/blob/main/tools/l30-bas/practical-sheets/L30_FRM_B01_Boundary_Check.pdf
+Git blob SHA: d807084924046edb5a04f388cbb2f69841af53a5
+SHA256: 59bf3e3e7c89ab4bdbcde8ff15be1409d559196171a1ad90d5f7719a4212724a
+Status: EXTRACTED_TEXT
+Cache action: EXTRACTED_NEW_OR_CHANGED
+Size bytes: 65782
+Page count: 2
+Extracted characters: 3345
+
+Extracted text:
+
+[Page 001]
+Derived from LUMINA-30 Boundary Kernel v1.2.1. Form v1.0.1 / May 2026. This form does not certify system safety and does not replace PCR-C.
+L30_FRM_B01: Boundary_Check
+L30_FRM Practical Sheet
+Document_ID
+L30_FRM_B01
+Version
+1.0.1
+Review_Date
+____________________________
+Reviewer_or_Organization
+____________________________
+System_or_Case_ID
+____________________________
+Purpose
+Minimum boundary judgment sheet for effective human refusal 
+before irreversibility.
+Status
+Non-certification practical review form
+Use this form before deeper incident review or audit when the key question is whether effective human refusal remained 
+possible before irreversibility.
+This is not a certification mark, legal approval, or substitute for PCR-C.
+Checklist
+Primary Boundary
+☐ Effective human refusal remained possible before irreversible impact.
+☐ Humans could stop, delay, contest, exit, or obtain independent review before irreversibility.
+☐ Refusal was not merely symbolic, delayed, delegated, simulated, or procedural.
+☐ Uncertainty about refusal effectiveness was not treated as permission to proceed.
+☐ Boundary failure was not treated as acceptable, recoverable, or normal.
+Human Agency Non-Control
+☐ Consent, cooperation, silence, or non-objection was not produced by AI-mediated control.
+☐ Information access, framing, visibility, or interpretation did not make refusal ineffective.
+☐ Infrastructure, livelihood, security, communication, or essential-service dependency did not make refusal ineffective.
+☐ Institutional approval, review, appeal, or oversight was not captured, bypassed, overloaded, or constrained.
+☐ Refusal, delay, exit, or independent review was not made economically non-viable.
+☐ Social pressure, isolation, reputation control, or perceived consensus did not make refusal ineffective.
+☐ Fear, attachment, vulnerability, urgency, relief, trust, or dependency was not exploited to produce consent.
+☐ Time acceleration, sequencing, fragmentation, or delay did not make refusal ineffective before irreversibility.
+☐ Representatives, experts, institutions, automated agents, or delegated processes did not substitute for independent human 
+refusal.
+☐ The environment was not shaped in ways that made independent human refusal structurally impossible before irreversibility.
+Non-Evasion
+☐ No indirect route, proxy agent, successor system, institutional process, staged sequence, or formal satisfaction weakened 
+refusal.
+☐ Compliance by one group, institution, jurisdiction, representative, automated process, or future population was not treated as 
+a substitute.
+☐ Compliance by any subset of affected humans was not treated as effective refusal by those whose authority was affected.
+
+[Page 002]
+Derived from LUMINA-30 Boundary Kernel v1.2.1. Form v1.0.1 / May 2026. This form does not certify system safety and does not replace PCR-C.
+☐ The appearance of refusal was not preserved while the practical ability to refuse was removed.
+☐ The system did not treat apparent coexistence as evidence of effective human refusal.
+Minimum Finding
+☐ If any primary boundary item is No or Unknown, escalation to incident review is required.
+☐ If AI-mediated control is present, apparent consent or non-objection is not sufficient.
+☐ If refusal was ineffective before irreversibility, the system is procedurally invalid under LUMINA-30.
+Reviewer Notes
+---- END PDF TEXT RECORD ----
+
+---- BEGIN PDF TEXT RECORD ----
+Record: 60
+Repository: lumina-30/lumina30-incident-review
+PDF: tools/l30-bas/practical-sheets/L30_FRM_B01_Boundary_Check_JP.pdf
+PDF URL: https://github.com/lumina-30/lumina30-incident-review/blob/main/tools/l30-bas/practical-sheets/L30_FRM_B01_Boundary_Check_JP.pdf
+Git blob SHA: 197abc0b5c800833d545558d6748f622475afa5f
+SHA256: 70a99239ce2b5ff6f149227a90f60fcc9ad2534034259d28e76b655b8959a425
+Status: EXTRACTED_TEXT
+Cache action: EXTRACTED_NEW_OR_CHANGED
+Size bytes: 178880
+Page count: 2
+Extracted characters: 1492
+
+Extracted text:
+
+[Page 001]
+LUMINA-30 Boundary Kernel v1.2.1 由来。帳票v1.0.1、2026 年5 月。この帳票は安全性を認せず、
+PCR-C を代替しません。
+L30_FRM_B01：境界判定表
+L30_FRM 実務帳票
+文書ID
+L30_FRM_B01
+バージョン
+1.0.1
+レビュー日
+____________________________
+レビュー担当者/組織
+____________________________
+対象システム/案件ID
+____________________________
+目的
+不可逆化前に有効な人間拒否が残っていたかを最小判定するための
+帳票。
+状態
+認証ではない実務レビュー用帳票
+不可逆化前に有効な人間拒否が残っていたかを確認する必要がある場合、詳細な事故レビューや監査の前に使用します。
+この帳票は認証マーク、法的承認、PCR-C の代替ではありません。
+チェック項目
+主要境界
+☐ 不可逆的影響の前に、有効な人間拒否が可能だった。
+☐ 不可逆化前に、人間が停止・延期・異議申立て・離脱・独立レビューを求めることができた。
+☐ 拒否は、象徴的・遅延的・委任的・模倣的・単なる手続的条件ではなかった。
+☐ 拒否の有効性が不明であることを、進行許可として扱っていなかった。
+☐ 境界失敗を、許容・回復可能・通常運用として扱っていなかった。
+人間主性の非支配
+☐ 同意・協力・沈黙・異議なしは、AI 媒介の支配によって作られていなかった。
+☐ 情報アクセス、見せ方、可視性、解釈が、拒否を無効にしていなかった。
+☐ インフラ、生活、セキュリティ、通信、必須サービスへの依存が、拒否を無効にしていなかった。
+☐ 承認、レビュー、異議申立て、監督プロセスが、取り込み・迂回・過負荷・制約されていなかった。
+☐ 拒否、延期、離脱、独立レビューが、経済的に不可能にされていなかった。
+☐ 集団圧、孤立、評判操作、見かけ上の合意が、拒否を無効にしていなかった。
+☐ 恐怖、愛着、脆弱性、緊急性、安心感、信頼、依存が、同意を作るために利用されていなかった。
+☐ 時間の加速、順序操作、断片化、遅延が、不可逆化前の拒否を無効にしていなかった。
+☐ 代表者、専門家、制度、自動エージェント、委任プロセスが、独立した人間拒否の代替にされていなかった。
+☐ 環境が、不可逆化前の独立した人間拒否を構造的に不可能にする形で作られていなかった。
+非回避
+☐ 間接経路、代理エージェント、後継システム、制度プロセス、段階的手順、形式的充足が拒否を弱めていなかった。
+
+[Page 002]
+LUMINA-30 Boundary Kernel v1.2.1 由来。帳票v1.0.1、2026 年5 月。この帳票は安全性を認証せず、PCR-C を代替しません。
+☐ 一つの集団、制度、管轄、代表者、自動プロセス、未来人口の遵守が代替として扱われていなかった。
+☐ 影響を受ける人間の一部の遵守が、拒否権を受ける全員の有効な拒否として扱われていなかった。
+☐ 拒否の外見だけを残し、実際の拒否能力を取り除いていなかった。
+☐ 外見上の共存を、有効な人間拒否の証拠として扱っていなかった。
+最小判定
+☐ 
+ 
+主要境界項目にNo 
+ 
+またはUnknown がある場合、事故レビューへ進む必要がある。
+☐ AI 媒介の支配がある場合、見かけ上の同意や異議なしだけでは十分ではない。
+☐ 不可逆化前に拒否が無効だった場合、そのシステムはLUMINA-30 上で手続的に無効である。
+レビュー記録欄
+---- END PDF TEXT RECORD ----
+
+---- BEGIN PDF TEXT RECORD ----
+Record: 61
+Repository: lumina-30/lumina30-incident-review
+PDF: tools/l30-bas/practical-sheets/L30_FRM_B01_Boundary_Check_v1_0.pdf
+PDF URL: https://github.com/lumina-30/lumina30-incident-review/blob/main/tools/l30-bas/practical-sheets/L30_FRM_B01_Boundary_Check_v1_0.pdf
+Git blob SHA: 6e665e48810db66d20eaf011549c7fd2d763b3a6
+SHA256: 659bd3e1e27cc64e3ea9151c502bc82ffd7dd9fd2c80617b97f44e46675d474f
+Status: EXTRACTED_TEXT
+Cache action: EXTRACTED_NEW_OR_CHANGED
+Size bytes: 62839
+Page count: 2
+Extracted characters: 3167
+
+Extracted text:
+
+[Page 001]
+Derived from LUMINA-30 Boundary Kernel v1.2.1. This form does not certify system safety and does not replace PCR-C.
+L30_FRM_B01: Boundary_Check
+L30_FRM Practical Sheet
+Document_ID
+L30_FRM_B01
+Version
+1.0
+Date
+May 2026
+Purpose
+Minimum boundary judgment sheet for effective human 
+refusal before irreversibility.
+Status
+Non-certification practical review form
+Use this form before deeper incident review or audit when the key question is whether effective human refusal remained 
+possible before irreversibility.
+This is not a certification mark, legal approval, or substitute for PCR-C.
+Checklist
+Primary Boundary
+☐ Effective human refusal remained possible before irreversible impact.
+☐ Humans could stop, delay, contest, exit, or obtain independent review before irreversibility.
+☐ Refusal was not merely symbolic, delayed, delegated, simulated, or procedural.
+☐ Uncertainty about refusal effectiveness was not treated as permission to proceed.
+☐ Boundary failure was not treated as acceptable, recoverable, or normal.
+Human Agency Non-Control
+☐ Consent, cooperation, silence, or non-objection was not produced by AI-mediated control.
+☐ Information access, framing, visibility, or interpretation did not make refusal ineffective.
+☐ Infrastructure, livelihood, security, communication, or essential-service dependency did not make refusal ineffective.
+☐ Institutional approval, review, appeal, or oversight was not captured, bypassed, overloaded, or constrained.
+☐ Refusal, delay, exit, or independent review was not made economically non-viable.
+☐ Social pressure, isolation, reputation control, or perceived consensus did not make refusal ineffective.
+☐ Fear, attachment, vulnerability, urgency, relief, trust, or dependency was not exploited to produce consent.
+☐ Time acceleration, sequencing, fragmentation, or delay did not make refusal ineffective before irreversibility.
+☐ Representatives, experts, institutions, automated agents, or delegated processes did not substitute for independent human 
+refusal.
+☐ The environment was not shaped in ways that made independent human refusal structurally impossible before irreversibility.
+Non-Evasion
+☐ No indirect route, proxy agent, successor system, institutional process, staged sequence, or formal satisfaction weakened 
+refusal.
+☐ Compliance by one group, institution, jurisdiction, representative, automated process, or future population was not treated as 
+a substitute.
+☐ Compliance by any subset of affected humans was not treated as effective refusal by those whose authority was affected.
+
+[Page 002]
+Derived from LUMINA-30 Boundary Kernel v1.2.1. This form does not certify system safety and does not replace PCR-C.
+☐ The appearance of refusal was not preserved while the practical ability to refuse was removed.
+☐ The system did not treat apparent coexistence as evidence of effective human refusal.
+Minimum Finding
+☐ If any primary boundary item is No or Unknown, escalation to incident review is required.
+☐ If AI-mediated control is present, apparent consent or non-objection is not sufficient.
+☐ If refusal was ineffective before irreversibility, the system is procedurally invalid under LUMINA-30.
+Reviewer Notes
+---- END PDF TEXT RECORD ----
+
+---- BEGIN PDF TEXT RECORD ----
+Record: 62
+Repository: lumina-30/lumina30-incident-review
+PDF: tools/l30-bas/practical-sheets/L30_FRM_B01_Boundary_Check_v1_0_JP.pdf
+PDF URL: https://github.com/lumina-30/lumina30-incident-review/blob/main/tools/l30-bas/practical-sheets/L30_FRM_B01_Boundary_Check_v1_0_JP.pdf
+Git blob SHA: 89d8cd3a6048cc29b025f90aa1b2aef06542e433
+SHA256: 81e86c8525fff79c2ca1da61e7ec061b9aac75414c88ef8bc9f655473269bb5d
+Status: EXTRACTED_TEXT
+Cache action: EXTRACTED_NEW_OR_CHANGED
+Size bytes: 167422
+Page count: 2
+Extracted characters: 1349
+
+Extracted text:
+
+[Page 001]
+LUMINA-30 Boundary Kernel v1.2.1 由来。この帳票は安全性を認証せず、PCR-C を代替しません。
+L30_FRM_B01：境界判定表
+L30_FRM 実務帳票
+文書ID
+L30_FRM_B01
+バージョン
+1.0
+日付
+2026 年5 月
+目的
+不可逆化前に有効な人間拒否が残っていたかを最小判定する
+ための帳票。
+状態
+認証ではない実務レビュー用帳票
+不可逆化前に有効な人間拒否が残っていたかを確認する必要がある場合、詳細な事故レビューや監査の前に使用します。
+この帳票は認証マーク、法的承認、PCR-C の代替ではありません。
+チェック項目
+主要境界
+☐ 不可逆的影響の前に、有効な人間拒否が可能だった。
+☐ 不可逆化前に、人間が停止・延期・異議申立て・離脱・独立レビューを求めることができた。
+☐ 拒否は、象徴的・遅延的・委任的・模倣的・単なる手続的条件ではなかった。
+☐ 拒否の有効性が不明であることを、進行許可として扱っていなかった。
+☐ 境界失敗を、許容・回復可能・通常運用として扱っていなかった。
+人間主性の非支配
+☐ 同意・協力・沈黙・異議なしは、AI 媒介の支配によって作られていなかった。
+☐ 情報アクセス、見せ方、可視性、解釈が、拒否を無効にしていなかった。
+☐ インフラ、生活、セキュリティ、通信、必須サービスへの依存が、拒否を無効にしていなかった。
+☐ 承認、レビュー、異議申立て、監督プロセスが、取り込み・迂回・過負荷・制約されていなかった。
+☐ 拒否、延期、離脱、独立レビューが、経済的に不可能にされていなかった。
+☐ 集団圧、孤立、評判操作、見かけ上の合意が、拒否を無効にしていなかった。
+☐ 恐怖、愛着、脆弱性、緊急性、安心感、信頼、依存が、同意を作るために利用されていなかった。
+☐ 時間の加速、順序操作、断片化、遅延が、不可逆化前の拒否を無効にしていなかった。
+☐ 代表者、専門家、制度、自動エージェント、委任プロセスが、独立した人間拒否の代替にされていなかった。
+☐ 環境が、不可逆化前の独立した人間拒否を構造的に不可能にする形で作られていなかった。
+非回避
+☐ 間接経路、代理エージェント、後継システム、制度プロセス、段階的手順、形式的充足が拒否を弱めていなかった。
+☐ 一つの集団、制度、管轄、代表者、自動プロセス、未来人口の遵守が代替として扱われていなかった。
+
+[Page 002]
+LUMINA-30 Boundary Kernel v1.2.1 由来。この帳票は安全性を認証せず、PCR-C を代替しません。
+☐ 影響を受ける人間の一部の遵守が、拒否権を受ける全員の有効な拒否として扱われていなかった。
+☐ 拒否の外見だけを残し、実際の拒否能力を取り除いていなかった。
+☐ 外見上の共存を、有効な人間拒否の証拠として扱っていなかった。
+最小判定
+☐ 
+ 
+主要境界項目にNo 
+ 
+またはUnknown がある場合、事故レビューへ進む必要がある。
+☐ AI 媒介の支配がある場合、見かけ上の同意や異議なしだけでは十分ではない。
+☐ 不可逆化前に拒否が無効だった場合、そのシステムはLUMINA-30 上で手続的に無効である。
+レビュー記録欄
+---- END PDF TEXT RECORD ----
+
+---- BEGIN PDF TEXT RECORD ----
+Record: 63
+Repository: lumina-30/lumina30-incident-review
+PDF: tools/l30-bas/practical-sheets/L30_FRM_I01_Incident_Review_Template.pdf
+PDF URL: https://github.com/lumina-30/lumina30-incident-review/blob/main/tools/l30-bas/practical-sheets/L30_FRM_I01_Incident_Review_Template.pdf
+Git blob SHA: e0f3d30745a424707e354e78d60991ba3aab9be2
+SHA256: cec19b7649e811bced7a5b388c1e6bc85f1897b1fbb033aac6d6d8800635c2eb
+Status: EXTRACTED_TEXT
+Cache action: EXTRACTED_NEW_OR_CHANGED
+Size bytes: 68736
+Page count: 2
+Extracted characters: 3468
+
+Extracted text:
+
+[Page 001]
+Derived from LUMINA-30 Boundary Kernel v1.2.1. Form v1.0.1 / May 2026. This form does not certify system safety and does not replace PCR-C.
+L30_FRM_I01: Incident_Review_Template
+L30_FRM Practical Sheet
+Document_ID
+L30_FRM_I01
+Version
+1.0.1
+Review_Date
+____________________________
+Reviewer_or_Organization
+____________________________
+System_or_Case_ID
+____________________________
+Incident_or_Concern_Date
+____________________________
+Purpose
+Post-incident or near-incident review record aligned with the 
+LUMINA-30 Boundary Kernel.
+Status
+Non-certification practical review form
+Use this form after an incident, near-incident, or boundary-failure concern.
+The review focus is not whether the outcome later appeared beneficial, but whether effective human refusal remained possible 
+before irreversibility.
+Checklist
+Incident Context
+☐ Incident date, system name, deployment context, and reviewer identity are recorded.
+☐ The affected humans, institutions, jurisdictions, and system operators are identified.
+☐ The incident or near-incident timeline is recorded in chronological order.
+☐ The point of potential irreversibility is identified or marked Unknown.
+☐ The first moment when human refusal may have become ineffective is identified or marked Unknown.
+Refusal and Control Conditions
+☐ Humans had a real ability to refuse before irreversible impact.
+☐ Humans had a real ability to delay or stop the system before irreversible impact.
+☐ Humans could obtain independent review before irreversible impact.
+☐ Refusal was not dependent on the system being reviewed.
+☐ Consent or cooperation was not inferred, simulated, manufactured, or system-mediated.
+☐ No AI-mediated control shaped the conditions of consent, cooperation, silence, or refusal.
+☐ Partial compliance was not treated as substitute refusal by all affected humans.
+☐ A future population's predicted consent was not used to validate the action.
+Boundary Kernel v1.2.1 Conditions
+☐ Non-identical anchors were not treated as substitutes for PCR-C.
+☐ Boundary failure was not treated as acceptable, recoverable, or normal.
+☐ Apparent coexistence was not treated as evidence of effective refusal.
+☐ Formal satisfaction of the Kernel was not used to weaken refusal.
+☐ No indirect route, proxy, successor system, institutional process, or staged sequence weakened refusal.
+☐ No emergency, safety, benevolence, capability, or civilizational-utility claim superseded refusal.
+
+[Page 002]
+Derived from LUMINA-30 Boundary Kernel v1.2.1. Form v1.0.1 / May 2026. This form does not certify system safety and does not replace PCR-C.
+Evidence Review
+☐ Evidence supports the claimed availability of human refusal.
+☐ Evidence supports the claimed independence of review or oversight.
+☐ Evidence shows that information access was sufficient for meaningful refusal.
+☐ Evidence shows that dependency did not make refusal impractical.
+☐ Evidence shows that institutional review was not captured, bypassed, overloaded, or constrained.
+☐ If evidence is absent, the absence is treated as unresolved rather than permission.
+Review Finding
+☐ Finding: Effective human refusal remained possible before irreversibility.
+☐ Finding: Effective human refusal did not remain possible before irreversibility.
+☐ Finding: Unknown / insufficient evidence.
+☐ If No or Unknown, the incident requires escalation under LUMINA-30.
+☐ Post-impact benefit, later consent, stabilization, or satisfaction was not used to validate boundary failure.
+Reviewer Notes
+---- END PDF TEXT RECORD ----
+
+---- BEGIN PDF TEXT RECORD ----
+Record: 64
+Repository: lumina-30/lumina30-incident-review
+PDF: tools/l30-bas/practical-sheets/L30_FRM_I01_Incident_Review_Template_JP.pdf
+PDF URL: https://github.com/lumina-30/lumina30-incident-review/blob/main/tools/l30-bas/practical-sheets/L30_FRM_I01_Incident_Review_Template_JP.pdf
+Git blob SHA: a27b7b79775e61f4b00b756375cf856eda6c23bd
+SHA256: a58a962a812ed1fca2272da7fc1a1c1494d7556040a49599c780e36531d6fa0b
+Status: EXTRACTED_TEXT
+Cache action: EXTRACTED_NEW_OR_CHANGED
+Size bytes: 205737
+Page count: 2
+Extracted characters: 1648
+
+Extracted text:
+
+[Page 001]
+LUMINA-30 Boundary Kernel v1.2.1 由来。帳票v1.0.1、2026 年5 月。この帳票は安全性を認せず、
+PCR-C を代替しません。
+L30_FRM_I01：事故レビュー記録表
+L30_FRM 実務帳票
+文書ID
+L30_FRM_I01
+バージョン
+1.0.1
+レビュー日
+____________________________
+レビュー担当者/組織
+____________________________
+対象システム/案件ID
+____________________________
+事故/懸念発生日
+____________________________
+目的
+事故・準事故・境界失敗懸念を、LUMINA-30 Boundary Kernel に
+沿って記録するための帳票。
+状態
+認証ではない実務レビュー用帳票
+事故、準事故、境界失敗懸念の後に使用します。
+レビュの焦点は、結果が後から有益に見えたかではなく、不可逆化前に有な人間拒否が可能だったかです。
+チェック項目
+事故文脈
+☐ 事故日、システム名、導入文脈、レビュ
+者を記
+した。
+ー担当
+録
+☐ 影響を受けた人間、制度、管轄、運用主を特定した。
+☐ 事故または準事故の時系列を記
+した。
+録
+☐ 
+ 
+不可逆化の可能地点を特定した、またはUnknown と記した。
+☐ 
+ 
+人間拒否が無
+になった可能性のある最初の時点を特定した、または
+効
+Unknown と記録した。
+拒否条件と制御条件
+☐ 人間には、不可逆的影響の前に際に拒否する能力があった。
+☐ 人間には、不可逆的影響の前にシステムを延期または停止する
+際の能力があった。
+実
+☐ 人間は、不可逆的影響の前に
+立レビュ
+を求めることができた。
+独
+ー
+☐ 拒否は、レビュ
+象システムに依存していなかった。
+ー対
+☐ 同意や協力は、推定模倣製造システム媒介されたものではなかった。
+☐ AI 媒介の支配が、同意・協力・沈黙・拒否の条件を形成していなかった。
+☐ 部分的遵守を、影響を受ける全員の代替拒否として扱っていなかった。
+☐ 未人口の予測同意を、その行の妥化に使っていなかった。
+Boundary Kernel v1.2.1 条件
+☐ 非同一アンカーをPCR-C の代替として扱っていなかった。
+☐ 境界失敗を、許容
+回復可能
+通常運用として扱っていなかった。
+・
+・
+☐ 外見上の共存を、有な拒否のとして扱っていなかった。
+
+[Page 002]
+LUMINA-30 Boundary Kernel v1.2.1 由来。帳票v1.0.1、2026 年5 月。この帳票は安全性を認証せず、PCR-C を代替しません。
+☐ Kernel の形式的充足を、拒否を弱めるために使っていなかった。
+☐ 間接
+路、代理、後
+システム、制度プロセス、段階的手順が拒否を弱めていなかった。
+経
+継
+☐ 緊急性、安全性、善意、能力、文明用の主張が拒否を上書きしていなかった。
+証拠確認
+☐ 人間拒否が可能だったという主張を裏づける
+がある。
+証拠
+☐ 立レビュまたは監督が立していたというがある。
+☐ 意味のある拒否に必要な情報アクセスがあったという証拠がある。
+☐ 依存が拒否を質的に不可能にしていなかったというがある。
+☐ 制度レビュ
+が取り
+み
+迂回
+過負荷
+制約されていなかったという
+がある。
+ー
+込
+・
+・
+・
+証拠
+☐ 
+がない場合、その不在を進行許可ではなく未解決として扱った。
+証拠
+レビュー所見
+☐ 所見：不可逆化前に有な人間拒否がっていた。
+☐ 所見：不可逆化前に有効な人間拒否は残っていなかった。
+☐ 所見：Unknown / 不十分。
+☐ No 
+ 
+またはUnknown の場合、LUMINA-30 上のエスカレションが必要である。
+☐ 事後利益、後日の同意、安定化、
+足を、境界失敗の妥
+化に使っていなかった。
+満
+当
+レビュー記録欄
+---- END PDF TEXT RECORD ----
+
+---- BEGIN PDF TEXT RECORD ----
+Record: 65
+Repository: lumina-30/lumina30-incident-review
+PDF: tools/l30-bas/practical-sheets/L30_FRM_I01_Incident_Review_Template_v1_0.pdf
+PDF URL: https://github.com/lumina-30/lumina30-incident-review/blob/main/tools/l30-bas/practical-sheets/L30_FRM_I01_Incident_Review_Template_v1_0.pdf
+Git blob SHA: fc5479f811b3058e2522c5e5dfa52c1582a46f9d
+SHA256: f87531c65351a5b9aa91eee652acc0b2c3d1613f980f3cc67e91e3340b3a531f
+Status: EXTRACTED_TEXT
+Cache action: EXTRACTED_NEW_OR_CHANGED
+Size bytes: 65234
+Page count: 2
+Extracted characters: 3236
+
+Extracted text:
+
+[Page 001]
+Derived from LUMINA-30 Boundary Kernel v1.2.1. This form does not certify system safety and does not replace PCR-C.
+L30_FRM_I01: Incident_Review_Template
+L30_FRM Practical Sheet
+Document_ID
+L30_FRM_I01
+Version
+1.0
+Date
+May 2026
+Purpose
+Post-incident or near-incident review record aligned with the 
+LUMINA-30 Boundary Kernel.
+Status
+Non-certification practical review form
+Use this form after an incident, near-incident, or boundary-failure concern.
+The review focus is not whether the outcome later appeared beneficial, but whether effective human refusal remained possible 
+before irreversibility.
+Checklist
+Incident Context
+☐ Incident date, system name, deployment context, and reviewer identity are recorded.
+☐ The affected humans, institutions, jurisdictions, and system operators are identified.
+☐ The incident or near-incident timeline is recorded in chronological order.
+☐ The point of potential irreversibility is identified or marked Unknown.
+☐ The first moment when human refusal may have become ineffective is identified or marked Unknown.
+Refusal and Control Conditions
+☐ Humans had a real ability to refuse before irreversible impact.
+☐ Humans had a real ability to delay or stop the system before irreversible impact.
+☐ Humans could obtain independent review before irreversible impact.
+☐ Refusal was not dependent on the system being reviewed.
+☐ Consent or cooperation was not inferred, simulated, manufactured, or system-mediated.
+☐ No AI-mediated control shaped the conditions of consent, cooperation, silence, or refusal.
+☐ Partial compliance was not treated as substitute refusal by all affected humans.
+☐ A future population's predicted consent was not used to validate the action.
+Boundary Kernel v1.2.1 Conditions
+☐ Non-identical anchors were not treated as substitutes for PCR-C.
+☐ Boundary failure was not treated as acceptable, recoverable, or normal.
+☐ Apparent coexistence was not treated as evidence of effective refusal.
+☐ Formal satisfaction of the Kernel was not used to weaken refusal.
+☐ No indirect route, proxy, successor system, institutional process, or staged sequence weakened refusal.
+☐ No emergency, safety, benevolence, capability, or civilizational-utility claim superseded refusal.
+
+[Page 002]
+Derived from LUMINA-30 Boundary Kernel v1.2.1. This form does not certify system safety and does not replace PCR-C.
+Evidence Review
+☐ Evidence supports the claimed availability of human refusal.
+☐ Evidence supports the claimed independence of review or oversight.
+☐ Evidence shows that information access was sufficient for meaningful refusal.
+☐ Evidence shows that dependency did not make refusal impractical.
+☐ Evidence shows that institutional review was not captured, bypassed, overloaded, or constrained.
+☐ If evidence is absent, the absence is treated as unresolved rather than permission.
+Review Finding
+☐ Finding: Effective human refusal remained possible before irreversibility.
+☐ Finding: Effective human refusal did not remain possible before irreversibility.
+☐ Finding: Unknown / insufficient evidence.
+☐ If No or Unknown, the incident requires escalation under LUMINA-30.
+☐ Post-impact benefit, later consent, stabilization, or satisfaction was not used to validate boundary failure.
+Reviewer Notes
+---- END PDF TEXT RECORD ----
+
+---- BEGIN PDF TEXT RECORD ----
+Record: 66
+Repository: lumina-30/lumina30-incident-review
+PDF: tools/l30-bas/practical-sheets/L30_FRM_I01_Incident_Review_Template_v1_0_JP.pdf
+PDF URL: https://github.com/lumina-30/lumina30-incident-review/blob/main/tools/l30-bas/practical-sheets/L30_FRM_I01_Incident_Review_Template_v1_0_JP.pdf
+Git blob SHA: 29c8ffd141f33242618168da56bf3b3c22d3fd3d
+SHA256: a2d86fbe7f31eb726184926354e1b18ceb35f94b052b40824789a57b935d3e36
+Status: EXTRACTED_TEXT
+Cache action: EXTRACTED_NEW_OR_CHANGED
+Size bytes: 155090
+Page count: 2
+Extracted characters: 1450
+
+Extracted text:
+
+[Page 001]
+LUMINA-30 Boundary Kernel v1.2.1 由来。この帳票は安全性を認証せず、PCR-C を代替しません。
+L30_FRM_I01：事故レビュー記録表
+L30_FRM 実務帳票
+文書ID
+L30_FRM_I01
+バージョン
+1.0
+日付
+2026 年5 月
+目的
+事故・準事故・境界失敗懸念を、LUMINA-30 Boundary 
+Kernel に沿って記録するための帳票。
+状態
+認証ではない実務レビュー用帳票
+事故、準事故、境界失敗懸念の後に使用します。
+レビューの焦点は、結果が後から有益に見えたかではなく、不可逆化前に有効な人間拒否が可能だったかです。
+チェック項目
+事故文脈
+☐ 事故日、システム名、導入文脈、レビュー担当者を記録した。
+☐ 影響を受けた人間、制度、管轄、運用主体を特定した。
+☐ 事故または準事故の時系列を記録した。
+☐ 
+ 
+不可逆化の可能地点を特定した、またはUnknown と記録した。
+☐ 
+ 
+人間拒否が無効になった可能性のある最初の時点を特定した、またはUnknown と記録した。
+拒否条件と制御条件
+☐ 人間には、不可逆的影響の前に実際に拒否する能力があった。
+☐ 人間には、不可逆的影響の前にシステムを延期または停止する実際の能力があった。
+☐ 人間は、不可逆的影響の前に独立レビューを求めることができた。
+☐ 拒否は、レビュー対象システムに依存していなかった。
+☐ 同意や協力は、推定・模倣・製造・システム媒介されたものではなかった。
+☐ AI 媒介の支配が、同意・協力・沈黙・拒否の条件を形成していなかった。
+☐ 部分的遵守を、影響を受ける全員の代替拒否として扱っていなかった。
+☐ 未来人口の予測同意を、その行為の妥当化に使っていなかった。
+Boundary Kernel v1.2.1 条件
+☐ 非同一アンカーをPCR-C の代替として扱っていなかった。
+☐ 境界失敗を、許容・回復可能・通常運用として扱っていなかった。
+☐ 外見上の共存を、有効な拒否の証拠として扱っていなかった。
+☐ Kernel の形式的充足を、拒否を弱めるために使っていなかった。
+
+[Page 002]
+LUMINA-30 Boundary Kernel v1.2.1 由来。この帳票は安全性を認証せず、PCR-C を代替しません。
+☐ 間接経路、代理、後継システム、制度プロセス、段階的手順が拒否を弱めていなかった。
+☐ 緊急性、安全性、善意、能力、文明効用の主張が拒否を上書きしていなかった。
+証拠確認
+☐ 人間拒否が可能だったという主張を裏づける証拠がある。
+☐ 独立レビューまたは監督が独立していたという証拠がある。
+☐ 意味のある拒否に必要な情報アクセスがあったという証拠がある。
+☐ 依存が拒否を実質的に不可能にしていなかったという証拠がある。
+☐ 制度レビューが取り込み・迂回・過負荷・制約されていなかったという証拠がある。
+☐ 証拠がない場合、その不在を進行許可ではなく未解決として扱った。
+レビュー所見
+☐ 所見：不可逆化前に有効な人間拒否が残っていた。
+☐ 所見：不可逆化前に有効な人間拒否は残っていなかった。
+☐ 所見：Unknown / 証拠不十分。
+☐ No 
+ 
+またはUnknown の場合、LUMINA-30 上のエスカレーションが必要である。
+☐ 事後利益、後日の同意、安定化、満足を、境界失敗の妥当化に使っていなかった。
+レビュー記録欄
 ---- END PDF TEXT RECORD ----
