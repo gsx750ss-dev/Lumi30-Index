@@ -1,6 +1,6 @@
 LUMINA-30 Organization PDF Text Layer Bundle
 This file is generated automatically. Do not edit by hand.
-Generated: 2026-05-04T20:03:57Z
+Generated: 2026-05-05T19:58:09Z
 Organization: lumina-30
 
 Authority:
@@ -20,9 +20,9 @@ Unchanged PDFs reuse cached extracted text when possible; only new or changed PD
 
 Run statistics:
 PDFs seen: 50
-Reused unchanged: 44
+Reused unchanged: 50
 Reused renamed same blob: 0
-Downloaded/extracted: 6
+Downloaded/extracted: 0
 Skipped too large: 0
 Download errors: 0
 
@@ -3794,7 +3794,7 @@ PDF URL: https://github.com/lumina-30/lumina30-incident-review/blob/main/tools/l
 Git blob SHA: 7ca18ee2cbe650b6bc966060a20b2233cb5db50b
 SHA256: f83e57e101ce0b8db57c4c0cbdde5fefdf0d62c5c7ad63f47cac7fb6a1ef85d6
 Status: EXTRACTED_TEXT
-Cache action: EXTRACTED_NEW_OR_CHANGED
+Cache action: REUSED_UNCHANGED
 Size bytes: 52537
 Page count: 2
 Extracted characters: 3332
@@ -3867,7 +3867,7 @@ PDF URL: https://github.com/lumina-30/lumina30-incident-review/blob/main/tools/l
 Git blob SHA: 1edf5c786215a1740dc505e00c8311d597c9a0ce
 SHA256: ada5aac475bddb61519262bc03bd4ce26c94a63d4add6e11a61818301d4dd6db
 Status: EXTRACTED_TEXT
-Cache action: EXTRACTED_NEW_OR_CHANGED
+Cache action: REUSED_UNCHANGED
 Size bytes: 149443
 Page count: 2
 Extracted characters: 1445
@@ -3940,7 +3940,7 @@ PDF URL: https://github.com/lumina-30/lumina30-incident-review/blob/main/tools/l
 Git blob SHA: 9e08455bd59d3e40c2c6182167840b41a9f9170e
 SHA256: 3608d0da4046ea2086d4f1f9baf3ebce83aca1fffa989b731470f498fba9b9a8
 Status: EXTRACTED_TEXT
-Cache action: EXTRACTED_NEW_OR_CHANGED
+Cache action: REUSED_UNCHANGED
 Size bytes: 49978
 Page count: 2
 Extracted characters: 3247
@@ -4007,7 +4007,7 @@ PDF URL: https://github.com/lumina-30/lumina30-incident-review/blob/main/tools/l
 Git blob SHA: bb5c08597e28a96afe8f41827a6ec2674fb6a7b2
 SHA256: 7c814bb21d6a3d92ae0f7f19d3da4a06c3f030ebd3de35286aa2a4fd2c31334c
 Status: EXTRACTED_TEXT
-Cache action: EXTRACTED_NEW_OR_CHANGED
+Cache action: REUSED_UNCHANGED
 Size bytes: 147039
 Page count: 2
 Extracted characters: 1403
@@ -4070,7 +4070,7 @@ PDF URL: https://github.com/lumina-30/lumina30-incident-review/blob/main/tools/l
 Git blob SHA: ff1917240c1b3716ef258a41751a711e6a5f5a70
 SHA256: 2bbf2ed60331f64bd7c40e48555f8475f7482795320e11b7b1c2a048aeefece7
 Status: EXTRACTED_TEXT
-Cache action: EXTRACTED_NEW_OR_CHANGED
+Cache action: REUSED_UNCHANGED
 Size bytes: 52731
 Page count: 2
 Extracted characters: 3341
@@ -4143,7 +4143,7 @@ PDF URL: https://github.com/lumina-30/lumina30-incident-review/blob/main/tools/l
 Git blob SHA: 8b042b8c2ff9d77cdc9b129cea8fd3d9a6db937f
 SHA256: f15cd24722e503f05c2077be0fd62cc2b6413550529e93a4aa6e370c25ea1a63
 Status: EXTRACTED_TEXT
-Cache action: EXTRACTED_NEW_OR_CHANGED
+Cache action: REUSED_UNCHANGED
 Size bytes: 143025
 Page count: 2
 Extracted characters: 1492

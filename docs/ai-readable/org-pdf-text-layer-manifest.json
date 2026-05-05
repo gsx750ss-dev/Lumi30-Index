@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-04T20:03:57Z",
+  "generated_at": "2026-05-05T19:58:09Z",
   "notice": "This file is generated automatically. Do not edit by hand.",
   "organization": "lumina-30",
   "scope": "public repositories visible to this workflow",
@@ -21,9 +21,9 @@
   "repository_errors_count": 0,
   "stats": {
     "pdfs_seen": 50,
-    "reused_unchanged": 44,
+    "reused_unchanged": 50,
     "reused_renamed_same_blob": 0,
-    "downloaded_or_extracted": 6,
+    "downloaded_or_extracted": 0,
     "skipped_too_large": 0,
     "download_errors": 0
   },
@@ -836,7 +836,7 @@
       "char_count": 3332,
       "status": "EXTRACTED_TEXT",
       "error": null,
-      "cache_action": "EXTRACTED_NEW_OR_CHANGED"
+      "cache_action": "REUSED_UNCHANGED"
     },
     {
       "repository": "lumina30-incident-review",
@@ -854,7 +854,7 @@
       "char_count": 1445,
       "status": "EXTRACTED_TEXT",
       "error": null,
-      "cache_action": "EXTRACTED_NEW_OR_CHANGED"
+      "cache_action": "REUSED_UNCHANGED"
     },
     {
       "repository": "lumina30-incident-review",
@@ -872,7 +872,7 @@
       "char_count": 3247,
       "status": "EXTRACTED_TEXT",
       "error": null,
-      "cache_action": "EXTRACTED_NEW_OR_CHANGED"
+      "cache_action": "REUSED_UNCHANGED"
     },
     {
       "repository": "lumina30-incident-review",
@@ -890,7 +890,7 @@
       "char_count": 1403,
       "status": "EXTRACTED_TEXT",
       "error": null,
-      "cache_action": "EXTRACTED_NEW_OR_CHANGED"
+      "cache_action": "REUSED_UNCHANGED"
     },
     {
       "repository": "lumina30-incident-review",
@@ -908,7 +908,7 @@
       "char_count": 3341,
       "status": "EXTRACTED_TEXT",
       "error": null,
-      "cache_action": "EXTRACTED_NEW_OR_CHANGED"
+      "cache_action": "REUSED_UNCHANGED"
     },
     {
       "repository": "lumina30-incident-review",
@@ -926,7 +926,7 @@
       "char_count": 1492,
       "status": "EXTRACTED_TEXT",
       "error": null,
-      "cache_action": "EXTRACTED_NEW_OR_CHANGED"
+      "cache_action": "REUSED_UNCHANGED"
     }
   ],
   "repository_errors": []
