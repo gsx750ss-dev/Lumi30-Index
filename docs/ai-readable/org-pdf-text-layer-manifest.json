@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-06T20:10:32Z",
+  "generated_at": "2026-05-07T20:04:06Z",
   "notice": "This file is generated automatically. Do not edit by hand.",
   "organization": "lumina-30",
   "scope": "public repositories visible to this workflow",
@@ -21,9 +21,9 @@
   "repository_errors_count": 0,
   "stats": {
     "pdfs_seen": 52,
-    "reused_unchanged": 42,
-    "reused_renamed_same_blob": 3,
-    "downloaded_or_extracted": 7,
+    "reused_unchanged": 52,
+    "reused_renamed_same_blob": 0,
+    "downloaded_or_extracted": 0,
     "skipped_too_large": 0,
     "download_errors": 0
   },
@@ -782,7 +782,7 @@
       "char_count": 1445,
       "status": "EXTRACTED_TEXT",
       "error": null,
-      "cache_action": "REUSED_RENAMED_SAME_BLOB"
+      "cache_action": "REUSED_UNCHANGED"
     },
     {
       "repository": "lumina30-incident-review",
@@ -818,7 +818,7 @@
       "char_count": 1403,
       "status": "EXTRACTED_TEXT",
       "error": null,
-      "cache_action": "REUSED_RENAMED_SAME_BLOB"
+      "cache_action": "REUSED_UNCHANGED"
     },
     {
       "repository": "lumina30-incident-review",
@@ -836,7 +836,7 @@
       "char_count": 5755,
       "status": "EXTRACTED_TEXT",
       "error": null,
-      "cache_action": "EXTRACTED_NEW_OR_CHANGED"
+      "cache_action": "REUSED_UNCHANGED"
     },
     {
       "repository": "lumina30-incident-review",
@@ -854,7 +854,7 @@
       "char_count": 3652,
       "status": "EXTRACTED_TEXT",
       "error": null,
-      "cache_action": "EXTRACTED_NEW_OR_CHANGED"
+      "cache_action": "REUSED_UNCHANGED"
     },
     {
       "repository": "lumina30-incident-review",
@@ -872,7 +872,7 @@
       "char_count": 3341,
       "status": "EXTRACTED_TEXT",
       "error": null,
-      "cache_action": "EXTRACTED_NEW_OR_CHANGED"
+      "cache_action": "REUSED_UNCHANGED"
     },
     {
       "repository": "lumina30-incident-review",
@@ -890,7 +890,7 @@
       "char_count": 1492,
       "status": "EXTRACTED_TEXT",
       "error": null,
-      "cache_action": "REUSED_RENAMED_SAME_BLOB"
+      "cache_action": "REUSED_UNCHANGED"
     },
     {
       "repository": "lumina30-incident-review",
@@ -908,7 +908,7 @@
       "char_count": 4144,
       "status": "EXTRACTED_TEXT",
       "error": null,
-      "cache_action": "EXTRACTED_NEW_OR_CHANGED"
+      "cache_action": "REUSED_UNCHANGED"
     },
     {
       "repository": "lumina30-incident-review",
@@ -926,7 +926,7 @@
       "char_count": 3645,
       "status": "EXTRACTED_TEXT",
       "error": null,
-      "cache_action": "EXTRACTED_NEW_OR_CHANGED"
+      "cache_action": "REUSED_UNCHANGED"
     },
     {
       "repository": "lumina30-incident-review",
@@ -944,7 +944,7 @@
       "char_count": 3781,
       "status": "EXTRACTED_TEXT",
       "error": null,
-      "cache_action": "EXTRACTED_NEW_OR_CHANGED"
+      "cache_action": "REUSED_UNCHANGED"
     },
     {
       "repository": "lumina30-incident-review",
@@ -962,7 +962,7 @@
       "char_count": 3691,
       "status": "EXTRACTED_TEXT",
       "error": null,
-      "cache_action": "EXTRACTED_NEW_OR_CHANGED"
+      "cache_action": "REUSED_UNCHANGED"
     }
   ],
   "repository_errors": []
