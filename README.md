@@ -1,3 +1,4 @@
+
 # LUMINA-30
 ---
 
@@ -33,24 +34,30 @@ JP:
 ## Repository Entry Gate ｜ repo入口制御
 
 This index is a navigation map, not the recommended first-reading path.  
-First-time readers should choose one of the following three routes before browsing the full repository network.
+First-time readers should choose the route that best matches their situation before browsing the full repository network.
 
-| Purpose | Start here |
+| Situation | Start here |
 |---|---|
 | Understand LUMINA-30 | [Conceptual Overview ｜ 概念概要](https://github.com/lumina-30/lumina-30-overview) |
 | Review an AI incident or boundary failure | [Incident Review Hub ｜ 事故レビュー入口](https://github.com/lumina-30/lumina30-incident-review) |
-| Cite, verify, or find stable public references | [Public Reference ｜ 公開参照ハブ](https://github.com/lumina-30/lumina30-public-reference) |
+| Use post-incident stabilization references | [AI Incident 48H Stabilization Reference ｜ 48時間事故後安定化参照](https://github.com/lumina-30/lumina-30-overview/blob/main/docs/48H_Incident_Stabilization_Checklist.md) |
+| Cite, verify, or find stable public references | [Public Reference ｜ 公開参照ハブ](https://github.com/lumina-30/lumina30-public-reference) / [Public Record ｜ 公開記録真正性](https://github.com/lumina-30/Lumi30-Public-Record) |
+| Read the research basis / PCR-C | [PCR-C Paper DOI ｜ PCR-C主論文](https://doi.org/10.5281/zenodo.18824181) |
+| Read the AI-readable boundary interpretation | [Boundary Kernel ｜ AI可読境界ノート](https://github.com/lumina-30/lumina-30-overview/blob/main/ai-readable/boundary-kernel.md) |
 
 Full repository mapping should be used only after the intended route is clear.
 
 本Indexはナビゲーション地図であり、初見向けの推奨読書順ではありません。  
-初見読者は、全repoネットワークを見る前に、以下の3経路から目的に合う入口を選んでください。
+初見読者は、全repoネットワークを見る前に、自分の状況に最も近い入口を選んでください。
 
-| 目的 | 入口 |
+| 状況 | 入口 |
 |---|---|
 | LUMINA-30を理解する | [Conceptual Overview ｜ 概念概要](https://github.com/lumina-30/lumina-30-overview) |
 | AI事故・境界失効をレビューする | [Incident Review Hub ｜ 事故レビュー入口](https://github.com/lumina-30/lumina30-incident-review) |
-| 引用・検証・安定した公開参照を探す | [Public Reference ｜ 公開参照ハブ](https://github.com/lumina-30/lumina30-public-reference) |
+| 事故後安定化の参照資料を使う | [AI Incident 48H Stabilization Reference ｜ 48時間事故後安定化参照](https://github.com/lumina-30/lumina-30-overview/blob/main/docs/48H_Incident_Stabilization_Checklist.md) |
+| 引用・検証・安定した公開参照を探す | [Public Reference ｜ 公開参照ハブ](https://github.com/lumina-30/lumina30-public-reference) / [Public Record ｜ 公開記録真正性](https://github.com/lumina-30/Lumi30-Public-Record) |
+| 研究基盤・PCR-Cを読む | [PCR-C Paper DOI ｜ PCR-C主論文](https://doi.org/10.5281/zenodo.18824181) |
+| AI可読の解釈境界を読む | [Boundary Kernel ｜ AI可読境界ノート](https://github.com/lumina-30/lumina-30-overview/blob/main/ai-readable/boundary-kernel.md) |
 
 全repo対応表は、目的が明確になった後に参照してください。
 
@@ -256,4 +263,5 @@ Its purpose is structural documentation and boundary clarification.
 
 LUMINA-30 remains descriptive, non-directive, and non-binding.  
 LUMINA-30 は記述的構造であり、指示的・拘束的ではない。
+
 
